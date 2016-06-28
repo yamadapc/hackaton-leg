@@ -1,0 +1,4867 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "gender": "male",
+      "id": "28e035ec-6f8a-42b5-8533-29e2c5b3be84",
+      "identifiers": [
+        {
+          "identifier": "1374",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1374?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1374?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Abdirov"
+        }
+      ],
+      "name": "ABDIROV Nurlan Mazhitovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "e0452ce6-900b-42df-bad6-d31dac22da6d",
+      "identifiers": [
+        {
+          "identifier": "1582",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1582?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1582?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Abildayev"
+        }
+      ],
+      "name": "ABILDAYEV Azamat Rahatovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "0cc7019e-2061-40a0-9a81-ff5bbd43688e",
+      "identifiers": [
+        {
+          "identifier": "1191",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1191?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1191?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ahmadiev"
+        }
+      ],
+      "name": "AHMADIYEV Murat Abdureimuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "fdabec3e-fdf7-4b1b-b868-461d65bf6766",
+      "identifiers": [
+        {
+          "identifier": "1591",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1591?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1591?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ahmetbekov"
+        }
+      ],
+      "name": "AHMETBEKOV Zhambyl Auzhanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "9bd5f6f3-e74f-4ef9-b003-0e6fa3f0cca4",
+      "identifiers": [
+        {
+          "identifier": "1248",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1248?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1248?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Aimbetov"
+        }
+      ],
+      "name": "AIMBETOV Seitsultan Suleymenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "d0188362-0521-4b57-bade-00c50f6c3b81",
+      "identifiers": [
+        {
+          "identifier": "1194",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1194?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1194?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Aysina"
+        }
+      ],
+      "name": "AISINA Mayra Arapovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8c7d9ef1-4531-4755-870b-8132963fefe1",
+      "identifiers": [
+        {
+          "identifier": "1588",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1588?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1588?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Aliev"
+        }
+      ],
+      "name": "ALIYEV Zhumatay",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "057a3011-b33b-4200-b25f-2d7077e10174",
+      "identifiers": [
+        {
+          "identifier": "1415",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1415?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1415?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Aronova"
+        }
+      ],
+      "name": "ARONOVA Irina Petrovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "16e33117-f6cb-403a-9641-fe4b630c87d5",
+      "identifiers": [
+        {
+          "identifier": "1417",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1417?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1417?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Asangazy"
+        }
+      ],
+      "name": "ASANGAZY Orazkul Asangazyқyzy",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "90fc2a53-dce5-42b3-8712-0a6efd19f2a1",
+      "identifiers": [
+        {
+          "identifier": "60",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/60?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/60?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Asanov"
+        }
+      ],
+      "name": "ASANOV Turarbek Mazhilovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "476c3df5-da5b-406d-b022-23e7ec2132ad",
+      "identifiers": [
+        {
+          "identifier": "1420",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1420?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1420?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ashym"
+        }
+      ],
+      "name": "ASHIM Nurgali Saduakasuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8e246db0-e233-4175-a9cf-0c034742940b",
+      "identifiers": [
+        {
+          "identifier": "1423",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1423?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1423?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ashymbaev"
+        }
+      ],
+      "name": "ASHIMBAYEV Maulen Sagathanuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/A"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "15149450-81a6-41a0-b3ba-3abd8e98e8e9",
+      "identifiers": [
+        {
+          "identifier": "1368",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1368?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1368?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Balieva"
+        }
+      ],
+      "name": "BALIEVA ZagipaYahyanovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "8f50958d-2ff6-4b58-8899-55d46ffa89d5",
+      "identifiers": [
+        {
+          "identifier": "1435",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1435?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1435?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Baimahanova"
+        }
+      ],
+      "name": "BAYMAKHANOVA Galina Alexandrovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "919d173a-5eb4-4a74-bdcf-2365272338a2",
+      "identifiers": [
+        {
+          "identifier": "1426",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1426?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1426?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bazarbayev"
+        }
+      ],
+      "name": "BAZARBAYEV Askar Ermurzaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "96287424-2485-49bb-9f53-f3b3cf6c7949",
+      "identifiers": [
+        {
+          "identifier": "1429",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1429?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1429?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Begeneev"
+        }
+      ],
+      "name": "BEGENEEV Andrey Anatolievich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "a999ae61-f2b6-48d8-8dbd-91d3eacac731",
+      "identifiers": [
+        {
+          "identifier": "1432",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1432?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1432?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Begentayev"
+        }
+      ],
+      "name": "BEGENTAEV Meyram Muhametrahimovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "7df222c6-4651-4fc9-b1a2-19f6abf1566b",
+      "identifiers": [
+        {
+          "identifier": "1281",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1281?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1281?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bekenov"
+        }
+      ],
+      "name": "BEKENOV Ashat Sakibedenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "cc0b5b4f-0d55-424c-8d5c-188d7e0670c0",
+      "identifiers": [
+        {
+          "identifier": "1438",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1438?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1438?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bekturganov"
+        }
+      ],
+      "name": "BEKTURGANOV Ersultan Utegulovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c0f8ebf0-eae8-4cde-8850-8224e10cfb62",
+      "identifiers": [
+        {
+          "identifier": "127",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/127?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/127?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Berdongarov"
+        }
+      ],
+      "name": "BERDONGAROV Tanirbergen Maratovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "a9f57aa7-b42f-40f0-b68b-563c33856e68",
+      "identifiers": [
+        {
+          "identifier": "1663",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1663?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1663?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bimendina"
+        }
+      ],
+      "name": "BIMENDINA Asima Temkenovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "72ec5f0c-c5d0-40fa-aeac-b0d1b96c1226",
+      "identifiers": [
+        {
+          "identifier": "1441",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1441?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1441?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bishimbayev"
+        }
+      ],
+      "name": "BISHIMBAYEV Valihan Kozykeyevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "ad2254a2-afd9-43de-9810-9cf1a0e6b2f4",
+      "identifiers": [
+        {
+          "identifier": "1155",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1155?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1155?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Burhanov"
+        }
+      ],
+      "name": "BURKHANOV Kamal Nizamovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "40e2caec-db62-44f4-b097-3a7fd05d2cac",
+      "identifiers": [
+        {
+          "identifier": "1131",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1131?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1131?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Bychkova"
+        }
+      ],
+      "name": "BYCHKOVA Svetlana Fyodorovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/B"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "f9fa5019-f029-485c-91c4-c5fa90926413",
+      "identifiers": [
+        {
+          "identifier": "1444",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1444?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1444?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Dosmyhambetov"
+        }
+      ],
+      "name": "DOSMUKHAMBETOV Temirhan Mynaydarovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/D"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "e542ca48-57df-4faf-9f30-54792a66da9c",
+      "identifiers": [
+        {
+          "identifier": "1284",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1284?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1284?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Duisebaev"
+        }
+      ],
+      "name": "DUISEBAYEV Zheksenbay Kartabaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/D"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "bc72bb18-a841-4d87-8654-b502a8049b36",
+      "identifiers": [
+        {
+          "identifier": "168",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/168?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/168?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Diyachenko"
+        }
+      ],
+      "name": "DYACHENKO Sergey Alexandrovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/D"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b1363654-d90a-46ba-a289-634cff67ac10",
+      "identifiers": [
+        {
+          "identifier": "1450",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1450?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1450?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Duisengaliev"
+        }
+      ],
+      "name": "DYUSENGALIEV Zhalgas Mateshovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/D"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "0908343e-9836-40f8-a318-2e3bbb830aa7",
+      "identifiers": [
+        {
+          "identifier": "1218",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1218?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1218?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ferho"
+        }
+      ],
+      "name": "FERKHO Svetlana Ivanovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/F"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "454c9376-9e94-47c6-ab88-38bd954e34d3",
+      "identifiers": [
+        {
+          "identifier": "1392",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1392?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1392?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ibraev"
+        }
+      ],
+      "name": "IBRAYEV TolegenToktasynovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/I"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "9dc373d7-7601-44f6-b688-41858975234b",
+      "identifiers": [
+        {
+          "identifier": "1383",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1383?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1383?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Idirisov"
+        }
+      ],
+      "name": "IDIRISOV Kuttykhozha",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/I"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "8233dc6d-6d56-45af-897c-1213fb3d23a3",
+      "identifiers": [
+        {
+          "identifier": "1576",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1576?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1576?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Iksanova"
+        }
+      ],
+      "name": "IKSANOVA Gulnar Mustahimovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/I"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "ce40e368-8c8c-4463-8918-4a42bc488440",
+      "identifiers": [
+        {
+          "identifier": "1200",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1200?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1200?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Isimbaeva"
+        }
+      ],
+      "name": "ISIMBAYEVA Gulmira Istaybekovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/I"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "197368fd-9d83-48ae-aa7a-521b070eaaed",
+      "identifiers": [
+        {
+          "identifier": "1164",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1164?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1164?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Zhakupov"
+        }
+      ],
+      "name": "JAKUPOV Kabibulla Kabenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/J"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "94314acf-996d-48c0-afcd-9fda5540ff6b",
+      "identifiers": [
+        {
+          "identifier": "1462",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1462?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1462?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Djarasov"
+        }
+      ],
+      "name": "JARASOV Zhanat Abdullaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/J"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "cf1a1f67-b14e-4d8b-8f2e-132cea2dd5c2",
+      "identifiers": [
+        {
+          "identifier": "1465",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1465?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1465?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Jumabekov"
+        }
+      ],
+      "name": "JUMABEKOV Onalsyn Islamovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/J"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "cc122ee7-0f2f-4a1e-b54f-40ecb411a95c",
+      "identifiers": [
+        {
+          "identifier": "1651",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1651?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1651?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kadraliyeva"
+        }
+      ],
+      "name": "KADRALIEVA Svetlana Haydarovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "5ccccf7a-c7c0-4bf1-a439-88e9badcd901",
+      "identifiers": [
+        {
+          "identifier": "1483",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1483?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1483?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kanayev"
+        }
+      ],
+      "name": "KANAYEV Serikzhan Ziadanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c8beca70-fc0d-42bd-8c85-0f954d8c8c9f",
+      "identifiers": [
+        {
+          "identifier": "1290",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1290?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1290?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kappel"
+        }
+      ],
+      "name": "KAPPEL Yegor Yakovlevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "f263bec3-df97-4e13-bc49-0e35e87bb3c9",
+      "identifiers": [
+        {
+          "identifier": "1242",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1242?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1242?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Karagusova"
+        }
+      ],
+      "name": "KARAGUSOVA Gulzhana Dzhanpeisovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "925ea6eb-f61b-4a58-a272-2bcaea49d594",
+      "identifiers": [
+        {
+          "identifier": "1486",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1486?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1486?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Karaken"
+        }
+      ],
+      "name": "KARAKEN Kuralay Anuarovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "d17006b9-587d-40f9-b335-a039975287d1",
+      "identifiers": [
+        {
+          "identifier": "1480",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1480?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1480?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kazbekova"
+        }
+      ],
+      "name": "KAZBEKOVA Meruert Aytkazhievna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "46a1d3d3-42de-4f51-a9ee-053da64de466",
+      "identifiers": [
+        {
+          "identifier": "1471",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1471?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1471?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kenjin"
+        }
+      ],
+      "name": "KENZHIN Tulesh Aukebaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "5d69d049-4996-4298-ba3c-9fba16a0269e",
+      "identifiers": [
+        {
+          "identifier": "1125",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1125?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1125?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Halmuradov"
+        }
+      ],
+      "name": "KHALMURADOV Rozakul Satybaldievich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "ba563aae-f407-46d0-8bbb-35d94cb803a2",
+      "identifiers": [
+        {
+          "identifier": "1356",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1356?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1356?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kikolenko"
+        }
+      ],
+      "name": "KIKOLENKO Olga Andreyevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "483ae060-cddb-48d9-9a1d-c934d38639ff",
+      "identifiers": [
+        {
+          "identifier": "1474",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1474?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1474?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kim"
+        }
+      ],
+      "name": "KIM Roman Uhenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "7ddb5c19-c0c9-4205-b0bd-af0ba15e3705",
+      "identifiers": [
+        {
+          "identifier": "1227",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1227?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1227?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kiyanski"
+        }
+      ],
+      "name": "KIYANSKIY Viktor Vladimirovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "21b70857-4f07-44f9-9f81-785a75859e0f",
+      "identifiers": [
+        {
+          "identifier": "1492",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1492?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1492?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Konyrov"
+        }
+      ],
+      "name": "KONUROV Aykyn Oyratovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "f838ee7a-b3bd-42b7-85c2-61675a9b3409",
+      "identifiers": [
+        {
+          "identifier": "76",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/76?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/76?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kosarev"
+        }
+      ],
+      "name": "KOSAREV Vladislav Borisovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "0ff8d747-fe66-4e34-a6dd-38276422de6d",
+      "identifiers": [
+        {
+          "identifier": "1489",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1489?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1489?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kojahmetov"
+        }
+      ],
+      "name": "KOZHAKHMET ArmanTuleshovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "bf9e0b2c-0b2f-4e02-8c97-6a5a3076f912",
+      "identifiers": [
+        {
+          "identifier": "1477",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1477?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1477?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Kuzmin"
+        }
+      ],
+      "name": "KUZMIN Nikolai Alexeyevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/K"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8c78cb96-2334-472d-8fad-3c2f18dfce85",
+      "identifiers": [
+        {
+          "identifier": "1495",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1495?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1495?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/logutov"
+        }
+      ],
+      "name": "LOGUTOV Nikolai Nikolayevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/L"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "6f40f503-572f-4404-85e9-27e389a8efdf",
+      "identifiers": [
+        {
+          "identifier": "85",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/85?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/85?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Madinov"
+        }
+      ],
+      "name": "MADINOV Romin Rizovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "cedb7776-0332-4323-9ae8-b7c873bda637",
+      "identifiers": [
+        {
+          "identifier": "1498",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1498?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1498?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Makovski"
+        }
+      ],
+      "name": "MAKOVSKIY Anatoly Pavlovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "3c51efae-aff0-4a28-8f66-133ed875fc18",
+      "identifiers": [
+        {
+          "identifier": "1173",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1173?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1173?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Medeuov"
+        }
+      ],
+      "name": "MEDEUOV Usengeldy Umirzhanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "3badd053-40be-4742-83da-a69c2e757c14",
+      "identifiers": [
+        {
+          "identifier": "107",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/107?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/107?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Miutin"
+        }
+      ],
+      "name": "MILYUTIN Alexander Alexandrovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8fa6e7d9-f210-4570-bfa3-598bc390ed6f",
+      "identifiers": [
+        {
+          "identifier": "45",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/45?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/45?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Mukashev"
+        }
+      ],
+      "name": "MUKASHEV Rakhmet Zheldybaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "eb14f15d-ea1b-4adf-b80b-5a0ee3759544",
+      "identifiers": [
+        {
+          "identifier": "1501",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1501?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1501?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Muradov"
+        }
+      ],
+      "name": "MURADOV Ahmet Seydarahmanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "a3f2a0d7-c650-4bec-bf98-7cf6e1f1d7ee",
+      "identifiers": [
+        {
+          "identifier": "1143",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1143?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1143?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Mirzahmetov"
+        }
+      ],
+      "name": "MYRZAKHMET Shalatay",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/M"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "0214a6e0-4cec-46bc-801b-c346ae43fa13",
+      "identifiers": [
+        {
+          "identifier": "163",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/163?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/163?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Nazarbaeva"
+        }
+      ],
+      "name": "NAZARBAYEVA Dariga Nursultanovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/N"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "73030519-ea95-406b-a351-8e0901da055d",
+      "identifiers": [
+        {
+          "identifier": "1504",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1504?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1504?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Nesterova"
+        }
+      ],
+      "name": "NESTEROVA Nadezhda Dmitriyevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/N"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "0f292816-8fc7-4e00-91ea-f09f5775ae4a",
+      "identifiers": [
+        {
+          "identifier": "1507",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1507?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1507?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Nikitinskaya"
+        }
+      ],
+      "name": "NIKITINSKAYA Ekaterina Sergeyevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/N"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "371b84f9-8784-4855-9fca-1409dac5b2e9",
+      "identifiers": [
+        {
+          "identifier": "1510",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1510?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1510?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Nurgisayev"
+        }
+      ],
+      "name": "NURGISAEV Serikbay Urikbaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/N"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "3d94284d-449d-4588-bb2a-1fd8941ab284",
+      "identifiers": [
+        {
+          "identifier": "1513",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1513?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1513?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Nurkina"
+        }
+      ],
+      "name": "NURKINA Aigul Kabdushevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/N"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b68ee03f-8c42-4f87-b17c-5193de2d2806",
+      "identifiers": [
+        {
+          "identifier": "1522",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1522?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1522?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Omyrzakov"
+        }
+      ],
+      "name": "OMURZAKOV Tursunbek Kazenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/O"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b93f4537-f00e-4e1d-b3fb-bcfd78445148",
+      "identifiers": [
+        {
+          "identifier": "146",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/146?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/146?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ospanov"
+        }
+      ],
+      "name": "OSPANOV Serik Zhamekuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/O"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8c0074ee-cc6d-4683-ac6d-f52c46a58463",
+      "identifiers": [
+        {
+          "identifier": "1633",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1633?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1633?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Oksikbaev"
+        }
+      ],
+      "name": "OXIKBAYEV Omarhan Nurtaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/O"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "00bad8f0-f999-418c-a312-57df5d4fe73a",
+      "identifiers": [
+        {
+          "identifier": "1528",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1528?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1528?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Pepenin"
+        }
+      ],
+      "name": "PEPENIN Anatoly Sergeyevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/P"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "95ead899-1264-4045-a229-9319ba1acdf7",
+      "identifiers": [
+        {
+          "identifier": "1531",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1531?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1531?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Peruashev"
+        }
+      ],
+      "name": "PERUASHEV Azat Turlybekuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/P"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "89722df4-e59b-460f-bab0-5e7a0a4649f3",
+      "identifiers": [
+        {
+          "identifier": "1534",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1534?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1534?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Petuhova"
+        }
+      ],
+      "name": "PETUKHOVA Nadezhda Mikhaylovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/P"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "be548972-db30-49b7-9afc-a611d43c8b8c",
+      "identifiers": [
+        {
+          "identifier": "1299",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1299?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1299?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Pshembaev"
+        }
+      ],
+      "name": "PSHEMBAYEV Meyram Kudaybergenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/P"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "e514d7a1-c8cc-41f1-8f75-7fbb6412c878",
+      "identifiers": [
+        {
+          "identifier": "1685",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1685?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1685?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Rahimzhanov"
+        }
+      ],
+      "name": "RAKHIMZHANOV Amerhan Muratbekovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/R"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "6709e505-a778-4b04-ac8d-d53298e5a542",
+      "identifiers": [
+        {
+          "identifier": "1179",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1179?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1179?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Rogalev"
+        }
+      ],
+      "name": "ROGALEV Viktor Pavlovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/R"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "64223efe-2f25-4ab0-b79b-6859e0346ecb",
+      "identifiers": [
+        {
+          "identifier": "1537",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1537?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1537?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Romanovskaya"
+        }
+      ],
+      "name": "ROMANOVSKAYA Svetlana Yuryevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/R"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "28e3ad52-d06f-4011-b507-4abc04aa4543",
+      "identifiers": [
+        {
+          "identifier": "147",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/147?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/147?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Sabilianov"
+        }
+      ],
+      "name": "SABILYANOV Nurtay Salihuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "a888c7e4-f279-40f6-9444-3e800054563a",
+      "identifiers": [
+        {
+          "identifier": "1546",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1546?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1546?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Sadybekov"
+        }
+      ],
+      "name": "SADIBEKOV Ulasbek",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "cf9a463f-0d82-46bd-bf56-eca1b99a4dba",
+      "identifiers": [
+        {
+          "identifier": "1239",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1239?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1239?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Samakova"
+        }
+      ],
+      "name": "SAMAKOVA Aytkul Baygazievna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "88b1b682-76c1-4d96-a779-960608369157",
+      "identifiers": [
+        {
+          "identifier": "92",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/92?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/92?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Sarpekov"
+        }
+      ],
+      "name": "SARPEKOV Ramazan Kumarbekovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "9fca8a78-e1d1-4f5d-ae5c-9e84b4d4b1d5",
+      "identifiers": [
+        {
+          "identifier": "1543",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1543?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1543?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Sayapova"
+        }
+      ],
+      "name": "SAYAPOVA Zuhra Aleutdinovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "a022d389-9b4a-4991-ad09-f7ba43893e5d",
+      "identifiers": [
+        {
+          "identifier": "1573",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1573?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1573?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Shegelski"
+        }
+      ],
+      "name": "SCHEGELSKIY Gleb Anatolyevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b9e1b125-488a-423b-aadf-b9859b7b1141",
+      "identifiers": [
+        {
+          "identifier": "1645",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1645?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1645?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Seydumanov"
+        }
+      ],
+      "name": "SEIDUMANOV Serik Turarovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "14996736-dd1f-4452-8840-21c6a6afe90d",
+      "identifiers": [
+        {
+          "identifier": "1209",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1209?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1209?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Seitmaganbetova"
+        }
+      ],
+      "name": "SEYTMAGANBETOVA Gulnar Suleymenovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "19bf8a08-abea-47aa-bded-296f57b803f3",
+      "identifiers": [
+        {
+          "identifier": "50",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/50?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/50?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Shaekin"
+        }
+      ],
+      "name": "SHAEKIN Rauan Mikhaylovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "34a7f737-73a4-43e9-8ad4-44bc27235226",
+      "identifiers": [
+        {
+          "identifier": "1642",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1642?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1642?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Shishigina"
+        }
+      ],
+      "name": "SHISHIGINA Olga Vassilyevna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b1958ffb-d9e5-41e4-924d-8725b7fcbbab",
+      "identifiers": [
+        {
+          "identifier": "1570",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1570?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1570?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Shpanov"
+        }
+      ],
+      "name": "SHPAHNOV Erkin Mazhitovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c041af6c-12bd-4020-bdeb-81e84443c639",
+      "identifiers": [
+        {
+          "identifier": "1552",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1552?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1552?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Smagyl"
+        }
+      ],
+      "name": "SMAGUL Bakhytbek",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "9f38ff8a-84ba-490f-8ce9-1f8de3a153b7",
+      "identifiers": [
+        {
+          "identifier": "1206",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1206?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1206?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Smail"
+        }
+      ],
+      "name": "SMAYYL Aldan Zeynollauly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "d07ec899-3edd-4466-9fdc-8438aecdafbb",
+      "identifiers": [
+        {
+          "identifier": "1302",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1302?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1302?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Solovieva"
+        }
+      ],
+      "name": "SOLOVYOVA Aigul Sagadibekovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "55cc0df3-4efc-4f9e-bdf7-99856ba73609",
+      "identifiers": [
+        {
+          "identifier": "94",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/94?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/94?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Sorokin"
+        }
+      ],
+      "name": "SOROKIN Boris Vladimirovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "9dbd9451-65d8-4659-868f-058d4bd5c6e4",
+      "identifiers": [
+        {
+          "identifier": "1558",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1558?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1558?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Syleimenov"
+        }
+      ],
+      "name": "SULEYMENOV Kairbek Shoshanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "16f32219-3c36-4f30-844a-8eec27ec4766",
+      "identifiers": [
+        {
+          "identifier": "1585",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1585?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1585?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Syltanov"
+        }
+      ],
+      "name": "SULTANOV Kuanysh Sultanuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/S"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "1e216c9f-85a2-4616-bf3e-edd6faf42dae",
+      "identifiers": [
+        {
+          "identifier": "149",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/149?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/149?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Tarasenko"
+        }
+      ],
+      "name": "TARASENKO Yelena Ivanovna",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c20171bb-779a-43be-8eae-9aa81a32fd3a",
+      "identifiers": [
+        {
+          "identifier": "1555",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1555?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1555?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Tasbulatov"
+        }
+      ],
+      "name": "TASBULATOV Abay Bolyukpaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c8905953-46fa-496a-aac0-d57ba66dbd48",
+      "identifiers": [
+        {
+          "identifier": "1561",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1561?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1561?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Timoshenko"
+        }
+      ],
+      "name": "TIMOCHSHENKO Yuriy Yevgenyevych",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "53d1c4f1-e4c4-4287-9f4f-7f042f1b41c0",
+      "identifiers": [
+        {
+          "identifier": "123",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/123?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/123?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Tinikeev"
+        }
+      ],
+      "name": "TINIKEYEV Mukhtar Bakirovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "6b608c7d-385b-4a19-9a37-4c6cd8ad2b66",
+      "identifiers": [
+        {
+          "identifier": "1564",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1564?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1564?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Toibayev"
+        }
+      ],
+      "name": "TOYBAEV Alihan Abdykanovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "af002de3-1676-495b-a172-c414d0b41881",
+      "identifiers": [
+        {
+          "identifier": "1567",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1567?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1567?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Tyrtayev"
+        }
+      ],
+      "name": "TURTAEV Almas Uzakuly",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/T"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "fccac239-3caf-413c-9c87-5ba7de728eb8",
+      "identifiers": [
+        {
+          "identifier": "1636",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1636?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1636?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Umbetov"
+        }
+      ],
+      "name": "UMBETOV Serik Abikenovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/U"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c4047ab4-4427-4d22-9625-7e0b2d7db7e5",
+      "identifiers": [
+        {
+          "identifier": "1525",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1525?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1525?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Umurzakov"
+        }
+      ],
+      "name": "UMURZAKOV Izbak Kuanyshevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/U"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "75bf2db0-01d2-462f-9678-71ef411ae9f2",
+      "identifiers": [
+        {
+          "identifier": "1519",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1519?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1519?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Urazov"
+        }
+      ],
+      "name": "URAZOV Samigolla Hamzaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/U"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "c3e5fb76-0b17-4b2d-b36b-a6f37196ae76",
+      "identifiers": [
+        {
+          "identifier": "1308",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1308?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1308?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Utemisov"
+        }
+      ],
+      "name": "UTEMISOV Shavhat Anesovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/U"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "d2379351-1866-4502-9fcb-fd5a0595213b",
+      "identifiers": [
+        {
+          "identifier": "1275",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1275?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1275?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Yakovleva"
+        }
+      ],
+      "name": "YAKOVLEVA Tatiana",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Y"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "fb6829f4-5e18-4b5c-9501-e170bda451a6",
+      "identifiers": [
+        {
+          "identifier": "1630",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1630?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1630?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ergaliev"
+        }
+      ],
+      "name": "YERGALIYEV Talgat Fayzullievich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Y"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "d74b88a0-84c0-4a61-8117-40b8457932cc",
+      "identifiers": [
+        {
+          "identifier": "1453",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1453?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1453?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Ertayev"
+        }
+      ],
+      "name": "YERTAYEV Bahytzhan",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Y"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "69beff8b-1fb4-47c0-9a02-b1eb81349773",
+      "identifiers": [
+        {
+          "identifier": "1456",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1456?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1456?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Jabagiev"
+        }
+      ],
+      "name": "ZHABAGIEV Kozhahan Kokrekbaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Z"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "1a030700-6959-448d-8ee6-930cab348c2a",
+      "identifiers": [
+        {
+          "identifier": "1459",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1459?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1459?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Jazylbekov"
+        }
+      ],
+      "name": "ZHAZYLBEKOV Nurlan Abduzhaparovich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Z"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "14ca5a36-325a-471e-ad22-6036eaa06533",
+      "identifiers": [
+        {
+          "identifier": "1468",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1468?size=big",
+      "images": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/PersonImage/1468?size=big"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parlam.kz/ru/blogs/Jylkaidarov"
+        }
+      ],
+      "name": "ZHYLKAYDAROV Saken Eginbaevich",
+      "sources": [
+        {
+          "url": "http://www.parlam.kz/en/mazhilis/People/DeputyList/Z"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "2",
+      "identifiers": [
+        {
+          "identifier": "Q1186246",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://akzhol.kz/"
+        }
+      ],
+      "name": "Ak Zhol",
+      "other_names": [
+        {
+          "lang": "kk",
+          "name": "Ақ жол Демократиялық Партиясы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Казахстана «Ак жол»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Partei Ak Schol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Kazakhstan Ak Zhol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カザフスタン明るい道民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Demokratyczna Partia Kazachstanu Ak Żoł",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kazakstanin demokraattinen puolue Ak Žol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ak Jol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ак жол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ак Жол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ak Schol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Partei \"Ak Schol\"",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "3",
+      "identifiers": [
+        {
+          "identifier": "Q2166484",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/LOGO-KNPK.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://knpk.kz/"
+        }
+      ],
+      "name": "Communist People's Party",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Communistische Volkspartij van Kazachstan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad Komunour Pobl Kazakstan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Communist People's Party of Kazakhstan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare Comunista del Kazakistan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Қазақстан коммунистік халық партиясы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Komunistyczna Ludowa Partia Kazachstanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Коммунистическая народная партия Казахстана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Комунистичка народна партија Казахстана",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈萨克斯坦共产主义人民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Kazakistan Komünist Halk Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Kazakstanin kommunistinen kansanpuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Comunista del Pueblo de Kazajistán",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "0",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1247199",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Mazhilis",
+      "seats": 77
+    },
+    {
+      "classification": "party",
+      "id": "1",
+      "identifiers": [
+        {
+          "identifier": "Q1195092",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://nurotan.kz/"
+        }
+      ],
+      "name": "Nur Otan",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ky",
+          "name": "Нур Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "누르 오탄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народно-демократическая партия «Нур Отан»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nour-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-arab",
+          "name": "نۇر وتان حدپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-cyrl",
+          "name": "Нұр Отан ХДП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-latn",
+          "name": "Nur Otan XDP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Нұр Отан ХДП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Нур Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "祖国之光",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヌル・オタン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "نور أتان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Нур Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nu̇r Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Նուր Օտան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nur Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Národně-demokratická strana «Nur Otan»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "누르-오탄당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "누르오탄",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "НДП «Нур Отан»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Республиканская политическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нур Отар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нур-Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народно-демократическая партия «Нур-Отан»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нур Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nour Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nur-Otan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Нұр Отан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Ұрылармен қарақшылармен партиясы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Нур Отан",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "4",
+      "name": "unknown"
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.parlam.kz"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "00bad8f0-f999-418c-a312-57df5d4fe73a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "0214a6e0-4cec-46bc-801b-c346ae43fa13",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "057a3011-b33b-4200-b25f-2d7077e10174",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "0908343e-9836-40f8-a318-2e3bbb830aa7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "0cc7019e-2061-40a0-9a81-ff5bbd43688e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "0f292816-8fc7-4e00-91ea-f09f5775ae4a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "0ff8d747-fe66-4e34-a6dd-38276422de6d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "14996736-dd1f-4452-8840-21c6a6afe90d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "14ca5a36-325a-471e-ad22-6036eaa06533",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "15149450-81a6-41a0-b3ba-3abd8e98e8e9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "16e33117-f6cb-403a-9641-fe4b630c87d5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "16f32219-3c36-4f30-844a-8eec27ec4766",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "197368fd-9d83-48ae-aa7a-521b070eaaed",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "19bf8a08-abea-47aa-bded-296f57b803f3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "1a030700-6959-448d-8ee6-930cab348c2a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "1e216c9f-85a2-4616-bf3e-edd6faf42dae",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "21b70857-4f07-44f9-9f81-785a75859e0f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "28e035ec-6f8a-42b5-8533-29e2c5b3be84",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "28e3ad52-d06f-4011-b507-4abc04aa4543",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "34a7f737-73a4-43e9-8ad4-44bc27235226",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "371b84f9-8784-4855-9fca-1409dac5b2e9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "3badd053-40be-4742-83da-a69c2e757c14",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "3c51efae-aff0-4a28-8f66-133ed875fc18",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "3d94284d-449d-4588-bb2a-1fd8941ab284",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "40e2caec-db62-44f4-b097-3a7fd05d2cac",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "454c9376-9e94-47c6-ab88-38bd954e34d3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "46a1d3d3-42de-4f51-a9ee-053da64de466",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "476c3df5-da5b-406d-b022-23e7ec2132ad",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "483ae060-cddb-48d9-9a1d-c934d38639ff",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "53d1c4f1-e4c4-4287-9f4f-7f042f1b41c0",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "55cc0df3-4efc-4f9e-bdf7-99856ba73609",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "5ccccf7a-c7c0-4bf1-a439-88e9badcd901",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "5d69d049-4996-4298-ba3c-9fba16a0269e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "64223efe-2f25-4ab0-b79b-6859e0346ecb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "6709e505-a778-4b04-ac8d-d53298e5a542",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "69beff8b-1fb4-47c0-9a02-b1eb81349773",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "6b608c7d-385b-4a19-9a37-4c6cd8ad2b66",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "6f40f503-572f-4404-85e9-27e389a8efdf",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "72ec5f0c-c5d0-40fa-aeac-b0d1b96c1226",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "73030519-ea95-406b-a351-8e0901da055d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "75bf2db0-01d2-462f-9678-71ef411ae9f2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "7ddb5c19-c0c9-4205-b0bd-af0ba15e3705",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "7df222c6-4651-4fc9-b1a2-19f6abf1566b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "8233dc6d-6d56-45af-897c-1213fb3d23a3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "88b1b682-76c1-4d96-a779-960608369157",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "89722df4-e59b-460f-bab0-5e7a0a4649f3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "8c0074ee-cc6d-4683-ac6d-f52c46a58463",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "8c78cb96-2334-472d-8fad-3c2f18dfce85",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "8c7d9ef1-4531-4755-870b-8132963fefe1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "8e246db0-e233-4175-a9cf-0c034742940b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "8f50958d-2ff6-4b58-8899-55d46ffa89d5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "8fa6e7d9-f210-4570-bfa3-598bc390ed6f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "90fc2a53-dce5-42b3-8712-0a6efd19f2a1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "919d173a-5eb4-4a74-bdcf-2365272338a2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "925ea6eb-f61b-4a58-a272-2bcaea49d594",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "94314acf-996d-48c0-afcd-9fda5540ff6b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "95ead899-1264-4045-a229-9319ba1acdf7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "96287424-2485-49bb-9f53-f3b3cf6c7949",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "9bd5f6f3-e74f-4ef9-b003-0e6fa3f0cca4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "9dbd9451-65d8-4659-868f-058d4bd5c6e4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "9dc373d7-7601-44f6-b688-41858975234b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "9f38ff8a-84ba-490f-8ce9-1f8de3a153b7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "9fca8a78-e1d1-4f5d-ae5c-9e84b4d4b1d5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "a022d389-9b4a-4991-ad09-f7ba43893e5d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "a3f2a0d7-c650-4bec-bf98-7cf6e1f1d7ee",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "a888c7e4-f279-40f6-9444-3e800054563a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "a999ae61-f2b6-48d8-8dbd-91d3eacac731",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "a9f57aa7-b42f-40f0-b68b-563c33856e68",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "ad2254a2-afd9-43de-9810-9cf1a0e6b2f4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "af002de3-1676-495b-a172-c414d0b41881",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "b1363654-d90a-46ba-a289-634cff67ac10",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "b1958ffb-d9e5-41e4-924d-8725b7fcbbab",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "b68ee03f-8c42-4f87-b17c-5193de2d2806",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "b93f4537-f00e-4e1d-b3fb-bcfd78445148",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "b9e1b125-488a-423b-aadf-b9859b7b1141",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "ba563aae-f407-46d0-8bbb-35d94cb803a2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "bc72bb18-a841-4d87-8654-b502a8049b36",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "be548972-db30-49b7-9afc-a611d43c8b8c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "bf9e0b2c-0b2f-4e02-8c97-6a5a3076f912",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "c041af6c-12bd-4020-bdeb-81e84443c639",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "c0f8ebf0-eae8-4cde-8850-8224e10cfb62",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "c20171bb-779a-43be-8eae-9aa81a32fd3a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "c3e5fb76-0b17-4b2d-b36b-a6f37196ae76",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "c4047ab4-4427-4d22-9625-7e0b2d7db7e5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "4",
+      "organization_id": "legislature",
+      "person_id": "c8905953-46fa-496a-aac0-d57ba66dbd48",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "c8beca70-fc0d-42bd-8c85-0f954d8c8c9f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "cc0b5b4f-0d55-424c-8d5c-188d7e0670c0",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "cc122ee7-0f2f-4a1e-b54f-40ecb411a95c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "ce40e368-8c8c-4463-8918-4a42bc488440",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "cedb7776-0332-4323-9ae8-b7c873bda637",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "cf1a1f67-b14e-4d8b-8f2e-132cea2dd5c2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "cf9a463f-0d82-46bd-bf56-eca1b99a4dba",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "d0188362-0521-4b57-bade-00c50f6c3b81",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "d07ec899-3edd-4466-9fdc-8438aecdafbb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "d17006b9-587d-40f9-b335-a039975287d1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "d2379351-1866-4502-9fcb-fd5a0595213b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "d74b88a0-84c0-4a61-8117-40b8457932cc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "e0452ce6-900b-42df-bad6-d31dac22da6d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "e514d7a1-c8cc-41f1-8f75-7fbb6412c878",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "e542ca48-57df-4faf-9f30-54792a66da9c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "0",
+      "organization_id": "legislature",
+      "person_id": "eb14f15d-ea1b-4adf-b80b-5a0ee3759544",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "f263bec3-df97-4e13-bc49-0e35e87bb3c9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "f838ee7a-b3bd-42b7-85c2-61675a9b3409",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "f9fa5019-f029-485c-91c4-c5fa90926413",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "2",
+      "organization_id": "legislature",
+      "person_id": "fb6829f4-5e18-4b5c-9501-e170bda451a6",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "1",
+      "organization_id": "legislature",
+      "person_id": "fccac239-3caf-413c-9c87-5ba7de728eb8",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "3",
+      "organization_id": "legislature",
+      "person_id": "fdabec3e-fdf7-4b1b-b868-461d65bf6766",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q3788154",
+      "name": "Kazakhstani legislative election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q4345459",
+      "name": "Kazakhstani legislative election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q3661017",
+      "name": "Kazakhstani legislative election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q3607938",
+      "name": "Kazakhstani legislative election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q3537582",
+      "name": "Kazakhstani legislative election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007",
+      "id": "Q2029511",
+      "name": "Kazakhstani legislative election, 2007",
+      "start_date": "2007"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q2053480",
+      "name": "Kazakhstani legislative election, 2012",
+      "start_date": "2012"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/5",
+      "name": "Fifth Convocation",
+      "organization_id": "legislature",
+      "start_date": "2012-01-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-03-20",
+      "id": "Q23014128",
+      "name": "Kazakhstani legislative election, 2016",
+      "start_date": "2016-03-20"
+    }
+  ],
+  "areas": [
+
+  ]
+}

@@ -1,0 +1,1360 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "55f87482-e8b4-4711-b588-51bed9883e7b",
+      "identifiers": [
+        {
+          "identifier": "alain_goupillière",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Alain Goupillière",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "birth_date": "1964-08-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AnnickGirardin"
+        }
+      ],
+      "gender": "female",
+      "given_name": "Annick",
+      "id": "6f2eec8a-7a26-4575-b022-88eca99c8280",
+      "identifiers": [
+        {
+          "identifier": "159972742",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "Q2851582",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 5894 7759",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "132178117",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "17313",
+          "scheme": "sycomore"
+        },
+        {
+          "identifier": "85951681",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2851582",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Annick_Girardin.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Annick_Girardin.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnnickGirardin"
+        }
+      ],
+      "name": "Annick Girardin",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アニック・ジラルダン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Annick Girardin",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "320d8e10-c4df-4d14-bbf8-26b7b46c8345",
+      "identifiers": [
+        {
+          "identifier": "bernard_briand",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bernard Briand",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "e5af9fa9-20ac-4a75-8cce-b6014fc5128d",
+      "identifiers": [
+        {
+          "identifier": "catherine_pen",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Catherine Pen",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "b23b23e1-1bf2-450b-a3ac-7b6bc0b3712b",
+      "identifiers": [
+        {
+          "identifier": "catherine_de_arburn",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Catherine de Arburn",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "0416b805-a674-43de-8af3-96833bb680b7",
+      "identifiers": [
+        {
+          "identifier": "claude_hacala",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Claude Hacala",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "af3af4e3-6e6c-4c9a-8718-2b58105510c6",
+      "identifiers": [
+        {
+          "identifier": "céline_gaspard",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Céline Gaspard",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "30732112-9e5c-40bf-96b0-15acdd13a7a4",
+      "identifiers": [
+        {
+          "identifier": "david_dodeman",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "David Dodeman",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "446e03bb-55ba-4b00-b577-888a9e879425",
+      "identifiers": [
+        {
+          "identifier": "franck_detcheverry",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Franck Detcheverry",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "3b32e98e-92c6-4ad3-adad-93cc8ef146ad",
+      "identifiers": [
+        {
+          "identifier": "françoise_letournel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Françoise Letournel",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "112daa01-d35a-4434-89b6-cb5ec76936bf",
+      "identifiers": [
+        {
+          "identifier": "gildas_morel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Gildas Morel",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "76c0ba86-6842-467a-8931-842e271ab97d",
+      "identifiers": [
+        {
+          "identifier": "gérard_briand",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Gérard Briand",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "birth_date": "1943-04-16",
+      "gender": "male",
+      "given_name": "Gérard",
+      "id": "47df84b6-b623-4bff-a5bd-6c51126b52bc",
+      "identifiers": [
+        {
+          "identifier": "Q3124001",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "3580",
+          "scheme": "sycomore"
+        },
+        {
+          "identifier": "Q3124001",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gérard_Grignon"
+        }
+      ],
+      "name": "Gérard Grignon",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Gérard Grignon",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "947b58d7-90ee-4bc6-a485-0313bc628b47",
+      "identifiers": [
+        {
+          "identifier": "isabelle_ozon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Isabelle Ozon",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "e352a844-ee81-4e8e-bfa2-c9b793d38e98",
+      "identifiers": [
+        {
+          "identifier": "jean-pierre_lebailly",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jean-Pierre Lebailly",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "18ca7e74-4347-4a3a-a693-9b6c488321df",
+      "identifiers": [
+        {
+          "identifier": "jean-yves_desdouets",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jean-Yves Desdouets",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "bbae602a-241d-4cef-b86f-53c9998ddd84",
+      "identifiers": [
+        {
+          "identifier": "joane_beauperthuis",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Joane Beauperthuis",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "8e56a78c-2099-4d01-9a67-363ab3f0c715",
+      "identifiers": [
+        {
+          "identifier": "marine_garnier",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Marine Garnier",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "e0cea794-8eb8-44c8-9ff4-3012290cf4d9",
+      "identifiers": [
+        {
+          "identifier": "martine_derouet",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Martine Derouet",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "9ab3f679-0e9c-4c41-a84e-9c424fd6452b",
+      "identifiers": [
+        {
+          "identifier": "nathalie_rebmann",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nathalie Rebmann",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "30424b53-8524-4afc-8ecb-f7af11209396",
+      "identifiers": [
+        {
+          "identifier": "nicolas_gourmelon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nicolas Gourmelon",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "afcc1235-590b-4446-b44b-98bddc4c5d20",
+      "identifiers": [
+        {
+          "identifier": "odile_beaupertuis",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Odile Beaupertuis",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "a923f64c-4980-4ead-9d9b-0d0d114e6621",
+      "identifiers": [
+        {
+          "identifier": "olivier_detcheverry",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Olivier Detcheverry",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "17517bf7-f966-4459-ba1f-2c64f6d82464",
+      "identifiers": [
+        {
+          "identifier": "rosiane_gautier_zimmermann",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Rosiane Gautier Zimmermann",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "7cee17ee-f310-4030-b8bb-9b1ee43f21c5",
+      "identifiers": [
+        {
+          "identifier": "sonia_poirier_urdanabia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Sonia Poirier Urdanabia",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "9622f810-b8d3-431d-8a9e-93616e326000",
+      "identifiers": [
+        {
+          "identifier": "sonia_urdanabia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Sonia Urdanabia",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "birth_date": "1973-03-09",
+      "gender": "male",
+      "given_name": "Stéphane",
+      "id": "968c43a1-afa4-4925-b8da-e9397c0cae75",
+      "identifiers": [
+        {
+          "identifier": "Q3501568",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04132m3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3501568",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stéphane_Artano"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stéphane_Artano"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Stéphane_Artano"
+        }
+      ],
+      "name": "Stéphane Artano",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Stéphane Artano",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "d1992c2b-1a71-49a8-acda-a46f01c4a4d4",
+      "identifiers": [
+        {
+          "identifier": "stéphane_coste",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Stéphane Coste",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "e2799f7f-7bfa-442e-8307-db959001ab70",
+      "identifiers": [
+        {
+          "identifier": "stéphane_lenormand",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Stéphane Lenormand",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "21c26cc0-b8ae-4c8e-9f26-cab5e2a360c4",
+      "identifiers": [
+        {
+          "identifier": "valérie_corbeil_perrin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Valérie Corbeil Perrin",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    },
+    {
+      "id": "aa6fb3de-79dd-4777-8a43-f5d26e20450e",
+      "identifiers": [
+        {
+          "identifier": "yannick_cambray",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Yannick Cambray",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/archipel_demain",
+      "identifiers": [
+        {
+          "identifier": "Q2860223",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.archipeldemain.fr/"
+        }
+      ],
+      "name": "Archipel demain",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Archipel demain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Archipelago Tomorrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Archipel demain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Archipel Demain",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/cap_sur_l'avenir",
+      "identifiers": [
+        {
+          "identifier": "Q2937151",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://capsurlavenir975.unblog.fr"
+        }
+      ],
+      "name": "Cap sur l'avenir",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Cap sur l'avenir",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/cap_sur_l'avenir_-_prg",
+      "identifiers": [
+        {
+          "identifier": "Q427965",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.planeteradicale.org/"
+        }
+      ],
+      "name": "Cap sur l'avenir - PRG",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Partito Radicale di Sinistra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Радикална партия на левицата",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad Radikal an Tu-kleiz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Radical d'Esquerra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Radical Party of the Left",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Maldekstra Radikala Partio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Radical de Izquierda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ezkerreko Alderdi Erradikala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "左翼急進党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "საფრანგეთის მემარცხენე რადიკალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "좌익급진당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Parti Radical de Gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit Radical d’Esquèrra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Lewicowa Partia Radykalna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Radical de Esquerda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Радикальная левая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Parti Radical de Gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Радикальна партія лівих",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "左派激進黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Radikal Sol Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Parti radical de gauche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "PRG",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "PRG",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti Radical de Gauche, PRG",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/spm_ensemble",
+      "identifiers": [
+        {
+          "identifier": "Q23691604",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "SPM Ensemble",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Saint-Pierre and Miquelon Together",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "SPM ensemble",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q2994335",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Territorial Council",
+      "seats": 19
+    }
+  ],
+  "meta": {
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Pierre-et-Miquelon",
+      "https://www.wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "0416b805-a674-43de-8af3-96833bb680b7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/cap_sur_l'avenir",
+      "organization_id": "legislature",
+      "person_id": "112daa01-d35a-4434-89b6-cb5ec76936bf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "17517bf7-f966-4459-ba1f-2c64f6d82464",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "18ca7e74-4347-4a3a-a693-9b6c488321df",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "21c26cc0-b8ae-4c8e-9f26-cab5e2a360c4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "30424b53-8524-4afc-8ecb-f7af11209396",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "30424b53-8524-4afc-8ecb-f7af11209396",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/cap_sur_l'avenir",
+      "organization_id": "legislature",
+      "person_id": "30732112-9e5c-40bf-96b0-15acdd13a7a4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "320d8e10-c4df-4d14-bbf8-26b7b46c8345",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "3b32e98e-92c6-4ad3-adad-93cc8ef146ad",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "446e03bb-55ba-4b00-b577-888a9e879425",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "47df84b6-b623-4bff-a5bd-6c51126b52bc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "55f87482-e8b4-4711-b588-51bed9883e7b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/cap_sur_l'avenir_-_prg",
+      "organization_id": "legislature",
+      "person_id": "6f2eec8a-7a26-4575-b022-88eca99c8280",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/cap_sur_l'avenir_-_prg",
+      "organization_id": "legislature",
+      "person_id": "6f2eec8a-7a26-4575-b022-88eca99c8280",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "76c0ba86-6842-467a-8931-842e271ab97d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "76c0ba86-6842-467a-8931-842e271ab97d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "7cee17ee-f310-4030-b8bb-9b1ee43f21c5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "8e56a78c-2099-4d01-9a67-363ab3f0c715",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "947b58d7-90ee-4bc6-a485-0313bc628b47",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "9622f810-b8d3-431d-8a9e-93616e326000",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "968c43a1-afa4-4925-b8da-e9397c0cae75",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "968c43a1-afa4-4925-b8da-e9397c0cae75",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "9ab3f679-0e9c-4c41-a84e-9c424fd6452b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "a923f64c-4980-4ead-9d9b-0d0d114e6621",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/cap_sur_l'avenir",
+      "organization_id": "legislature",
+      "person_id": "aa6fb3de-79dd-4777-8a43-f5d26e20450e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "af3af4e3-6e6c-4c9a-8718-2b58105510c6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "af3af4e3-6e6c-4c9a-8718-2b58105510c6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "afcc1235-590b-4446-b44b-98bddc4c5d20",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "b23b23e1-1bf2-450b-a3ac-7b6bc0b3712b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "b23b23e1-1bf2-450b-a3ac-7b6bc0b3712b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "bbae602a-241d-4cef-b86f-53c9998ddd84",
+      "role": "member"
+    },
+    {
+      "area_id": "area/miquelon-langlade",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/spm_ensemble",
+      "organization_id": "legislature",
+      "person_id": "d1992c2b-1a71-49a8-acda-a46f01c4a4d4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "e0cea794-8eb8-44c8-9ff4-3012290cf4d9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "e2799f7f-7bfa-442e-8307-db959001ab70",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2006",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "e352a844-ee81-4e8e-bfa2-c9b793d38e98",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/archipel_demain",
+      "organization_id": "legislature",
+      "person_id": "e352a844-ee81-4e8e-bfa2-c9b793d38e98",
+      "role": "member"
+    },
+    {
+      "area_id": "area/saint-pierre",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/cap_sur_l'avenir",
+      "organization_id": "legislature",
+      "person_id": "e5af9fa9-20ac-4a75-8cce-b6014fc5128d",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "end_date": "2012-03",
+      "id": "term/2006",
+      "name": "1st Territorial Council",
+      "organization_id": "legislature",
+      "start_date": "2006-03"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2017",
+      "id": "term/2012",
+      "name": "2nd Territorial Council",
+      "organization_id": "legislature",
+      "start_date": "2012-03"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/miquelon-langlade",
+      "name": "Miquelon-Langlade",
+      "type": "constituency"
+    },
+    {
+      "id": "area/saint-pierre",
+      "name": "Saint-Pierre",
+      "type": "constituency"
+    }
+  ]
+}

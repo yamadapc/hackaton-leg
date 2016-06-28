@@ -1,0 +1,1095 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "family_name": "Baksh",
+      "given_name": "Allyson",
+      "id": "b2c4822a-6c1c-4374-b6c8-aa056fbba5e2",
+      "identifiers": [
+        {
+          "identifier": "ALB15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/ALB15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/ALB15.jpg"
+        }
+      ],
+      "name": "Allyson Baksh",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=ALB15"
+        }
+      ]
+    },
+    {
+      "family_name": "Singh",
+      "given_name": "Avinash",
+      "id": "cdb05dcf-1bc4-4c7d-b113-09acf9c0d656",
+      "identifiers": [
+        {
+          "identifier": "ASI13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/ASI13.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/ASI13.jpg"
+        }
+      ],
+      "name": "Avinash Singh",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=ASI13"
+        }
+      ]
+    },
+    {
+      "family_name": "Kangaloo",
+      "given_name": "Christine",
+      "id": "721f1227-f551-4e22-83ef-8c41a6dc7ff9",
+      "identifiers": [
+        {
+          "identifier": "CKA01",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/CKA01.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/CKA01.jpg"
+        }
+      ],
+      "name": "Christine Kangaloo",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=CKA01"
+        }
+      ]
+    },
+    {
+      "family_name": "Rambharat",
+      "given_name": "Clarence",
+      "id": "ddabddee-2475-48ae-9598-2aae16ae3ca9",
+      "identifiers": [
+        {
+          "identifier": "CLR15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/CLR15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/CLR15.jpg"
+        }
+      ],
+      "name": "Clarence Rambharat",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=CLR15"
+        }
+      ]
+    },
+    {
+      "family_name": "Dookie",
+      "given_name": "Daniel",
+      "id": "b9b617b0-5779-4e4b-ba51-826d874fd66f",
+      "identifiers": [
+        {
+          "identifier": "DDK10",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/DDK10.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/DDK10.jpg"
+        }
+      ],
+      "name": "Daniel Dookie",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=DDK10"
+        }
+      ]
+    },
+    {
+      "family_name": "Solomon",
+      "given_name": "Daniel",
+      "id": "f2ebd427-3d8d-4474-a121-218d1d251846",
+      "identifiers": [
+        {
+          "identifier": "DS911",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/DS911.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/DS911.jpg"
+        }
+      ],
+      "name": "Daniel Solomon",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=DS911"
+        }
+      ]
+    },
+    {
+      "family_name": "Small",
+      "given_name": "David",
+      "id": "fdeb8148-7033-4d83-a010-848ad88f316b",
+      "identifiers": [
+        {
+          "identifier": "DSM13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/DSM13.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/DSM13.jpg"
+        }
+      ],
+      "name": "David Small",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=DSM13"
+        }
+      ]
+    },
+    {
+      "family_name": "Moses",
+      "given_name": "Dennis",
+      "id": "1798c9a1-59ea-49d0-a333-83a55a5b838b",
+      "identifiers": [
+        {
+          "identifier": "DNM15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/DNM15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/DNM15.jpg"
+        }
+      ],
+      "name": "Dennis Moses",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=DNM15"
+        }
+      ]
+    },
+    {
+      "family_name": "Mahabir",
+      "given_name": "Dhanayshar",
+      "id": "e312ed89-eca2-4a04-a474-9b1b79e2d834",
+      "identifiers": [
+        {
+          "identifier": "DM13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/DM13.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/DM13.jpg"
+        }
+      ],
+      "name": "Dhanayshar Mahabir",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=DM13"
+        }
+      ]
+    },
+    {
+      "family_name": "Cummings",
+      "given_name": "Foster",
+      "id": "af5d4c7b-396c-404b-b8f7-09d7a14375de",
+      "identifiers": [
+        {
+          "identifier": "FCU01",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/FCU01.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/FCU01.jpg"
+        }
+      ],
+      "name": "Foster Cummings",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=FCU01"
+        }
+      ]
+    },
+    {
+      "family_name": "Khan",
+      "given_name": "Franklin",
+      "id": "65bc28c6-0495-472c-ba02-43bb0e32e298",
+      "identifiers": [
+        {
+          "identifier": "FKH02",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/FKH02.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/FKH02.jpg"
+        }
+      ],
+      "name": "Franklin Khan",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=FKH02"
+        }
+      ]
+    },
+    {
+      "family_name": "Roach",
+      "given_name": "H.R. Ian",
+      "id": "f6bf082a-1946-4a84-b2e7-bcc154dbb13b",
+      "identifiers": [
+        {
+          "identifier": "HRR13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/HRR13.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/HRR13.jpg"
+        }
+      ],
+      "name": "H.R. Ian Roach",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=HRR13"
+        }
+      ]
+    },
+    {
+      "family_name": "Ali",
+      "given_name": "Hafeez",
+      "id": "4b384845-e1dd-46cc-b7a9-847aa002f394",
+      "identifiers": [
+        {
+          "identifier": "HFZ15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/HFZ15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/HFZ15.jpg"
+        }
+      ],
+      "name": "Hafeez Ali",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=HFZ15"
+        }
+      ]
+    },
+    {
+      "family_name": "Baptiste-Primus",
+      "given_name": "Jennifer",
+      "id": "31c7e908-13e3-424e-bad8-2ae87fec0af2",
+      "identifiers": [
+        {
+          "identifier": "JBP15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/JBP15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/JBP15.jpg"
+        }
+      ],
+      "name": "Jennifer Baptiste-Primus",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=JBP15"
+        }
+      ]
+    },
+    {
+      "family_name": "Raffoul",
+      "given_name": "Jennifer",
+      "id": "c28bfc71-e71c-4f3b-8d03-82d2bf387f9f",
+      "identifiers": [
+        {
+          "identifier": "JRF15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/JRF15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/JRF15.jpg"
+        }
+      ],
+      "name": "Jennifer Raffoul",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=JRF15"
+        }
+      ]
+    },
+    {
+      "family_name": "Ameen",
+      "given_name": "Khadijah",
+      "id": "729b82c2-b07e-415f-96fb-9d4815b8b51d",
+      "identifiers": [
+        {
+          "identifier": "KHA15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/KHA15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/KHA15.jpg"
+        }
+      ],
+      "name": "Khadijah Ameen",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=KHA15"
+        }
+      ]
+    },
+    {
+      "family_name": "Henry",
+      "given_name": "Lester",
+      "id": "ca0abb99-15f2-4a95-bacf-5c92f6be2bd9",
+      "identifiers": [
+        {
+          "identifier": "LHE76",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/LHE76.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/LHE76.jpg"
+        }
+      ],
+      "name": "Lester Henry",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=LHE76"
+        }
+      ]
+    },
+    {
+      "family_name": "Ramkissoon",
+      "given_name": "Melissa",
+      "id": "bba45882-eb2d-4a9c-9c23-e6f4fa883c12",
+      "identifiers": [
+        {
+          "identifier": "MRK15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/MRK15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/MRK15.jpg"
+        }
+      ],
+      "name": "Melissa Ramkissoon",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=MRK15"
+        }
+      ]
+    },
+    {
+      "family_name": "Stewart",
+      "given_name": "Nadine",
+      "id": "f6aac64d-ba23-47a0-b9db-52eaaa1b624d",
+      "identifiers": [
+        {
+          "identifier": "NDS15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/NDS15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/NDS15.jpg"
+        }
+      ],
+      "name": "Nadine Stewart",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=NDS15"
+        }
+      ]
+    },
+    {
+      "family_name": "De Freitas",
+      "given_name": "Nigel",
+      "id": "2ed3202c-755b-46d6-bb96-646bcf821b76",
+      "identifiers": [
+        {
+          "identifier": "NDF15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/NDF15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/NDF15.jpg"
+        }
+      ],
+      "name": "Nigel De Freitas",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=NDF15"
+        }
+      ]
+    },
+    {
+      "family_name": "Richards",
+      "given_name": "Paul",
+      "id": "e5d4ce0a-52cd-45b0-abd8-3c9ae1ef156f",
+      "identifiers": [
+        {
+          "identifier": "PRI15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/PRI15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/PRI15.jpg"
+        }
+      ],
+      "name": "Paul Richards",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=PRI15"
+        }
+      ]
+    },
+    {
+      "family_name": "Gopee-Scoon",
+      "given_name": "Paula",
+      "id": "c03f3e17-70f3-437d-b32a-644edded2f35",
+      "identifiers": [
+        {
+          "identifier": "PGO01",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/PGO01.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/PGO01.jpg"
+        }
+      ],
+      "name": "Paula Gopee-Scoon",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=PGO01"
+        }
+      ]
+    },
+    {
+      "family_name": "Samuel",
+      "given_name": "Rodger",
+      "id": "f6ac384a-8cc7-4305-877e-e0d9bb3db02a",
+      "identifiers": [
+        {
+          "identifier": "RSL10",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/RSL10.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/RSL10.jpg"
+        }
+      ],
+      "name": "Rodger Samuel",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=RSL10"
+        }
+      ]
+    },
+    {
+      "family_name": "Budhu",
+      "given_name": "Sarah",
+      "id": "4ee95584-7316-4c4b-a47a-ee247b1f4e11",
+      "identifiers": [
+        {
+          "identifier": "SBU15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/SBU15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/SBU15.jpg"
+        }
+      ],
+      "name": "Sarah Budhu",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=SBU15"
+        }
+      ]
+    },
+    {
+      "family_name": "Chote",
+      "given_name": "Sophia",
+      "id": "123b7593-6ca3-4931-a85c-bd78ac8eda44",
+      "identifiers": [
+        {
+          "identifier": "SKC15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/SKC15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/SKC15.jpg"
+        }
+      ],
+      "name": "Sophia Chote",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=SKC15"
+        }
+      ]
+    },
+    {
+      "family_name": "Creese",
+      "given_name": "Stephen",
+      "id": "a9e0dac5-2af7-4946-9e15-9c096ea515ae",
+      "identifiers": [
+        {
+          "identifier": "SCR15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/SCR15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/SCR15.jpg"
+        }
+      ],
+      "name": "Stephen Creese",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=SCR15"
+        }
+      ]
+    },
+    {
+      "family_name": "Shrikissoon",
+      "given_name": "Taurel",
+      "id": "9ef355cb-6c47-4b06-b51f-4ba4c3a59ba1",
+      "identifiers": [
+        {
+          "identifier": "TRA14",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/TRA14.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/TRA14.jpg"
+        }
+      ],
+      "name": "Taurel Shrikissoon",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=TRA14"
+        }
+      ]
+    },
+    {
+      "family_name": "Bharath",
+      "given_name": "Vasant",
+      "id": "c2faff71-574d-4b52-aa06-4c64888d3e68",
+      "identifiers": [
+        {
+          "identifier": "VBH01",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/VBH01.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/VBH01.jpg"
+        }
+      ],
+      "name": "Vasant Bharath",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=VBH01"
+        }
+      ]
+    },
+    {
+      "family_name": "Mark",
+      "given_name": "Wade",
+      "id": "929b1330-1890-4260-b728-b952d454aed3",
+      "identifiers": [
+        {
+          "identifier": "WMA01",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/WMA01.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/WMA01.jpg"
+        }
+      ],
+      "name": "Wade Mark",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=WMA01"
+        }
+      ]
+    },
+    {
+      "family_name": "Coppin",
+      "given_name": "Walede Michael",
+      "id": "13b0092d-47b7-4e1e-affc-91dc2e53bada",
+      "identifiers": [
+        {
+          "identifier": "WCO15",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/WCO15.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/WCO15.jpg"
+        }
+      ],
+      "name": "Walede Michael Coppin",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=WCO15"
+        }
+      ]
+    },
+    {
+      "family_name": "Sturge",
+      "given_name": "Wayne",
+      "id": "aa31c785-3c22-4871-bc99-4131608dd821",
+      "identifiers": [
+        {
+          "identifier": "WST13",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://ttparliament.org/content_images/WST13.jpg",
+      "images": [
+        {
+          "url": "http://ttparliament.org/content_images/WST13.jpg"
+        }
+      ],
+      "name": "Wayne Sturge",
+      "sources": [
+        {
+          "url": "http://ttparliament.org/members.php?mid=55&id=WST13"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/cop",
+      "identifiers": [
+        {
+          "identifier": "Q777399",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Congress_of_the_People_Trinidad_Logo.png",
+      "name": "COP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Congress of the People",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Congress of the People",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Congress of the People",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "name": "Independent"
+    },
+    {
+      "classification": "party",
+      "id": "party/pnm",
+      "identifiers": [
+        {
+          "identifier": "Q3326740",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PNM",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Mouvement national du peuple",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "People's National Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "जनता राष्ट्रिय आंदोलन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Rahva Rahvusliikumine",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/president_of_the_senate",
+      "name": "President of the Senate"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q3510869",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Senate",
+      "seats": 31
+    },
+    {
+      "classification": "party",
+      "id": "party/unc",
+      "identifiers": [
+        {
+          "identifier": "Q1024804",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNC",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "联合民族大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "聯合民族大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "聯合民族大會黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एकीकृत राष्ट्रिय कंग्रेस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Congrès national uni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "United National Congress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "联合民族大会党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ühinenud Rahvuskongress",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://ttparliament.org"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "123b7593-6ca3-4931-a85c-bd78ac8eda44",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "13b0092d-47b7-4e1e-affc-91dc2e53bada",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "1798c9a1-59ea-49d0-a333-83a55a5b838b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "2ed3202c-755b-46d6-bb96-646bcf821b76",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "31c7e908-13e3-424e-bad8-2ae87fec0af2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "4b384845-e1dd-46cc-b7a9-847aa002f394",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "4ee95584-7316-4c4b-a47a-ee247b1f4e11",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "65bc28c6-0495-472c-ba02-43bb0e32e298",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/president_of_the_senate",
+      "organization_id": "legislature",
+      "person_id": "721f1227-f551-4e22-83ef-8c41a6dc7ff9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unc",
+      "organization_id": "legislature",
+      "person_id": "729b82c2-b07e-415f-96fb-9d4815b8b51d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unc",
+      "organization_id": "legislature",
+      "person_id": "929b1330-1890-4260-b728-b952d454aed3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "9ef355cb-6c47-4b06-b51f-4ba4c3a59ba1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "a9e0dac5-2af7-4946-9e15-9c096ea515ae",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unc",
+      "organization_id": "legislature",
+      "person_id": "aa31c785-3c22-4871-bc99-4131608dd821",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "af5d4c7b-396c-404b-b8f7-09d7a14375de",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "b2c4822a-6c1c-4374-b6c8-aa056fbba5e2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "b9b617b0-5779-4e4b-ba51-826d874fd66f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "bba45882-eb2d-4a9c-9c23-e6f4fa883c12",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "c03f3e17-70f3-437d-b32a-644edded2f35",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "c28bfc71-e71c-4f3b-8d03-82d2bf387f9f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unc",
+      "organization_id": "legislature",
+      "person_id": "c2faff71-574d-4b52-aa06-4c64888d3e68",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "ca0abb99-15f2-4a95-bacf-5c92f6be2bd9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "cdb05dcf-1bc4-4c7d-b113-09acf9c0d656",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "ddabddee-2475-48ae-9598-2aae16ae3ca9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "e312ed89-eca2-4a04-a474-9b1b79e2d834",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "e5d4ce0a-52cd-45b0-abd8-3c9ae1ef156f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unc",
+      "organization_id": "legislature",
+      "person_id": "f2ebd427-3d8d-4474-a121-218d1d251846",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/pnm",
+      "organization_id": "legislature",
+      "person_id": "f6aac64d-ba23-47a0-b9db-52eaaa1b624d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/cop",
+      "organization_id": "legislature",
+      "person_id": "f6ac384a-8cc7-4305-877e-e0d9bb3db02a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "f6bf082a-1946-4a84-b2e7-bcc154dbb13b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "fdeb8148-7033-4d83-a010-848ad88f316b",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/11",
+      "name": "11th Republican Parliament",
+      "organization_id": "legislature",
+      "start_date": "2015-09-23"
+    }
+  ],
+  "areas": [
+
+  ]
+}

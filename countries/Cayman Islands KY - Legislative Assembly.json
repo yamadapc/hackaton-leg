@@ -1,0 +1,1285 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "MBE, JP, MLA",
+      "id": "2f8ad20e-7927-4908-8d07-10cc59e84c2f",
+      "identifiers": [
+        {
+          "identifier": "amclaughlin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336DF161AE0406F0A6F1F6887",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336DF161AE0406F0A6F1F6887"
+        }
+      ],
+      "name": "Alden McLaughlin",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "6a5a9212-460e-445a-b258-a64a2409fea9",
+      "identifiers": [
+        {
+          "identifier": "asuckoo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48882EB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48882EB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Alva Suckoo",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "OBE, JP, MLA",
+      "id": "bebacda8-c801-463c-8362-eeceb7f65c97",
+      "identifiers": [
+        {
+          "identifier": "aeden",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336F2161AE0406F0A6F1F6887",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336F2161AE0406F0A6F1F6887"
+        }
+      ],
+      "name": "Anthony Eden",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "honorific_suffix": "JP, MLA",
+      "id": "029e83d9-6ae8-42e9-affc-7385f585ead1",
+      "identifiers": [
+        {
+          "identifier": "amclean",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4888AEB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4888AEB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Arden McLean",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "25c122e5-9171-496e-ab04-02f14be3c0f5",
+      "identifiers": [
+        {
+          "identifier": "bbush",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48892EB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48892EB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Bernie Bush",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "honorific_suffix": "MLA",
+      "id": "46efa9f0-d3a8-4ff3-a91a-95bc02e690ad",
+      "identifiers": [
+        {
+          "identifier": "emiller",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4889AEB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4889AEB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "D Ezzard Miller",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "OBE, JP, MLA",
+      "id": "2b9b5337-aa6e-4b92-bdf6-0a56f2e753c5",
+      "identifiers": [
+        {
+          "identifier": "ktibbetts",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7042E93370B161AE0406F0A6F1F6887",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7042E93370B161AE0406F0A6F1F6887"
+        }
+      ],
+      "name": "D Kurt Tibbetts",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Capt",
+      "honorific_suffix": "JP, MLA",
+      "id": "93b2e88f-801c-4b7a-9d33-c9fe1fabf8c1",
+      "identifiers": [
+        {
+          "identifier": "eebanks",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336D6161AE0406F0A6F1F6887",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7042E9336D6161AE0406F0A6F1F6887"
+        }
+      ],
+      "name": "Eugene Ebanks",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "b88af1fb-cbdb-48cd-af81-7b20dd18e3fd",
+      "identifiers": [
+        {
+          "identifier": "jhew",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488A3EB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488A3EB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Joseph Hew",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "JP, MLA",
+      "id": "eda56e58-4a01-4677-b323-00f5cb0b9ae9",
+      "identifiers": [
+        {
+          "identifier": "joconnorconnolly",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5E6259AE0406F0A6F1F0184",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5E6259AE0406F0A6F1F0184"
+        }
+      ],
+      "name": "Juliana O'Connor-Connolly",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "MLA",
+      "id": "67c1802d-5411-43a6-8724-7c4ad60c2b02",
+      "identifiers": [
+        {
+          "identifier": "marcher",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5EE259AE0406F0A6F1F0184",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5EE259AE0406F0A6F1F0184"
+        }
+      ],
+      "name": "Marco Archer",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "JP, MLA",
+      "id": "a19c4d5d-90b1-49cc-9dd3-19b1ce044641",
+      "identifiers": [
+        {
+          "identifier": "mkirkconnell",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C606259AE0406F0A6F1F0184",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C606259AE0406F0A6F1F0184"
+        }
+      ],
+      "name": "Moses Kirkconnell",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "MLA",
+      "id": "7fb1e8d7-e09a-4e6c-ae16-caa776f6d066",
+      "identifiers": [
+        {
+          "identifier": "obodden",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C60E259AE0406F0A6F1F0184",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C60E259AE0406F0A6F1F0184"
+        }
+      ],
+      "name": "Osbourne Bodden",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "id": "52ac2a43-2a41-4c68-a7af-c6cbfee1dcb3",
+      "identifiers": [
+        {
+          "identifier": "rmctaggart",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488ABEB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488ABEB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Roy McTaggart",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "MLA",
+      "id": "6e89accb-b441-4b84-85b8-35e3d672b19e",
+      "identifiers": [
+        {
+          "identifier": "trivers",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48872EB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF48872EB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Tara Rivers",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "OBE, JP, MLA",
+      "id": "773724cd-fa73-4ac0-843b-5254e1d7d36e",
+      "identifiers": [
+        {
+          "identifier": "mbush",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5FE259AE0406F0A6F1F0184",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F7049ED6C5FE259AE0406F0A6F1F0184"
+        }
+      ],
+      "name": "W McKeeva Bush",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Hon",
+      "honorific_suffix": "MLA",
+      "id": "b52a99ed-df71-4062-a9a8-29b84c517d01",
+      "identifiers": [
+        {
+          "identifier": "wpanton",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4887AEB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF4887AEB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Wayne Panton",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "Mr",
+      "honorific_suffix": "MLA",
+      "id": "7a56d912-20a1-439e-abb9-a3ab8a9477bc",
+      "identifiers": [
+        {
+          "identifier": "wconolly",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488B3EB7FE0406F0A6F1F0186",
+      "images": [
+        {
+          "url": "http://www.gov.ky/pls/portal/url/ITEM/F704DBF488B3EB7FE0406F0A6F1F0186"
+        }
+      ],
+      "name": "Winston Conolly",
+      "sources": [
+        {
+          "url": "http://www.legislativeassembly.ky/portal/page?_pageid=4242,7282402&_dad=portal&_schema=PORTAL"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "IND",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q3625554",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Legislative Assembly",
+      "seats": 18
+    },
+    {
+      "classification": "party",
+      "id": "PPM",
+      "identifiers": [
+        {
+          "identifier": "Q7165720",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "People’s Progressive Movement",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "People's Progressive Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "人民進步運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "人民进步运动",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "UDP",
+      "identifiers": [
+        {
+          "identifier": "Q7887698",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United Democratic Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United Democratic Party",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.legislativeassembly.ky"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/east_end",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "029e83d9-6ae8-42e9-affc-7385f585ead1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_bay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "UDP",
+      "organization_id": "legislature",
+      "person_id": "25c122e5-9171-496e-ab04-02f14be3c0f5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "2b9b5337-aa6e-4b92-bdf6-0a56f2e753c5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "2f8ad20e-7927-4908-8d07-10cc59e84c2f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/north_side",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "46efa9f0-d3a8-4ff3-a91a-95bc02e690ad",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "52ac2a43-2a41-4c68-a7af-c6cbfee1dcb3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "67c1802d-5411-43a6-8724-7c4ad60c2b02",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bodden_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "6a5a9212-460e-445a-b258-a64a2409fea9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_bay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "6e89accb-b441-4b84-85b8-35e3d672b19e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_bay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "UDP",
+      "organization_id": "legislature",
+      "person_id": "773724cd-fa73-4ac0-843b-5254e1d7d36e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "7a56d912-20a1-439e-abb9-a3ab8a9477bc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bodden_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "7fb1e8d7-e09a-4e6c-ae16-caa776f6d066",
+      "role": "member"
+    },
+    {
+      "area_id": "area/west_bay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "UDP",
+      "organization_id": "legislature",
+      "person_id": "93b2e88f-801c-4b7a-9d33-c9fe1fabf8c1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cayman_brac_and_little_cayman",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "a19c4d5d-90b1-49cc-9dd3-19b1ce044641",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bodden_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "b52a99ed-df71-4062-a9a8-29b84c517d01",
+      "role": "member"
+    },
+    {
+      "area_id": "area/george_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "b88af1fb-cbdb-48cd-af81-7b20dd18e3fd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bodden_town",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "bebacda8-c801-463c-8362-eeceb7f65c97",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cayman_brac_and_little_cayman",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PPM",
+      "organization_id": "legislature",
+      "person_id": "eda56e58-4a01-4677-b323-00f5cb0b9ae9",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013–2017",
+      "organization_id": "legislature",
+      "start_date": "2013"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/bodden_town",
+      "name": "Bodden Town",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cayman_brac_and_little_cayman",
+      "name": "Cayman Brac and Little Cayman",
+      "type": "constituency"
+    },
+    {
+      "id": "area/east_end",
+      "name": "East End",
+      "type": "constituency"
+    },
+    {
+      "id": "area/george_town",
+      "name": "George Town",
+      "type": "constituency"
+    },
+    {
+      "id": "area/north_side",
+      "name": "North Side",
+      "type": "constituency"
+    },
+    {
+      "id": "area/west_bay",
+      "name": "West Bay",
+      "type": "constituency"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 439 - 2639"
+        }
+      ],
+      "id": "b5455097-fb8f-43c2-9d65-19cfcaf816fb",
+      "identifiers": [
+        {
+          "identifier": "alexandera_otway-noel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Alexandera Otway-Noel",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 444 -2500"
+        }
+      ],
+      "id": "26554846-d524-4b28-b792-67d76c4b6dac",
+      "identifiers": [
+        {
+          "identifier": "alvin_dabreo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Alvin Dabreo",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 442 -2899"
+        }
+      ],
+      "id": "5f0f7828-86b2-45bf-8702-7693a5bf1add",
+      "identifiers": [
+        {
+          "identifier": "anthony_boatswain",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Anthony Boatswain",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 437-0141"
+        }
+      ],
+      "id": "c0aa1982-d245-492b-81cf-c726e04eec66",
+      "identifiers": [
+        {
+          "identifier": "clarice_modeste-curwen",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Clarice Modeste-Curwen",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(4 73) 442 -1696"
+        }
+      ],
+      "id": "f41ff57a-cac7-4a74-9e8b-f8e996aaf17b",
+      "identifiers": [
+        {
+          "identifier": "clifton_paul",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Clifton Paul",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 442 -5929"
+        }
+      ],
+      "id": "1abe5f5d-bf7f-484c-9f13-57e4fe199836",
+      "identifiers": [
+        {
+          "identifier": "delma_thomas",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Delma Thomas",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 443-6535"
+        }
+      ],
+      "id": "8382e395-4ded-4fe1-beec-47ebe03a04d9",
+      "identifiers": [
+        {
+          "identifier": "elvin_nimrod",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Elvin Nimrod",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 437 -4666"
+        }
+      ],
+      "id": "dbb8bdf4-44f1-482d-8d5c-7f337a2ef007",
+      "identifiers": [
+        {
+          "identifier": "emmalin_pierre",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Emmalin Pierre",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 440- 6183"
+        }
+      ],
+      "id": "1157cb6e-07d5-4b2e-9781-62ac9092923f",
+      "identifiers": [
+        {
+          "identifier": "gregory_bowen",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Gregory Bowen",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 440-1382"
+        }
+      ],
+      "id": "52b8e1e9-1f0b-4f12-b54d-74dbd8276bb2",
+      "identifiers": [
+        {
+          "identifier": "keith_mitchell",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Keith Mitchell",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 435 -9956"
+        }
+      ],
+      "id": "5f9cf687-ccc1-4239-9f29-53366cfc97bf",
+      "identifiers": [
+        {
+          "identifier": "niickolas_steele",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Niickolas Steele",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 435 - 4978"
+        }
+      ],
+      "id": "b67d3c7c-d1a2-4361-bec4-2569abf3b443",
+      "identifiers": [
+        {
+          "identifier": "oliver_joseph",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Oliver Joseph",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 458 -2868"
+        }
+      ],
+      "id": "a718a9c1-7ab1-4878-9854-dde543a3ee26",
+      "identifiers": [
+        {
+          "identifier": "roland_bhola",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Roland Bhola",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 440-7100"
+        }
+      ],
+      "id": "072d419e-3c44-4fe9-8344-f5ae623cf752",
+      "identifiers": [
+        {
+          "identifier": "tobias_clement",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tobias Clement",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "(473) 442 - 7240"
+        }
+      ],
+      "id": "6ae2797c-a980-4866-bf73-79fa09757365",
+      "identifiers": [
+        {
+          "identifier": "yolande_bain_-_horseford",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Yolande Bain - Horseford",
+      "sources": [
+        {
+          "url": "http://www.gov.gd/contact_mp.html"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1253647",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "House of Representatives",
+      "seats": 15
+    },
+    {
+      "classification": "party",
+      "id": "NNP",
+      "identifiers": [
+        {
+          "identifier": "Q1288287",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.nnp.gd/"
+        }
+      ],
+      "name": "New National Party",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Novo Partido Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "New National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "新国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nouveau Parti national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nova nacionalna partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nuovo Partito Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Нова национална партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "New National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Нова национална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "New National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Нова національна партія",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "新民族黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "新民族党 (格林纳达)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "グレナダ新国民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nova nacionalna stranka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "新民族黨 (格瑞那達)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "新民族党",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.gov.gd"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/st._george_north_east",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "072d419e-3c44-4fe9-8344-f5ae623cf752",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._george_south_east",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "1157cb6e-07d5-4b2e-9781-62ac9092923f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._andrew_north_west",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "1abe5f5d-bf7f-484c-9f13-57e4fe199836",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._john",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "26554846-d524-4b28-b792-67d76c4b6dac",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._george_north_west",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "52b8e1e9-1f0b-4f12-b54d-74dbd8276bb2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._patrick_west",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "5f0f7828-86b2-45bf-8702-7693a5bf1add",
+      "role": "member"
+    },
+    {
+      "area_id": "area/town_of_st._george",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "5f9cf687-ccc1-4239-9f29-53366cfc97bf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._andrew_south_west",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "6ae2797c-a980-4866-bf73-79fa09757365",
+      "role": "member"
+    },
+    {
+      "area_id": "area/carriacou_&_petite_martinique",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "8382e395-4ded-4fe1-beec-47ebe03a04d9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._andrew_north_east",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "a718a9c1-7ab1-4878-9854-dde543a3ee26",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._george_south",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "b5455097-fb8f-43c2-9d65-19cfcaf816fb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._david",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "b67d3c7c-d1a2-4361-bec4-2569abf3b443",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._mark",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "c0aa1982-d245-492b-81cf-c726e04eec66",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._andrew_south_east",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "dbb8bdf4-44f1-482d-8d5c-7f337a2ef007",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._patrick_east",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "NNP",
+      "organization_id": "legislature",
+      "person_id": "f41ff57a-cac7-4a74-9e8b-f8e996aaf17b",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013",
+      "organization_id": "legislature",
+      "start_date": "2013-03-27"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/carriacou_&_petite_martinique",
+      "name": "Carriacou & Petite Martinique",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._andrew_north_east",
+      "name": "St. Andrew North East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._andrew_north_west",
+      "name": "St. Andrew North West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._andrew_south_east",
+      "name": "St. Andrew South East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._andrew_south_west",
+      "name": "St. Andrew South West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._david",
+      "name": "St. David",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._george_north_east",
+      "name": "St. George North East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._george_north_west",
+      "name": "St. George North West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._george_south",
+      "name": "St. George South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._george_south_east",
+      "name": "St. George South East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._john",
+      "name": "St. John",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._mark",
+      "name": "St. Mark",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._patrick_east",
+      "name": "St. Patrick East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._patrick_west",
+      "name": "St. Patrick West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/town_of_st._george",
+      "name": "Town of St. George",
+      "type": "constituency"
+    }
+  ]
+}

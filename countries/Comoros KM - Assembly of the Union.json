@@ -1,0 +1,1360 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "ecf64cc0-56fb-4079-8bd9-8bac04a5b6d7",
+      "identifiers": [
+        {
+          "identifier": "abdallah_ahamadi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abdallah Ahamadi"
+    },
+    {
+      "id": "53988560-2989-4540-900b-05e7260b0376",
+      "identifiers": [
+        {
+          "identifier": "abdallah_ben_omar",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abdallah Ben Omar"
+    },
+    {
+      "id": "e9817320-bb67-49fb-97ed-568bc98d6799",
+      "identifiers": [
+        {
+          "identifier": "abdou_ousseni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abdou Ousseni"
+    },
+    {
+      "id": "5efa1195-9815-4b77-a377-5f844bed65a8",
+      "identifiers": [
+        {
+          "identifier": "abdoulkarim_mohamed",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abdoulkarim Mohamed"
+    },
+    {
+      "id": "3e8ea2ca-f198-42f9-88c2-beff647901dd",
+      "identifiers": [
+        {
+          "identifier": "abou_achirafi_ali_bacar",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abou Achirafi Ali Bacar"
+    },
+    {
+      "id": "74db8892-8c5b-43f7-ab4a-964170984fcf",
+      "identifiers": [
+        {
+          "identifier": "ahmed_bacar_salim",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ahmed Bacar Salim"
+    },
+    {
+      "id": "6ee9b612-171a-4564-811d-3a023e695c69",
+      "identifiers": [
+        {
+          "identifier": "ali_ahamada",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ali Ahamada"
+    },
+    {
+      "id": "94daa717-2142-4281-9a6e-debabde4d897",
+      "identifiers": [
+        {
+          "identifier": "ali_mhadji",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ali Mhadji"
+    },
+    {
+      "id": "c1392749-e5ce-4af6-8ab0-136952a43bcb",
+      "identifiers": [
+        {
+          "identifier": "bacar_abdou_dossar_mohamed",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bacar Abdou Dossar Mohamed"
+    },
+    {
+      "id": "19ae0136-48ac-4d69-a907-634323633ddd",
+      "identifiers": [
+        {
+          "identifier": "charif_maoulana",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Charif Maoulana"
+    },
+    {
+      "id": "4567788a-3078-4e84-b80f-eca0098b955e",
+      "identifiers": [
+        {
+          "identifier": "dhoihir_dhoulkamal",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dhoihir Dhoulkamal"
+    },
+    {
+      "id": "27d97ced-b01c-4054-8b71-da2bc9c54a29",
+      "identifiers": [
+        {
+          "identifier": "hachim_ramiara",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Hachim Ramiara"
+    },
+    {
+      "id": "46c119ca-2306-4593-90a6-ff241a83ec4f",
+      "identifiers": [
+        {
+          "identifier": "ibrahim_mohamed_soule",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ibrahim Mohamed Soule"
+    },
+    {
+      "id": "d10fac88-65de-4acb-a4a3-f2009e2e86a5",
+      "identifiers": [
+        {
+          "identifier": "issa_soule_mmadi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Issa Soule Mmadi"
+    },
+    {
+      "id": "546dd525-d7b7-4dba-88a0-00964f01fcfa",
+      "identifiers": [
+        {
+          "identifier": "m'madi_hassani_oumouri",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "M'madi Hassani Oumouri"
+    },
+    {
+      "id": "2d1badd9-dfb4-4db7-8194-eecf8ef41f83",
+      "identifiers": [
+        {
+          "identifier": "mohamed_msaidie",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Mohamed Msaidie"
+    },
+    {
+      "id": "17e764fa-7034-49d2-8a08-ee687ab5edb9",
+      "identifiers": [
+        {
+          "identifier": "mohamed_rachadi_abdou",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Mohamed Rachadi Abdou"
+    },
+    {
+      "id": "5f325b73-a2e5-402f-99a3-88326caaa81a",
+      "identifiers": [
+        {
+          "identifier": "nassimou_ahamadi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Nassimou Ahamadi"
+    },
+    {
+      "id": "f3cc0bcc-d2c8-4d6e-8860-af0d7f682bd3",
+      "identifiers": [
+        {
+          "identifier": "oumouri_hadjira",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Oumouri Hadjira"
+    },
+    {
+      "id": "702d0bed-bbe2-4cfa-aa20-d8d6aae81720",
+      "identifiers": [
+        {
+          "identifier": "said_baco_attoumani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Said Baco Attoumani"
+    },
+    {
+      "id": "cb636068-6a68-4928-b34d-ac8fc467b0b1",
+      "identifiers": [
+        {
+          "identifier": "saïd_ibrahim_fahmi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Saïd Ibrahim Fahmi"
+    },
+    {
+      "id": "4fd42f04-25ed-450c-ba96-e1e66a78da50",
+      "identifiers": [
+        {
+          "identifier": "soiffa_ousseni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Soiffa Ousseni"
+    },
+    {
+      "id": "10087da4-a5a6-4508-bb68-6ff53a0ad35a",
+      "identifiers": [
+        {
+          "identifier": "soulaimane_mohamed_soilihi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Soulaimane Mohamed Soilihi"
+    },
+    {
+      "id": "309370cf-c106-4263-8b0c-5623d2edc8c8",
+      "identifiers": [
+        {
+          "identifier": "tadjiddine_mohamed",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tadjiddine Mohamed"
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1573424",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Assembly of the Union",
+      "seats": 33
+    },
+    {
+      "classification": "party",
+      "id": "party/convention_for_the_renewal_of_the_comoros",
+      "identifiers": [
+        {
+          "identifier": "Q5166253",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Convention for the Renewal of the Comoros",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Convention for the Renewal of the Comoros",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Соглашение о возрождении Коморских островов",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_rally_of_the_comoros",
+      "identifiers": [
+        {
+          "identifier": "Q20982157",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Democratic Rally of the Comoros",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Democratic Rally of the Comoros",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/juwa_party",
+      "identifiers": [
+        {
+          "identifier": "Q20982167",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Juwa Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Juwa Party",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/party_for_the_comorian_agreement",
+      "identifiers": [
+        {
+          "identifier": "Q20982205",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Party for the Comorian Agreement",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Party for the Comorian Agreement",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/rally_for_an_alternative_of_harmonious_and_integrated_development",
+      "identifiers": [
+        {
+          "identifier": "Q20982212",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Rally for an Alternative of Harmonious and Integrated Development",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rally for an Alternative of Harmonious and Integrated Development",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/union_for_the_development_of_the_comoros",
+      "identifiers": [
+        {
+          "identifier": "Q20982223",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Union for the Development of the Comoros",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Union for the Development of the Comoros",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Comorian_legislative_election,_2015"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/hamahamet–mboinkou",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "10087da4-a5a6-4508-bb68-6ff53a0ad35a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/domoni_i",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "17e764fa-7034-49d2-8a08-ee687ab5edb9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oichili–dimani",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/convention_for_the_renewal_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "19ae0136-48ac-4d69-a907-634323633ddd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mledjele",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "27d97ced-b01c-4054-8b71-da2bc9c54a29",
+      "role": "member"
+    },
+    {
+      "area_id": "area/moroni_south",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "2d1badd9-dfb4-4db7-8194-eecf8ef41f83",
+      "role": "member"
+    },
+    {
+      "area_id": "area/domoni_ii",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "309370cf-c106-4263-8b0c-5623d2edc8c8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mutsamudu_ii",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "3e8ea2ca-f198-42f9-88c2-beff647901dd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sima",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "4567788a-3078-4e84-b80f-eca0098b955e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/moroni_north",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "46c119ca-2306-4593-90a6-ff241a83ec4f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cuvette",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "4fd42f04-25ed-450c-ba96-e1e66a78da50",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ouani",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "53988560-2989-4540-900b-05e7260b0376",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itsandra_north",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/democratic_rally_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "546dd525-d7b7-4dba-88a0-00964f01fcfa",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ngouengwe",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "5efa1195-9815-4b77-a377-5f844bed65a8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nioumakele_ii",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "5f325b73-a2e5-402f-99a3-88326caaa81a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mitsamiouli–mboude",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/rally_for_an_alternative_of_harmonious_and_integrated_development",
+      "organization_id": "legislature",
+      "person_id": "6ee9b612-171a-4564-811d-3a023e695c69",
+      "role": "member"
+    },
+    {
+      "area_id": "area/msoutrouni_&_moimbassa",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "702d0bed-bbe2-4cfa-aa20-d8d6aae81720",
+      "role": "member"
+    },
+    {
+      "area_id": "area/dewa",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "74db8892-8c5b-43f7-ab4a-964170984fcf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hambou",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/convention_for_the_renewal_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "94daa717-2142-4281-9a6e-debabde4d897",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mutsamudu_i",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/juwa_party",
+      "organization_id": "legislature",
+      "person_id": "c1392749-e5ce-4af6-8ab0-136952a43bcb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itsandra_south",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/party_for_the_comorian_agreement",
+      "organization_id": "legislature",
+      "person_id": "cb636068-6a68-4928-b34d-ac8fc467b0b1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bambao",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "d10fac88-65de-4acb-a4a3-f2009e2e86a5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nioumakele_i",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "e9817320-bb67-49fb-97ed-568bc98d6799",
+      "role": "member"
+    },
+    {
+      "area_id": "area/djando",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/union_for_the_development_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "ecf64cc0-56fb-4079-8bd9-8bac04a5b6d7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itsahidi",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/democratic_rally_of_the_comoros",
+      "organization_id": "legislature",
+      "person_id": "f3cc0bcc-d2c8-4d6e-8860-af0d7f682bd3",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1978",
+      "id": "Q5155203",
+      "name": "Comorian legislative election, 1978",
+      "start_date": "1978"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1982",
+      "id": "Q5155204",
+      "name": "Comorian legislative election, 1982",
+      "start_date": "1982"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987",
+      "id": "Q5155205",
+      "name": "Comorian legislative election, 1987",
+      "start_date": "1987"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1992",
+      "id": "Q5155206",
+      "name": "Comorian legislative election, 1992",
+      "start_date": "1992"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993",
+      "id": "Q5155207",
+      "name": "Comorian legislative election, 1993",
+      "start_date": "1993"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996",
+      "id": "Q5155208",
+      "name": "Comorian legislative election, 1996",
+      "start_date": "1996"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q5155209",
+      "name": "Comorian legislative election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009",
+      "id": "Q3119108",
+      "name": "Comorian legislative election, 2009",
+      "start_date": "2009"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-02-22",
+      "id": "Q18702051",
+      "name": "Comorian legislative election, 2015",
+      "start_date": "2015-01-25"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2015",
+      "name": "2015–",
+      "organization_id": "legislature",
+      "start_date": "2015-04-03"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/bambao",
+      "name": "Bambao",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cuvette",
+      "name": "Cuvette",
+      "type": "constituency"
+    },
+    {
+      "id": "area/dewa",
+      "name": "Dewa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/djando",
+      "name": "Djando",
+      "type": "constituency"
+    },
+    {
+      "id": "area/domoni_i",
+      "name": "Domoni I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/domoni_ii",
+      "name": "Domoni Ii",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hamahamet–mboinkou",
+      "name": "Hamahamet–Mboinkou",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hambou",
+      "name": "Hambou",
+      "type": "constituency"
+    },
+    {
+      "id": "area/itsahidi",
+      "name": "Itsahidi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/itsandra_north",
+      "name": "Itsandra North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/itsandra_south",
+      "name": "Itsandra South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mitsamiouli–mboude",
+      "name": "Mitsamiouli–Mboude",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mledjele",
+      "name": "Mledjele",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moroni_north",
+      "name": "Moroni North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moroni_south",
+      "name": "Moroni South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/msoutrouni_&_moimbassa",
+      "name": "Msoutrouni & Moimbassa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mutsamudu_i",
+      "name": "Mutsamudu I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mutsamudu_ii",
+      "name": "Mutsamudu Ii",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngouengwe",
+      "name": "Ngouengwe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nioumakele_i",
+      "name": "Nioumakele I",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nioumakele_ii",
+      "name": "Nioumakele Ii",
+      "type": "constituency"
+    },
+    {
+      "id": "area/oichili–dimani",
+      "name": "Oichili–Dimani",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ouani",
+      "name": "Ouani",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sima",
+      "name": "Sima",
+      "type": "constituency"
+    }
+  ]
+}

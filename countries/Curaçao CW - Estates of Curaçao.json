@@ -1,0 +1,1122 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "alex.rosaria@parlamento.cw"
+        }
+      ],
+      "email": "alex.rosaria@parlamento.cw",
+      "gender": "male",
+      "id": "2fe0919d-7af3-408a-8e88-2e3667d132dd",
+      "identifiers": [
+        {
+          "identifier": "171",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/171.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/171.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/alex.d.rosaria"
+        }
+      ],
+      "name": "Alex D. Rosaria, MBA",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amerigo.thode@parlamento.cw"
+        }
+      ],
+      "email": "amerigo.thode@parlamento.cw",
+      "gender": "male",
+      "id": "738ce85f-8c47-4d26-9e94-ba06e5c7f255",
+      "identifiers": [
+        {
+          "identifier": "145",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/145.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/145.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/1744258795"
+        }
+      ],
+      "name": "Amerigo Thodé",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eugene.cleopa@parlamento.cw"
+        }
+      ],
+      "email": "eugene.cleopa@parlamento.cw",
+      "gender": "male",
+      "id": "34d18a49-dbe4-4f7d-af16-ce935130f388",
+      "identifiers": [
+        {
+          "identifier": "161",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/161.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/161.jpg"
+        }
+      ],
+      "name": "Eugène Cleopa",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gerrit.schotte@parlamento.cw"
+        }
+      ],
+      "email": "gerrit.schotte@parlamento.cw",
+      "gender": "male",
+      "id": "b17a7593-3d14-4779-90bb-197f49e59a25",
+      "identifiers": [
+        {
+          "identifier": "170",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/170.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/170.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/schottegerrit"
+        }
+      ],
+      "name": "Gerrit F. Schotte",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gilmar.pisas@parlamento.cw"
+        }
+      ],
+      "email": "gilmar.pisas@parlamento.cw",
+      "gender": "male",
+      "id": "b59c50e7-b2b3-4c55-81a9-a7128834be5d",
+      "identifiers": [
+        {
+          "identifier": "144",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/144.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/144.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/gilmar.pisas"
+        }
+      ],
+      "name": "Gilmar Pisas",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hensley.koeiman@parlamento.cw"
+        }
+      ],
+      "email": "hensley.koeiman@parlamento.cw",
+      "gender": "male",
+      "id": "3d0716d9-0c25-4c8e-87b4-c90d45e33bd4",
+      "identifiers": [
+        {
+          "identifier": "166",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/166.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/166.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/hensley.koeiman"
+        }
+      ],
+      "name": "Hensley F. Koeiman",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "humphrey.davelaar@parlamento.cw"
+        }
+      ],
+      "email": "humphrey.davelaar@parlamento.cw",
+      "gender": "male",
+      "id": "53057463-cc51-492d-a657-28ef137f034a",
+      "identifiers": [
+        {
+          "identifier": "155",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/155.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/155.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/humphrey.davelaar"
+        }
+      ],
+      "name": "Humphrey Davelaar",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "charles.cooper@parlamento.cw"
+        }
+      ],
+      "email": "charles.cooper@parlamento.cw",
+      "gender": "male",
+      "id": "e2f4924f-cc39-4ae9-a04e-d50e76042c11",
+      "identifiers": [
+        {
+          "identifier": "164",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/164.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/164.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/charles.cooper.5876060"
+        }
+      ],
+      "name": "Ing. Charles Cooper, MSc",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jacinta.scoop-constancia@parlamento.cw"
+        }
+      ],
+      "email": "jacinta.scoop-constancia@parlamento.cw",
+      "gender": "female",
+      "id": "caf62bdc-3a61-42eb-a635-243b3101cb49",
+      "identifiers": [
+        {
+          "identifier": "169",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/169.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/169.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jacinta.constancia.9"
+        }
+      ],
+      "name": "Jacinta V.A. Scoop-Constancia",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jaime.cordoba@parlamento.cw"
+        }
+      ],
+      "email": "jaime.cordoba@parlamento.cw",
+      "gender": "male",
+      "id": "c30db466-2d2a-4029-8387-c21b7072ea56",
+      "identifiers": [
+        {
+          "identifier": "148",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/148.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/148.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jaime.cordoba.739"
+        }
+      ],
+      "name": "Jaime Córdoba , Vise-Presidente",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marcolino.franco@parlamento.cw"
+        }
+      ],
+      "email": "marcolino.franco@parlamento.cw",
+      "gender": "male",
+      "id": "b98c667e-8c41-43eb-970f-f29ae4d4126d",
+      "identifiers": [
+        {
+          "identifier": "165",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/165.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/165.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/marcolino.franco.5"
+        }
+      ],
+      "name": "Marcolino C. F. Franco, Presidente",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "melvin.cijntje@parlamento.cw"
+        }
+      ],
+      "email": "melvin.cijntje@parlamento.cw",
+      "gender": "male",
+      "id": "abab280e-7f4f-425b-94dc-0a6359b2c869",
+      "identifiers": [
+        {
+          "identifier": "146",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/146.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/146.jpg"
+        }
+      ],
+      "name": "Melvin Cijntje",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "monique.koeyers-felida@parlamento.cw"
+        }
+      ],
+      "email": "monique.koeyers-felida@parlamento.cw",
+      "gender": "female",
+      "id": "34d9c577-a153-48c3-97b3-78fde6765f35",
+      "identifiers": [
+        {
+          "identifier": "147",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/147.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/147.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/moniquefelida"
+        }
+      ],
+      "name": "Monique Koeyers-Felida",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "omayra.leeflang@parlamento.cw"
+        }
+      ],
+      "email": "omayra.leeflang@parlamento.cw",
+      "gender": "female",
+      "id": "12285f07-b4f3-4288-bbb4-ef6bdcd73e57",
+      "identifiers": [
+        {
+          "identifier": "167",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/167.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/167.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/omayra.leeflang"
+        }
+      ],
+      "name": "Omayra V.E. Leeflang",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "0f265196-a0be-4cbe-8a69-52df95aedfa5",
+      "identifiers": [
+        {
+          "identifier": "175",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/175.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/175.jpg"
+        }
+      ],
+      "name": "Sherwin Leonora",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "ebd2ba8a-b0a2-41b1-81b6-c97a78018123",
+      "identifiers": [
+        {
+          "identifier": "174",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/174.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/174.jpg"
+        }
+      ],
+      "name": "Winifred Raveneau",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zita.jesus-leito@parlamento.cw"
+        }
+      ],
+      "email": "zita.jesus-leito@parlamento.cw",
+      "gender": "female",
+      "id": "ac477c88-cf4f-4606-96f3-7c8dd5a1f045",
+      "identifiers": [
+        {
+          "identifier": "159",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/159.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/159.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/zita.jesusleito"
+        }
+      ],
+      "name": "Zita Jesus-Leito, MBA",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marilyn.moses@parlamento.cw"
+        }
+      ],
+      "email": "marilyn.moses@parlamento.cw",
+      "gender": "female",
+      "id": "2bd32709-c3bd-4c8e-9be5-d8b070d5e73f",
+      "identifiers": [
+        {
+          "identifier": "168",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/168.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/168.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/marilyn.moses.969"
+        }
+      ],
+      "name": "dr. Marilyn C. Moses",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "elmer.wilsoe@parlamento.cw"
+        }
+      ],
+      "email": "elmer.wilsoe@parlamento.cw",
+      "gender": "male",
+      "id": "ac77e889-f6ca-4876-a7cb-c0ac9e5d94c3",
+      "identifiers": [
+        {
+          "identifier": "172",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/172.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/172.jpg"
+        }
+      ],
+      "name": "drs. Elmer R. Wilsoe",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "glenn.sulvaran@parlamento.cw"
+        }
+      ],
+      "email": "glenn.sulvaran@parlamento.cw",
+      "gender": "male",
+      "id": "c206394b-aed9-43e0-8cc5-53a1bc090bf8",
+      "identifiers": [
+        {
+          "identifier": "154",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/154.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/154.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/glenn.sulvaran"
+        }
+      ],
+      "name": "drs. Glenn Sulvaran",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "armin.konket@parlamento.cw"
+        }
+      ],
+      "email": "armin.konket@parlamento.cw",
+      "gender": "male",
+      "id": "47c8805d-6bd8-4501-882b-2681e01c713c",
+      "identifiers": [
+        {
+          "identifier": "173",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.cw/images/members/173.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.cw/images/members/173.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/armin.konket"
+        }
+      ],
+      "name": "drs. ing. Armin Konket",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cw/parliament/s11/"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q2326816",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Estates of Curaçao",
+      "seats": 21
+    },
+    {
+      "classification": "party",
+      "id": "III",
+      "name": "Independiente / Independent"
+    },
+    {
+      "classification": "party",
+      "id": "MFK",
+      "identifiers": [
+        {
+          "identifier": "Q2712780",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.gerritschotte.com"
+        }
+      ],
+      "name": "Movimento Futuro Kòrsou",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Movementu Futuro Korsou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Moviment pel Futur de Curaçao",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Movement for the Future of Curaçao",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PAR",
+      "identifiers": [
+        {
+          "identifier": "Q1269032",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partido-par.com/"
+        }
+      ],
+      "name": "Partido Alternativa Real",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Partido Antiá Restrukturá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Stranka za restrukturirane Antile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Party for the Restructured Antilles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit per les Antilles Reestructurades",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido Antiá Restrukturá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Stranka za restrukturirane Antile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Party for the Restructured Antilles",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "MAN",
+      "identifiers": [
+        {
+          "identifier": "Q2370694",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidoman.org/new/"
+        }
+      ],
+      "name": "Partido MAN",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Partido MAN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Partido MAN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento para unas Nuevas Antillas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement Antilles nouvelles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido MAN",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PNP",
+      "identifiers": [
+        {
+          "identifier": "Q2487652",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pnp.cw"
+        }
+      ],
+      "name": "Partido Nashonal di Pueblo",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Nationale Volkspartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti national du peuple",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Национальная народная группа",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PAIS",
+      "identifiers": [
+        {
+          "identifier": "Q7140560",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidopais.com/website/"
+        }
+      ],
+      "name": "Partido pa Adelanto i Inovashon Soshal",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Partido pa Adelanto I Inovashon Soshal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Partido pa Adelanto I Inovashon Soshal",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PS",
+      "identifiers": [
+        {
+          "identifier": "Q2224802",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pueblosoberano.org/"
+        }
+      ],
+      "name": "Pueblo Soberano",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Pueblo Soberano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sovereign People",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pueblo Soberano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pueblo Soberano",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.parlamento.cw"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "0f265196-a0be-4cbe-8a69-52df95aedfa5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "III",
+      "organization_id": "legislature",
+      "person_id": "12285f07-b4f3-4288-bbb4-ef6bdcd73e57",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAIS",
+      "organization_id": "legislature",
+      "person_id": "2bd32709-c3bd-4c8e-9be5-d8b070d5e73f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAIS",
+      "organization_id": "legislature",
+      "person_id": "2fe0919d-7af3-408a-8e88-2e3667d132dd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAIS",
+      "organization_id": "legislature",
+      "person_id": "34d18a49-dbe4-4f7d-af16-ce935130f388",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MFK",
+      "organization_id": "legislature",
+      "person_id": "34d9c577-a153-48c3-97b3-78fde6765f35",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MAN",
+      "organization_id": "legislature",
+      "person_id": "3d0716d9-0c25-4c8e-87b4-c90d45e33bd4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAR",
+      "organization_id": "legislature",
+      "person_id": "47c8805d-6bd8-4501-882b-2681e01c713c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PNP",
+      "organization_id": "legislature",
+      "person_id": "53057463-cc51-492d-a657-28ef137f034a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MFK",
+      "organization_id": "legislature",
+      "person_id": "738ce85f-8c47-4d26-9e94-ba06e5c7f255",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "abab280e-7f4f-425b-94dc-0a6359b2c869",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAR",
+      "organization_id": "legislature",
+      "person_id": "ac477c88-cf4f-4606-96f3-7c8dd5a1f045",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "ac77e889-f6ca-4876-a7cb-c0ac9e5d94c3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MFK",
+      "organization_id": "legislature",
+      "person_id": "b17a7593-3d14-4779-90bb-197f49e59a25",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MFK",
+      "organization_id": "legislature",
+      "person_id": "b59c50e7-b2b3-4c55-81a9-a7128834be5d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PAIS",
+      "organization_id": "legislature",
+      "person_id": "b98c667e-8c41-43eb-970f-f29ae4d4126d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "III",
+      "organization_id": "legislature",
+      "person_id": "c206394b-aed9-43e0-8cc5-53a1bc090bf8",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "c30db466-2d2a-4029-8387-c21b7072ea56",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MFK",
+      "organization_id": "legislature",
+      "person_id": "caf62bdc-3a61-42eb-a635-243b3101cb49",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "MAN",
+      "organization_id": "legislature",
+      "person_id": "e2f4924f-cc39-4ae9-a04e-d50e76042c11",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "PS",
+      "organization_id": "legislature",
+      "person_id": "ebd2ba8a-b0a2-41b1-81b6-c97a78018123",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2nd Curaçaoan Estates",
+      "organization_id": "legislature",
+      "start_date": "2012-09-11"
+    }
+  ],
+  "areas": [
+
+  ]
+}

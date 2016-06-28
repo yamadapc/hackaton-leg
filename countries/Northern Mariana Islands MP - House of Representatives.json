@@ -1,0 +1,1619 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8985"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8983"
+        }
+      ],
+      "id": "0bb935b0-b6f4-48b4-a0ea-240425cd5611",
+      "identifiers": [
+        {
+          "identifier": "494",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/494.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/494.jpg"
+        }
+      ],
+      "name": "Angel A. Demapan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8822"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8826"
+        }
+      ],
+      "id": "6c124e16-ec84-4091-bb05-6e5a87784b4d",
+      "identifiers": [
+        {
+          "identifier": "491",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/491.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/491.jpg"
+        }
+      ],
+      "name": "Anthony T. Benavente",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8926"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8923"
+        }
+      ],
+      "id": "29b730be-b2d9-4ca6-9d0c-b895a5871149",
+      "identifiers": [
+        {
+          "identifier": "499",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/499.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/499.jpg"
+        }
+      ],
+      "name": "Antonio P. Sablan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8871"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8925"
+        }
+      ],
+      "id": "431e1022-bc3c-46e5-93ec-c1e303da64cf",
+      "identifiers": [
+        {
+          "identifier": "490",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/490.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/490.jpg"
+        }
+      ],
+      "name": "Blas Jonathan Attao",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8902"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8897"
+        }
+      ],
+      "id": "bfb82816-e550-4dde-9770-1ba6815d3354",
+      "identifiers": [
+        {
+          "identifier": "504",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/504.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/504.jpg"
+        }
+      ],
+      "name": "Edmund S. Villagomez",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8816"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8829"
+        }
+      ],
+      "id": "358edbec-634f-4908-aedd-15a559975e71",
+      "identifiers": [
+        {
+          "identifier": "498",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/498.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/498.jpg"
+        }
+      ],
+      "name": "Edwin K. Propst",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8952"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8806"
+        }
+      ],
+      "id": "e900e033-2a4d-4a8c-9493-646e2cec48b9",
+      "identifiers": [
+        {
+          "identifier": "489",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/489.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/489.jpg"
+        }
+      ],
+      "name": "Edwin P. Aldan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8827"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8841"
+        }
+      ],
+      "id": "b124dd05-54ea-4983-864b-e751f8cc3688",
+      "identifiers": [
+        {
+          "identifier": "497",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/497.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/497.jpg"
+        }
+      ],
+      "name": "Felicidad T. Ogumoro",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8831"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8830"
+        }
+      ],
+      "id": "5b8711f2-0065-4211-a188-bb06f9b42ab5",
+      "identifiers": [
+        {
+          "identifier": "502",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/502.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/502.jpg"
+        }
+      ],
+      "name": "Francis S. Taimanao",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8985"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8836"
+        }
+      ],
+      "id": "f0dd9ea6-0025-41ff-886a-be3a3d40c6f8",
+      "identifiers": [
+        {
+          "identifier": "479",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/479.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/479.jpg"
+        }
+      ],
+      "name": "George N. Camacho",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8892"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8890"
+        }
+      ],
+      "id": "de382311-67bb-4de7-833b-f37a3825599b",
+      "identifiers": [
+        {
+          "identifier": "496",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/496.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/496.jpg"
+        }
+      ],
+      "name": "Glenn L. Maratita",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8966"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8965"
+        }
+      ],
+      "id": "7656b7a5-fdd5-41b2-95b5-7a6440bbc268",
+      "identifiers": [
+        {
+          "identifier": "500",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/500.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/500.jpg"
+        }
+      ],
+      "name": "John Paul Sablan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8948"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8899"
+        }
+      ],
+      "id": "91d310d7-34e0-4e36-8f8c-e0effe3e70bf",
+      "identifiers": [
+        {
+          "identifier": "495",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/495.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/495.jpg"
+        }
+      ],
+      "name": "Joseph Lee Pan Guerrero",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8900"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8971"
+        }
+      ],
+      "id": "29d8f08a-f1eb-44da-b1da-7e031bb656a4",
+      "identifiers": [
+        {
+          "identifier": "477",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/477.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/477.jpg"
+        }
+      ],
+      "name": "Joseph P. Deleon Guerrero",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "birth_date": "1935-01-25",
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8889"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8888"
+        }
+      ],
+      "death_date": "2006-10-06",
+      "gender": "male",
+      "given_name": "Lorenzo",
+      "id": "345ba59e-ef7c-4693-94eb-c10572d00536",
+      "identifiers": [
+        {
+          "identifier": "493",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3828608",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/493.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/493.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lorenzo_I._De_Leon_Guerrero"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lorenzo_I._De_Leon_Guerrero"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lorenzo_I._De_Leon_Guerrero"
+        }
+      ],
+      "name": "Lorenzo I. Deleon Guerrero",
+      "other_names": [
+        {
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lorenzo I. De Leon Guerrero",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8864"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8974/5"
+        }
+      ],
+      "id": "700fe283-d192-458b-9116-f19cd2107e8c",
+      "identifiers": [
+        {
+          "identifier": "478",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/478.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/478.jpg"
+        }
+      ],
+      "name": "Rafael S. Demapan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8880"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8931"
+        }
+      ],
+      "id": "7fd4b57a-ef6a-46ec-a729-ad498e511e22",
+      "identifiers": [
+        {
+          "identifier": "505",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/505.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/505.jpg"
+        }
+      ],
+      "name": "Ralph N. Yumul",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8842"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8903"
+        }
+      ],
+      "id": "6f08ecb9-7dc6-4f91-8e55-4655eb2c01cb",
+      "identifiers": [
+        {
+          "identifier": "503",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/503.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/503.jpg"
+        }
+      ],
+      "name": "Ramon A. Tebuteb",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8895"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8881"
+        }
+      ],
+      "id": "2636e885-4c5a-4e12-a430-de9115861730",
+      "identifiers": [
+        {
+          "identifier": "492",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/492.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/492.jpg"
+        }
+      ],
+      "name": "Roman C. Benavente",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "fax",
+          "value": "(670) 664-8930"
+        },
+        {
+          "type": "phone",
+          "value": "(670) 664-8928"
+        }
+      ],
+      "id": "dc54c863-9655-4dfe-a7ec-79ab8da27f0a",
+      "identifiers": [
+        {
+          "identifier": "501",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.cnmileg.gov.mp/images/members/501.jpg",
+      "images": [
+        {
+          "url": "http://www.cnmileg.gov.mp/images/members/501.jpg"
+        }
+      ],
+      "name": "Vinson E. Sablan",
+      "sources": [
+        {
+          "url": "http://www.cnmileg.gov.mp/members.asp?secID=1&legsID=19"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7058704",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "House of Representatives",
+      "seats": 20
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/republican",
+      "identifiers": [
+        {
+          "identifier": "Q7314628",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Republican",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Republikanska stranka (Sjeverni Marijanski Otoci)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Republican Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Republican Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "共和黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "共和党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "共和党 (北マリアナ諸島)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Republikanska stranka (Sjverni marijanski Otoci)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Republikanska stranka (Severna Marijanska Ostrva)",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.cnmileg.gov.mp",
+      "http://wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "0bb935b0-b6f4-48b4-a0ea-240425cd5611",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "2636e885-4c5a-4e12-a430-de9115861730",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "29b730be-b2d9-4ca6-9d0c-b895a5871149",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "29d8f08a-f1eb-44da-b1da-7e031bb656a4",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "345ba59e-ef7c-4693-94eb-c10572d00536",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "358edbec-634f-4908-aedd-15a559975e71",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "431e1022-bc3c-46e5-93ec-c1e303da64cf",
+      "role": "member"
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "5b8711f2-0065-4211-a188-bb06f9b42ab5",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "6c124e16-ec84-4091-bb05-6e5a87784b4d",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "6f08ecb9-7dc6-4f91-8e55-4655eb2c01cb",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "700fe283-d192-458b-9116-f19cd2107e8c",
+      "role": "member"
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "7656b7a5-fdd5-41b2-95b5-7a6440bbc268",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "7fd4b57a-ef6a-46ec-a729-ad498e511e22",
+      "role": "member"
+    },
+    {
+      "area_id": "1",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "91d310d7-34e0-4e36-8f8c-e0effe3e70bf",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "b124dd05-54ea-4983-864b-e751f8cc3688",
+      "role": "member"
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "bfb82816-e550-4dde-9770-1ba6815d3354",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "dc54c863-9655-4dfe-a7ec-79ab8da27f0a",
+      "role": "member"
+    },
+    {
+      "area_id": "7",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "de382311-67bb-4de7-833b-f37a3825599b",
+      "role": "member"
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "e900e033-2a4d-4a8c-9493-646e2cec48b9",
+      "role": "member"
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/republican",
+      "organization_id": "legislature",
+      "person_id": "f0dd9ea6-0025-41ff-886a-be3a3d40c6f8",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "2005-11-05",
+      "id": "Q7058724",
+      "name": "Northern Mariana Islands general election, 2005",
+      "start_date": "2005-11-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-11-03",
+      "id": "Q7058725",
+      "name": "Northern Mariana Islands general election, 2007",
+      "start_date": "2007-11-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009-11-07",
+      "id": "Q7058726",
+      "name": "Northern Mariana Islands general election, 2009",
+      "start_date": "2009-11-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012",
+      "id": "Q7058729",
+      "name": "Northern Mariana Islands general election, 2012",
+      "start_date": "2012"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/19",
+      "name": "19th Commonwealth Legislature",
+      "organization_id": "legislature",
+      "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-11-04",
+      "id": "Q16973129",
+      "name": "Northern Mariana Islands general election, 2014",
+      "start_date": "2014-11-04"
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "name": "Election District 1",
+      "type": "constituency"
+    },
+    {
+      "id": "2",
+      "name": "Election District 2",
+      "type": "constituency"
+    },
+    {
+      "id": "3",
+      "name": "Election District 3",
+      "type": "constituency"
+    },
+    {
+      "id": "4",
+      "name": "Election District 4",
+      "type": "constituency"
+    },
+    {
+      "id": "5",
+      "name": "Election District 5",
+      "type": "constituency"
+    },
+    {
+      "id": "6",
+      "name": "Election District 6",
+      "type": "constituency"
+    },
+    {
+      "id": "7",
+      "name": "Election District 7",
+      "type": "constituency"
+    }
+  ]
+}

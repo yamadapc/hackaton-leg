@@ -1,0 +1,1737 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "gender": "male",
+      "given_name": "Bill",
+      "id": "2433f849-5b66-476b-8560-fc5bc813662a",
+      "identifiers": [
+        {
+          "identifier": "bill_vakaafi_motufoou",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4911209",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bill_Vakaafi_Motufoou"
+        }
+      ],
+      "name": "Bill Vakaafi Motufoou",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Bill Vakaafi Motufoou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bill Vakaafi Motufoou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bill Vakaafi Motufoou",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "45b1d413-c111-4e9d-90a4-35cb8943c1a9",
+      "identifiers": [
+        {
+          "identifier": "billy_graham_talagi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Billy Graham Talagi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
+      "identifiers": [
+        {
+          "identifier": "crossley_tatui",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Crossley Tatui",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "895e393d-ad87-44d8-9d25-19fb2325f216",
+      "identifiers": [
+        {
+          "identifier": "dalton_tagelagi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19876617",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dalton_Tagelagi"
+        }
+      ],
+      "name": "Dalton Tagelagi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dalton Tagelagi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "95471f12-f133-4f46-b650-a31d2017f85b",
+      "identifiers": [
+        {
+          "identifier": "dion_paki_taufitu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dion Paki Taufitu",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "58bdfc38-4a7d-4e3a-9498-b5ff0d4d993a",
+      "identifiers": [
+        {
+          "identifier": "fisa_igilisi_pihigia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Fisa Igilisi Pihigia",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "eb9f6d25-0749-470d-8c87-7fc0670e5dac",
+      "identifiers": [
+        {
+          "identifier": "jack_willie_lipitoa,_qsm",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Jack Willie Lipitoa, QSM",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-03-22",
+      "gender": "female",
+      "given_name": "Joan",
+      "id": "2825c176-23e5-4252-90f2-b07790e6482c",
+      "identifiers": [
+        {
+          "identifier": "joan_sisiata_tahafa_viliamu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16730306",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joan_Viliamu"
+        }
+      ],
+      "name": "Joan Sisiata Tahafa Viliamu",
+      "other_names": [
+        {
+          "name": "Joan Viliamu",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Joan Viliamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Viliamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Viliamu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Viliamu",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "3a98d3d6-42a2-4d3c-ba87-e831cf2986ae",
+      "identifiers": [
+        {
+          "identifier": "kupa_magatogia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kupa Magatogia",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "birth_date": "1935-11-12",
+      "family_name": "Vivian",
+      "gender": "male",
+      "id": "ef3d11bc-1f56-483b-9091-708b424b1c5a",
+      "identifiers": [
+        {
+          "identifier": "mititaiagimene_young_vivian",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/027bp3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q508830",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Young-Vivian-2006.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Young-Vivian-2006.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Янг_Вівіян"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γιανγκ_Βίβιαν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Young_Vivian"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Вивиан,_Янг"
+        }
+      ],
+      "name": "Mititaiagimene Young Vivian",
+      "other_names": [
+        {
+          "name": "Young Vivian",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Янг Вівіан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γιανγκ Βίβιαν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Young Vivian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Янг Вивиан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "扬·维维安",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "揚·維維安",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "68f60167-934b-41d7-89b7-23c8cd22dbbf",
+      "identifiers": [
+        {
+          "identifier": "opili_talafasi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Opili Talafasi",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "86205035-9a47-40d7-94fd-204bd43e162c",
+      "identifiers": [
+        {
+          "identifier": "peter_andrew_funaki",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Peter Andrew Funaki",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "65f769e8-1fdb-4dec-9972-3becd2f646e3",
+      "identifiers": [
+        {
+          "identifier": "pokotoa_sipeli",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q251952",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pokotoa_Sipeli"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pokotoa_Sipeli"
+        }
+      ],
+      "name": "Pokotoa Sipeli",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pokotoa Sipeli",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "97b1bda1-748a-4be5-b931-a860ea92a4f2",
+      "identifiers": [
+        {
+          "identifier": "stanley_atuvaha_kalauni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Stanley Atuvaha Kalauni",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "48353385-ca1e-4746-924f-192f47340bfe",
+      "identifiers": [
+        {
+          "identifier": "talaititama_talaiti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Talaititama Talaiti",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "given_name": "Terry",
+      "id": "80aa531f-d157-4cbf-b5d4-4b91a99054ca",
+      "identifiers": [
+        {
+          "identifier": "terry_donald_coe",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7704226",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terry_Coe"
+        }
+      ],
+      "name": "Terry Donald Coe",
+      "other_names": [
+        {
+          "name": "Terry Coe",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Terry Coe",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "id": "477030f6-fd85-44d8-9f75-118e1d0dd9e5",
+      "identifiers": [
+        {
+          "identifier": "tofua_puletama",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tofua Puletama",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "17d1c196-37b4-4772-81da-e81339e32493",
+      "identifiers": [
+        {
+          "identifier": "togia_likalika_sioneholo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7813183",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Togia_Sioneholo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Togia_Sioneholo"
+        }
+      ],
+      "name": "Togia Likalika Sioneholo",
+      "other_names": [
+        {
+          "name": "Togia Sioneholo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Togia Sioneholo",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-12-06",
+      "gender": "male",
+      "given_name": "Toke",
+      "id": "e8756496-590f-4fe7-aca5-2445161df2d2",
+      "identifiers": [
+        {
+          "identifier": "toke_tufukia_talagi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/047mqxm",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q785548",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Toke_Talagi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τόκε_Ταλάγκι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Toke_Tufukia_Talagi"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/トケ・タランギ"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Талаги,_Токе"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Toke_Talagi"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/托克基·塔拉尼"
+        }
+      ],
+      "name": "Toke Tufukia Talagi",
+      "other_names": [
+        {
+          "name": "Toke Talagi",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τόκε Ταλάγκι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Toke Tufukia Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トケ・タランギ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Талаги, Токе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Toke Talagi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "托克基·塔拉尼",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
+      "identifiers": [
+        {
+          "identifier": "va’aiga_tukuitoga",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16886221",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Va'aiga_Tukuitonga"
+        }
+      ],
+      "name": "Va’aiga Tukuitoga",
+      "other_names": [
+        {
+          "name": "Va'aiga Tukuitonga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Va'aiga Tukuitonga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Va'aiga Tukuitonga",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1643140",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Assembly",
+      "seats": 20
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.gov.nu/wb/pages/parliament/assembly.php",
+      "http://wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "17d1c196-37b4-4772-81da-e81339e32493",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mutalau",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "2433f849-5b66-476b-8560-fc5bc813662a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "2825c176-23e5-4252-90f2-b07790e6482c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lakepa",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "3a98d3d6-42a2-4d3c-ba87-e831cf2986ae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/avatele",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "45b1d413-c111-4e9d-90a4-35cb8943c1a9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/makefu",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "477030f6-fd85-44d8-9f75-118e1d0dd9e5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vaiea",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "48353385-ca1e-4746-924f-192f47340bfe",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tuapa",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "58bdfc38-4a7d-4e3a-9498-b5ff0d4d993a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
+      "role": "member"
+    },
+    {
+      "area_id": "area/liku",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "65f769e8-1fdb-4dec-9972-3becd2f646e3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hikutavake",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "68f60167-934b-41d7-89b7-23c8cd22dbbf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "80aa531f-d157-4cbf-b5d4-4b91a99054ca",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tamakautoga",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "86205035-9a47-40d7-94fd-204bd43e162c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alofi_south",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "895e393d-ad87-44d8-9d25-19fb2325f216",
+      "role": "member"
+    },
+    {
+      "area_id": "area/toi",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "95471f12-f133-4f46-b650-a31d2017f85b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "97b1bda1-748a-4be5-b931-a860ea92a4f2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alofi_north",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "e8756496-590f-4fe7-aca5-2445161df2d2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/namukulu",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "eb9f6d25-0749-470d-8c87-7fc0670e5dac",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hakupu",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "ef3d11bc-1f56-483b-9091-708b424b1c5a",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1990-04-07",
+      "id": "Q7041684",
+      "name": "Niuean general election, 1990",
+      "start_date": "1990-04-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-02-27",
+      "id": "Q7041685",
+      "name": "Niuean general election, 1993",
+      "start_date": "1993-02-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1996-02-23",
+      "id": "Q7041686",
+      "name": "Niuean general election, 1996",
+      "start_date": "1996-02-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999-03-19",
+      "id": "Q7041688",
+      "name": "Niuean general election, 1999",
+      "start_date": "1999-03-19"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002-03-21",
+      "id": "Q3587217",
+      "name": "Niuean general election, 2002",
+      "start_date": "2002-03-21"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005-04-30",
+      "id": "Q3587219",
+      "name": "Niuean general election, 2005",
+      "start_date": "2005-04-30"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-06-07",
+      "id": "Q3587218",
+      "name": "Niuean general election, 2008",
+      "start_date": "2008-06-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-05-07",
+      "id": "Q589522",
+      "name": "Niuean general election, 2011",
+      "start_date": "2011-05-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-04-12",
+      "id": "Q16334385",
+      "name": "Niuean general election, 2014",
+      "start_date": "2014-04-12"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/15",
+      "name": "15th Assembly",
+      "organization_id": "legislature",
+      "start_date": "2014-04-23"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/alofi_north",
+      "name": "Alofi North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/alofi_south",
+      "name": "Alofi South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/avatele",
+      "name": "Avatele",
+      "type": "constituency"
+    },
+    {
+      "id": "area/common_roll",
+      "name": "Common Roll",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hakupu",
+      "name": "Hakupu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hikutavake",
+      "name": "Hikutavake",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lakepa",
+      "name": "Lakepa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/liku",
+      "name": "Liku",
+      "type": "constituency"
+    },
+    {
+      "id": "area/makefu",
+      "name": "Makefu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mutalau",
+      "name": "Mutalau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/namukulu",
+      "name": "Namukulu",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tamakautoga",
+      "name": "Tamakautoga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/toi",
+      "name": "Toi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tuapa",
+      "name": "Tuapa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vaiea",
+      "name": "Vaiea",
+      "type": "constituency"
+    }
+  ]
+}

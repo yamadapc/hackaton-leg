@@ -1,0 +1,4244 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "birth_date": "1951-05-09",
+      "death_date": "2012-08-15",
+      "gender": "male",
+      "given_name": "Albert",
+      "id": "66a1e202-ce02-4e9f-b712-1cb28418f0f7",
+      "identifiers": [
+        {
+          "identifier": "Q2831468",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2831468",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Albert_(Peto)_Nicholas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Albert_Peto_Nicholas"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Albert_Nicholas"
+        }
+      ],
+      "name": "Albert (Peto) Nicholas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Albert (Peto) Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Albert Peto Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Albert Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Albert",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "id": "6647e778-ebf0-4a40-8d0b-c21ef99e52ce",
+      "identifiers": [
+        {
+          "identifier": "albert_taaviri_kaitara_nicholas",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Albert Taaviri Kaitara Nicholas",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1960-08-25",
+      "gender": "male",
+      "id": "f101fd6f-a65e-4d7c-9bc7-84733d3c8920",
+      "identifiers": [
+        {
+          "identifier": "Q3391394",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391394",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Apii_Piho"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tereapii_Piho"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tereapii_Piho"
+        }
+      ],
+      "name": "Apii Piho",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tereapii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tereapii Piho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Apii Piho",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-12-02",
+      "gender": "male",
+      "id": "7f2f77b4-3aa0-491e-92a6-4e749fcd1101",
+      "identifiers": [
+        {
+          "identifier": "Q4812881",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4812881",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Atatoa_Herman"
+        }
+      ],
+      "name": "Atatoa Herman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Atatoa Herman",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1952-02-26",
+      "gender": "female",
+      "id": "85c0143d-a28b-4d13-8fc0-b4e4ed20d414",
+      "identifiers": [
+        {
+          "identifier": "Q2362855",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2362855",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cassey_Eggelton"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cassey_Tereapii_Eggelton"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Cassey_Eggelton"
+        }
+      ],
+      "name": "Cassey Eggelton",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cassey Tereapii Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cassey Eggelton",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "given_name": "George",
+      "id": "44cacb00-6ba7-4977-8604-140dc9386a6a",
+      "identifiers": [
+        {
+          "identifier": "Q5536264",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5536264",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Angene"
+        }
+      ],
+      "name": "George Angene",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "George Angene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Angene",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1949-07-29",
+      "gender": "male",
+      "given_name": "Henry",
+      "id": "149f1026-ad5e-4e56-83b9-aa806cf79121",
+      "identifiers": [
+        {
+          "identifier": "Q2569345",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09v4vnv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2569345",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/HenryPuna.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/HenryPuna.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Χένρι_Πούνα"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ヘンリー・プナ"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пуна,_Генри"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Henry_Puna"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Henry_Puna"
+        }
+      ],
+      "name": "Henry Puna",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Χένρι Πούνα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヘンリー・プナ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пуна, Генри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Henry Puna",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "e4cecaf4-2435-47dd-b586-86d00a707125",
+      "identifiers": [
+        {
+          "identifier": "james_beer",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "James Beer",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1947-07-09",
+      "gender": "male",
+      "given_name": "Jim",
+      "id": "487d743d-fd41-4662-bafa-4d91217225ef",
+      "identifiers": [
+        {
+          "identifier": "Q381810",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04qh2m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q381810",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τζιμ_Μαρουράι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jim_Marurai"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Марураи,_Джим"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jim_Marurai"
+        }
+      ],
+      "name": "Jim Marurai",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τζιμ Μαρουράι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジム・マルライ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марураи, Джим",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jim Marurai",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "given_name": "John",
+      "id": "c522a9a8-37fb-45d4-8c0c-c137975d0ba9",
+      "identifiers": [
+        {
+          "identifier": "Q6238703",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6238703",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Henry_(Cook_Islands_politician)"
+        }
+      ],
+      "name": "John Henry",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Henry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Henry",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-11-13",
+      "gender": "male",
+      "given_name": "John",
+      "id": "4871ca79-b172-404f-83d2-1de2b47dc161",
+      "identifiers": [
+        {
+          "identifier": "Q3182561",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3182561",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Tangi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/John_Tangi"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/John_Tangi"
+        }
+      ],
+      "name": "John Tangi",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "John Tangi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Tangi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "id": "8473de5e-468a-4b41-bf6b-bbbc7fe1e456",
+      "identifiers": [
+        {
+          "identifier": "kareroa_wesley",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kareroa Wesley",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-10-30",
+      "death_date": "2015-02-13",
+      "gender": "male",
+      "id": "e72ffd64-ea18-486f-9489-73271d73a3cb",
+      "identifiers": [
+        {
+          "identifier": "Q3195600",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3195600",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kete_Ioane"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kete_Ioane"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Kete_Ioane"
+        }
+      ],
+      "name": "Kete Ioane",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kete Ioane",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "id": "ab30f3fb-8a6c-43a2-951d-ece79457ffa5",
+      "identifiers": [
+        {
+          "identifier": "keu_mataroa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Keu Mataroa",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "8ce97539-1008-4ba1-98fa-aeba3b8cf279",
+      "identifiers": [
+        {
+          "identifier": "Q6415093",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6415093",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kiriau_Turepu"
+        }
+      ],
+      "name": "Kiriau Turepu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kiriau Turepu",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1939-04-28",
+      "gender": "male",
+      "id": "ed54f0a2-feb7-4a49-914f-07ffc65e0134",
+      "identifiers": [
+        {
+          "identifier": "Q3287254",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3287254",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mapu_Taia"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mapu_Taia"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Mapu_Taia"
+        }
+      ],
+      "name": "Mapu Taia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mapu Taia",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "family_name": "Brown",
+      "gender": "male",
+      "given_name": "Mark",
+      "id": "0b08be51-b92b-4f82-bbd9-4d4ae4d30b94",
+      "identifiers": [
+        {
+          "identifier": "Q6766871",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6766871",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Brown_(Cook_Islands)"
+        }
+      ],
+      "name": "Mark Brown",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mark Brown",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марк Браун",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-01-16",
+      "death_date": "2008-12-06",
+      "gender": "male",
+      "id": "5782e639-39c6-44be-ba56-12dfeed79624",
+      "identifiers": [
+        {
+          "identifier": "Q1647074",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05q4j5q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1647074",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mii_Parima"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Miimama_Parima"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Mii_Parima"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Mii_Parima"
+        }
+      ],
+      "name": "Mii Parima",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Miimama Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mii Parima",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-06-20",
+      "gender": "male",
+      "given_name": "Moana",
+      "id": "8ccf56a1-b3d4-4782-bf68-753339caaf48",
+      "identifiers": [
+        {
+          "identifier": "Q6886399",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6886399",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Moana_Ioane"
+        }
+      ],
+      "name": "Moana Ioane",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Moana Ioane",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1951-05-21",
+      "gender": "male",
+      "given_name": "Nandi",
+      "id": "2f72b03e-28e0-4bef-8341-351436628e60",
+      "identifiers": [
+        {
+          "identifier": "Q3335628",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3335628",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nandi_Glassie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nandi_Glassie"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Nandi_Glassie"
+        }
+      ],
+      "name": "Nandi Glassie",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nandi Glassie",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1936-04-24",
+      "gender": "female",
+      "id": "be9c7d0c-ffda-4fce-8276-b1e2ddf7d5ba",
+      "identifiers": [
+        {
+          "identifier": "Q3284786",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3284786",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngai_Tupa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mama_Ngai_Tupa"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Ngai_Tupa"
+        }
+      ],
+      "name": "Ngai Tupa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mama Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ngai Tupa",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "birth_date": "1944-08-13",
+      "gender": "female",
+      "id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
+      "identifiers": [
+        {
+          "identifier": "Q3339268",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3339268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngamau_Munokoa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ngamau_Mere_Munokoa"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Ngamau_Munokoa"
+        }
+      ],
+      "name": "Ngamau Munokoa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ngamau Munokoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ngamau Munokoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ngamau Mere Munokoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ngamau Munokoa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ngamau Munokoa",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1946-07-02",
+      "gender": "male",
+      "given_name": "Norman",
+      "id": "81c97e86-f40a-4801-bf02-f65dd1425634",
+      "identifiers": [
+        {
+          "identifier": "Q3343780",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3343780",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Norman_George"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Norman_George"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Norman_George"
+        }
+      ],
+      "name": "Norman George",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Norman George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Norman George",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-11-15",
+      "gender": "male",
+      "id": "31e3de08-57a2-4198-b971-6a1bf9271313",
+      "identifiers": [
+        {
+          "identifier": "Q3388338",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3388338",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Piho_Rua"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Piho_Rua"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Piho_Rua"
+        }
+      ],
+      "name": "Piho Rua",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Piho Rua",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "death_date": "2012-10-18",
+      "gender": "male",
+      "id": "6a72d2bc-e26c-434f-9afc-0d28ad8791e0",
+      "identifiers": [
+        {
+          "identifier": "Q7259108",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7259108",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pukeiti_Pukeiti"
+        }
+      ],
+      "name": "Pukeiti Pukeiti",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pukeiti Pukeiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pukeiti Pukeiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pukeiti Pukeiti",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1949-09-08",
+      "death_date": "2012-04-13",
+      "gender": "male",
+      "given_name": "Robert",
+      "id": "13620f66-7f7f-4eee-b1d6-c2deafe1a232",
+      "identifiers": [
+        {
+          "identifier": "Q3324531",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09rt9f9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3324531",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Wigmore"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Robert_George_Wigmore"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Robert_Wigmore"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Robert_Wigmore"
+        }
+      ],
+      "name": "Robert Wigmore",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Robert George Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Robert Wigmore",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
+      "name": "Rose Toki-Brown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "440abfc8-699f-4da4-b438-d21fba223358",
+      "identifiers": [
+        {
+          "identifier": "selina_napa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Selina Napa",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1949",
+      "gender": "male",
+      "id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
+      "identifiers": [
+        {
+          "identifier": "Q7675846",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7675846",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tai_Tura"
+        }
+      ],
+      "name": "Tai Tura",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tai Tura",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "73e18486-7478-4cb3-a005-4433605ac358",
+      "identifiers": [
+        {
+          "identifier": "tamaiva_tuavera",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tamaiva Tuavera",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1949-09-08",
+      "gender": "male",
+      "id": "879c105b-3461-4cc5-aebb-daa8aaf78c9d",
+      "identifiers": [
+        {
+          "identifier": "Q3391011",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391011",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tangata_Vavia"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tangata_Mouauri_Vavia"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tangata_Vavia"
+        }
+      ],
+      "name": "Tangata Vavia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tangata Mouauri Vavia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tangata Vavia",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "b725d6c3-e41c-4177-babd-13abe20a740f",
+      "identifiers": [
+        {
+          "identifier": "Q7688729",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7688729",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Taunga_Toka"
+        }
+      ],
+      "name": "Taunga Toka",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Taunga Toka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Taunga Toka",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-07-30",
+      "gender": "male",
+      "id": "db852fe6-1f60-44e9-8663-4343c538e929",
+      "identifiers": [
+        {
+          "identifier": "Q3391017",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391017",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Teariki_Heather"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teariki_William_Heather"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Teariki_Heather"
+        }
+      ],
+      "name": "Teariki Heather",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teariki William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teariki Heather",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-04-11",
+      "gender": "male",
+      "id": "6471d986-ab1a-48ff-9526-9b4536be5bfc",
+      "identifiers": [
+        {
+          "identifier": "Q3391383",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391383",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Teina_Bishop"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Teinakore_Tom_Bishop"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Teina_Bishop"
+        }
+      ],
+      "name": "Teina Bishop",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Teina Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Teina Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teinakore Tom Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Teina Bishop",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teina Bishop",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "eb013ebb-2e16-4393-9be8-69b6a2209ae4",
+      "identifiers": [
+        {
+          "identifier": "Q7695346",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7695346",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tekii_Lazaro"
+        }
+      ],
+      "name": "Tekii Lazaro",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tekii Lazaro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tekii Lazaro",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1934-09-01",
+      "death_date": "2012-07-09",
+      "gender": "male",
+      "id": "76aac57f-2dfd-496d-84ab-5d932088f89f",
+      "identifiers": [
+        {
+          "identifier": "Q2989309",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05q86yk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2989309",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Terepai_Maoate"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terepai_Maoate"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Terepai_Maoate"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Terepai_Maoate"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Terepai_Maoate"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Маоате,_Терепаи"
+        }
+      ],
+      "name": "Terepai Maoate",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "テレパイ・マオアテ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маоате, Терепаи",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-12-05",
+      "gender": "male",
+      "id": "1237e70d-b750-4c03-964e-2919ddcd8514",
+      "identifiers": [
+        {
+          "identifier": "Q3391036",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391036",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terepai_Maoate_Jnr"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Terepai_(Junior)_Maoate"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Terepai_Maoate_(fillo)"
+        }
+      ],
+      "name": "Terepai Maoate Jnr",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Terepai Maoate Jnr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Terepai Maoate Jnr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Terepai (Junior) Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Terepai Maoate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Terepai Maoate Jnr",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "29caf39a-f9bf-464b-8155-3b557bbc6497",
+      "identifiers": [
+        {
+          "identifier": "Q7811397",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7811397",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toanui_Isamaela"
+        }
+      ],
+      "name": "Toanui Isamaela",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Toanui Isamaela",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "71512d8a-163d-4e9b-84e4-6a1935784c67",
+      "identifiers": [
+        {
+          "identifier": "toka_hagai",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Toka Hagai",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "8f07b545-0b6e-4ab6-ae97-3e2b62c644ba",
+      "identifiers": [
+        {
+          "identifier": "tokorua_pareina",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tokorua Pareina",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1945-08-04",
+      "gender": "male",
+      "given_name": "Tom",
+      "id": "784f15bd-3c31-4252-b89e-28be7046f3a4",
+      "identifiers": [
+        {
+          "identifier": "Q3391025",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391025",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tom_Marsters"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tom_John_Marsters"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tom_Marsters"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tom_Marsters"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Марстерс,_Том"
+        }
+      ],
+      "name": "Tom Marsters",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tom Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tom Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tom John Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tom Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トム・マースターズ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tom Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tom Marsters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марстерс, Том",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "id": "90956a68-cca9-4f24-be62-06338765b4c9",
+      "identifiers": [
+        {
+          "identifier": "tuakeu_tangatapoto",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tuakeu Tangatapoto",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1950-12-10",
+      "gender": "male",
+      "id": "3eea340f-e412-479d-a271-bdd9adf6e882",
+      "identifiers": [
+        {
+          "identifier": "Q3391992",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391992",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vai_Peua"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tamaiti_Vai_Peua"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Vai_Peua"
+        }
+      ],
+      "name": "Vai Peua",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tamaiti Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vai Peua",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2006"
+        }
+      ]
+    },
+    {
+      "id": "29ef0bd5-06af-48e3-a84f-d67cc64a3f5a",
+      "identifiers": [
+        {
+          "identifier": "vainetutai_rose_toki-brown",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Vainetutai Rose Toki-Brown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-03-21",
+      "gender": "male",
+      "id": "469ec8ce-e91a-4521-ad78-e2132b1b48b4",
+      "identifiers": [
+        {
+          "identifier": "Q3391007",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391007",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wilkie_Rasmussen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Wilkie_Rasmussen"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Wilkie_Rasmussen"
+        }
+      ],
+      "name": "Wilkie Rasmussen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wilkie Rasmussen",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-07-07",
+      "gender": "male",
+      "given_name": "William",
+      "id": "d8bc54a6-c440-432f-862a-086bed35e89f",
+      "identifiers": [
+        {
+          "identifier": "Q3391029",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3391029",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/William_(Smiley)_Heather"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/William_\"Smiley\"_Heather"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/William_\"Smiley\"_Heather"
+        }
+      ],
+      "name": "William (Smiley) Heather",
+      "other_names": [
+        {
+          "name": "William Heather",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "William \"Smiley\" Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "William \"Smiley\" Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "William Heather",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "William Heather",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    },
+    {
+      "id": "ec3a5431-4b56-4b39-8b78-2a54d35ac169",
+      "identifiers": [
+        {
+          "identifier": "william_william_heather",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "William William Heather",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "id": "6c01f67b-df60-4a4f-b5b9-fab87989fb2b",
+      "identifiers": [
+        {
+          "identifier": "willie_john",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Willie John",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2014"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-12-08",
+      "gender": "male",
+      "id": "b96cbc5c-e261-4c18-9340-2dcf9f43c0bc",
+      "identifiers": [
+        {
+          "identifier": "Q3390985",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3390985",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Winton_Pickering"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Winton_Brian_Pickering"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Winton_Pickering"
+        }
+      ],
+      "name": "Winton Pickering",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Winton Brian Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Winton Pickering",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cook_Islands_general_election,_2010"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/cip",
+      "identifiers": [
+        {
+          "identifier": "Q2429562",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CIP",
+      "other_names": [
+        {
+          "lang": "gl",
+          "name": "Partido das Illas Cook",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti des îles Cook",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Островов Кука",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cook Islands Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de las Islas Cook",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія Островів Кука",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "庫克群島黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "库克群岛党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クック諸島党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cook Islands Party",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/dp",
+      "identifiers": [
+        {
+          "identifier": "Q2429581",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.democi.org"
+        }
+      ],
+      "name": "DP",
+      "other_names": [
+        {
+          "lang": "gl",
+          "name": "Partido Demócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Островов Кука",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Alianza Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主党 (クック諸島)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Alianza Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/oci",
+      "identifiers": [
+        {
+          "identifier": "Q16951367",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "OCI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Cook Islands One",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "One Cook Islands",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q7138950",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Parliament",
+      "seats": 24
+    }
+  ],
+  "meta": {
+    "sources": [
+      "https://en.wikipedia.org/",
+      "http://wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/takuvaine-tutakimoa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "0b08be51-b92b-4f82-bbd9-4d4ae4d30b94",
+      "role": "member"
+    },
+    {
+      "area_id": "area/takuvaine-tutakimoa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "0b08be51-b92b-4f82-bbd9-4d4ae4d30b94",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amuri-ureia",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "1237e70d-b750-4c03-964e-2919ddcd8514",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nikao-panama",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nikao-panama",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nikao-panama",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "12d87f4e-760c-45ae-a72f-ec387fd1c381",
+      "role": "member"
+    },
+    {
+      "area_id": "area/titikaveka",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "13620f66-7f7f-4eee-b1d6-c2deafe1a232",
+      "role": "member"
+    },
+    {
+      "area_id": "area/titikaveka",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "13620f66-7f7f-4eee-b1d6-c2deafe1a232",
+      "role": "member"
+    },
+    {
+      "area_id": "area/manihiki",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "149f1026-ad5e-4e56-83b9-aa806cf79121",
+      "role": "member"
+    },
+    {
+      "area_id": "area/manihiki",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "149f1026-ad5e-4e56-83b9-aa806cf79121",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amuri-ureia",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "29caf39a-f9bf-464b-8155-3b557bbc6497",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amuri-ureia",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "29caf39a-f9bf-464b-8155-3b557bbc6497",
+      "role": "member"
+    },
+    {
+      "area_id": "area/teenui-mapumai",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "29ef0bd5-06af-48e3-a84f-d67cc64a3f5a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tengatangi-areora-ngatiarua",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "2f72b03e-28e0-4bef-8341-351436628e60",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tengatangi-areora-ngatiarua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "2f72b03e-28e0-4bef-8341-351436628e60",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tengatangi-areora-ngatiarua",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "2f72b03e-28e0-4bef-8341-351436628e60",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rakahanga",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "31e3de08-57a2-4198-b971-6a1bf9271313",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pukapuka-nassau",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "3eea340f-e412-479d-a271-bdd9adf6e882",
+      "role": "member"
+    },
+    {
+      "area_id": "area/titikaveka",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "440abfc8-699f-4da4-b438-d21fba223358",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tupapa-maraerenga",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "44cacb00-6ba7-4977-8604-140dc9386a6a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tupapa-maraerenga",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/oci",
+      "organization_id": "legislature",
+      "person_id": "44cacb00-6ba7-4977-8604-140dc9386a6a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/penrhyn",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "469ec8ce-e91a-4521-ad78-e2132b1b48b4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/penrhyn",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "469ec8ce-e91a-4521-ad78-e2132b1b48b4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tupapa-maraerenga",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "4871ca79-b172-404f-83d2-1de2b47dc161",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ivirua",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "487d743d-fd41-4662-bafa-4d91217225ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ivirua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "487d743d-fd41-4662-bafa-4d91217225ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ivirua",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "487d743d-fd41-4662-bafa-4d91217225ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/teenui-mapumai",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "49f12138-60dc-4f12-9ad5-8ffa918148ed",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tamarua",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "5782e639-39c6-44be-ba56-12dfeed79624",
+      "role": "member"
+    },
+    {
+      "area_id": "area/arutanga-reureu-nikaupara",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6471d986-ab1a-48ff-9526-9b4536be5bfc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/arutanga-reureu-nikaupara",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6471d986-ab1a-48ff-9526-9b4536be5bfc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/arutanga-reureu-nikaupara",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/oci",
+      "organization_id": "legislature",
+      "person_id": "6471d986-ab1a-48ff-9526-9b4536be5bfc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/avatiu-ruatonga-palmerston",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "6647e778-ebf0-4a40-8d0b-c21ef99e52ce",
+      "role": "member"
+    },
+    {
+      "area_id": "area/avatiu-ruatonga-palmerston",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "66a1e202-ce02-4e9f-b712-1cb28418f0f7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tamarua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6a72d2bc-e26c-434f-9afc-0d28ad8791e0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/penrhyn",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6c01f67b-df60-4a4f-b5b9-fab87989fb2b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mauke",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mauke",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "6c8d3c61-259a-4b02-ad46-855d13f14f83",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rakahanga",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "71512d8a-163d-4e9b-84e4-6a1935784c67",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ngatangiia",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "73e18486-7478-4cb3-a005-4433605ac358",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ngatangiia",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "76aac57f-2dfd-496d-84ab-5d932088f89f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/murienua",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "784f15bd-3c31-4252-b89e-28be7046f3a4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/murienua",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "784f15bd-3c31-4252-b89e-28be7046f3a4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ngatangiia",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "7f2f77b4-3aa0-491e-92a6-4e749fcd1101",
+      "role": "member"
+    },
+    {
+      "area_id": "area/teenui-mapumai",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "81c97e86-f40a-4801-bf02-f65dd1425634",
+      "role": "member"
+    },
+    {
+      "area_id": "area/teenui-mapumai",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "81c97e86-f40a-4801-bf02-f65dd1425634",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oneroa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "8473de5e-468a-4b41-bf6b-bbbc7fe1e456",
+      "role": "member"
+    },
+    {
+      "area_id": "area/matavera",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "85c0143d-a28b-4d13-8fc0-b4e4ed20d414",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mitiaro",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "879c105b-3461-4cc5-aebb-daa8aaf78c9d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mitiaro",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "879c105b-3461-4cc5-aebb-daa8aaf78c9d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vaipae-tautu",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "8ccf56a1-b3d4-4782-bf68-753339caaf48",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vaipae-tautu",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "8ccf56a1-b3d4-4782-bf68-753339caaf48",
+      "role": "member"
+    },
+    {
+      "area_id": "area/matavera",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "8ce97539-1008-4ba1-98fa-aeba3b8cf279",
+      "role": "member"
+    },
+    {
+      "area_id": "area/matavera",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "8ce97539-1008-4ba1-98fa-aeba3b8cf279",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tamarua",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "8f07b545-0b6e-4ab6-ae97-3e2b62c644ba",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mitiaro",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "90956a68-cca9-4f24-be62-06338765b4c9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/akaoa",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "ab30f3fb-8a6c-43a2-951d-ece79457ffa5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rakahanga",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "b725d6c3-e41c-4177-babd-13abe20a740f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oneroa",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "b96cbc5c-e261-4c18-9340-2dcf9f43c0bc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/oneroa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "b96cbc5c-e261-4c18-9340-2dcf9f43c0bc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/takuvaine-tutakimoa",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "be9c7d0c-ffda-4fce-8276-b1e2ddf7d5ba",
+      "role": "member"
+    },
+    {
+      "area_id": "area/avatiu-ruatonga-palmerston",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "c522a9a8-37fb-45d4-8c0c-c137975d0ba9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/rua'au",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "d8bc54a6-c440-432f-862a-086bed35e89f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ruaau",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "d8bc54a6-c440-432f-862a-086bed35e89f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/akaoa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "db852fe6-1f60-44e9-8663-4343c538e929",
+      "role": "member"
+    },
+    {
+      "area_id": "area/akaoa",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "db852fe6-1f60-44e9-8663-4343c538e929",
+      "role": "member"
+    },
+    {
+      "area_id": "area/murienua",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "e4cecaf4-2435-47dd-b586-86d00a707125",
+      "role": "member"
+    },
+    {
+      "area_id": "area/vaipae-tautu",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "e72ffd64-ea18-486f-9489-73271d73a3cb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pukapuka-nassau",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "eb013ebb-2e16-4393-9be8-69b6a2209ae4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pukapuka-nassau",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/cip",
+      "organization_id": "legislature",
+      "person_id": "eb013ebb-2e16-4393-9be8-69b6a2209ae4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ruaau",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "ec3a5431-4b56-4b39-8b78-2a54d35ac169",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mauke",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "ed54f0a2-feb7-4a49-914f-07ffc65e0134",
+      "role": "member"
+    },
+    {
+      "area_id": "area/manihiki",
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "f101fd6f-a65e-4d7c-9bc7-84733d3c8920",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1965",
+      "id": "Q5166949",
+      "name": "Cook Islands general election, 1965",
+      "start_date": "1965"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1968",
+      "id": "Q5166951",
+      "name": "Cook Islands general election, 1968",
+      "start_date": "1968"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1972",
+      "id": "Q5166952",
+      "name": "Cook Islands general election, 1972",
+      "start_date": "1972"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1974",
+      "id": "Q5166954",
+      "name": "Cook Islands general election, 1974",
+      "start_date": "1974"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1978",
+      "id": "Q3586931",
+      "name": "Cook Islands general election, 1978",
+      "start_date": "1978"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1983-03",
+      "id": "Q5166958",
+      "name": "Cook Islands general election, March 1983",
+      "start_date": "1983-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1983-11",
+      "id": "Q5166961",
+      "name": "Cook Islands general election, November 1983",
+      "start_date": "1983-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q16951345",
+      "name": "Cook Islands general election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q3586930",
+      "name": "Cook Islands general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q3586929",
+      "name": "Cook Islands general election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q3586932",
+      "name": "Cook Islands general election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006",
+      "id": "Q3586933",
+      "name": "Cook Islands general election, 2006",
+      "start_date": "2006"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2010-09-24",
+      "id": "term/12",
+      "name": "12th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2006"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010",
+      "id": "Q5166960",
+      "name": "Cook Islands general election, 2010",
+      "start_date": "2010"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2014-04-17",
+      "id": "term/13",
+      "name": "13th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2011-02-18"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/14",
+      "name": "14th Parliament",
+      "organization_id": "legislature",
+      "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-07-09",
+      "id": "Q16951352",
+      "name": "Cook Islands general election, 2014",
+      "start_date": "2014-07-09"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/akaoa",
+      "name": "Akaoa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/amuri-ureia",
+      "name": "Amuri-Ureia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/arutanga-reureu-nikaupara",
+      "name": "Arutanga-Reureu-Nikaupara",
+      "type": "constituency"
+    },
+    {
+      "id": "area/avatiu-ruatonga-palmerston",
+      "name": "Avatiu-Ruatonga-Palmerston",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ivirua",
+      "name": "Ivirua",
+      "type": "constituency"
+    },
+    {
+      "id": "area/manihiki",
+      "name": "Manihiki",
+      "type": "constituency"
+    },
+    {
+      "id": "area/matavera",
+      "name": "Matavera",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mauke",
+      "name": "Mauke",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mitiaro",
+      "name": "Mitiaro",
+      "type": "constituency"
+    },
+    {
+      "id": "area/murienua",
+      "name": "Murienua",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngatangiia",
+      "name": "Ngatangiia",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nikao-panama",
+      "name": "Nikao-Panama",
+      "type": "constituency"
+    },
+    {
+      "id": "area/oneroa",
+      "name": "Oneroa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/penrhyn",
+      "name": "Penrhyn",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pukapuka-nassau",
+      "name": "Pukapuka-Nassau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rakahanga",
+      "name": "Rakahanga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/rua'au",
+      "name": "Rua'au",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ruaau",
+      "name": "Ruaau",
+      "type": "constituency"
+    },
+    {
+      "id": "area/takuvaine-tutakimoa",
+      "name": "Takuvaine-Tutakimoa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tamarua",
+      "name": "Tamarua",
+      "type": "constituency"
+    },
+    {
+      "id": "area/teenui-mapumai",
+      "name": "Teenui-Mapumai",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tengatangi-areora-ngatiarua",
+      "name": "Tengatangi-Areora-Ngatiarua",
+      "type": "constituency"
+    },
+    {
+      "id": "area/titikaveka",
+      "name": "Titikaveka",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tupapa-maraerenga",
+      "name": "Tupapa-Maraerenga",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vaipae-tautu",
+      "name": "Vaipae-Tautu",
+      "type": "constituency"
+    }
+  ]
+}

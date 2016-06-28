@@ -1,0 +1,4220 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "dd11dc41-556c-4f00-8bcd-f0c23889c531",
+      "identifiers": [
+        {
+          "identifier": "aleksandar-nikoloski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Nikolovski.jpg"
+        }
+      ],
+      "name": "Aleksandar Nikoloski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-aleksandar-nikoloski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d8eca104-e8a1-487d-a734-1e0988b130ae",
+      "identifiers": [
+        {
+          "identifier": "aleksandar-stojkoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Aleksandar-Stojkovski.jpg"
+        }
+      ],
+      "name": "Aleksandar Stojkoski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-aleksandar-stojkoski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "31be7a64-8b23-4a10-844a-ef23bf410cc4",
+      "identifiers": [
+        {
+          "identifier": "ali-ahmeti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg"
+        }
+      ],
+      "name": "Ali Ahmeti",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-ali-ahmeti-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "8756cf1a-8d61-4f38-8c55-384aa5946214",
+      "identifiers": [
+        {
+          "identifier": "alim-bilali",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/AlimBilali.jpg"
+        }
+      ],
+      "name": "Alim Bilali",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-alim-bilali-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "6316072d-5a99-4432-8ba0-568d84bb2c03",
+      "identifiers": [
+        {
+          "identifier": "amdi-bajram",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg"
+        }
+      ],
+      "name": "Amdi Bajram",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/union-of-roma-of-macedonia-2014-ns_article-amdi-bajram-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
+      "identifiers": [
+        {
+          "identifier": "andon-cibisev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Andon-Chibishev.jpg"
+        }
+      ],
+      "name": "Andon Cibisev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-andon-cibisev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "ebbe68a8-dc10-4002-acd3-56dd3cfea49c",
+      "identifiers": [
+        {
+          "identifier": "ane-laskoska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg"
+        }
+      ],
+      "name": "Ane Laskoska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ane-laskoska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "851fa6cc-6dff-4f8b-8e65-3821b012f44e",
+      "identifiers": [
+        {
+          "identifier": "antonijo-milososki",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg"
+        }
+      ],
+      "name": "Antonijo Milososki",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-antonijo-milososki-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "0a25e3b6-8a44-4bb5-829c-97614a87c4dd",
+      "identifiers": [
+        {
+          "identifier": "artan-grubi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%2520sliki%252014-18/A.Grubi.jpg"
+        }
+      ],
+      "name": "Artan Grubi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-artan-grubi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "a3143a3c-a022-43de-bb0c-5d2531184477",
+      "identifiers": [
+        {
+          "identifier": "avdija-pepik",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Avdija-Pepic.jpg"
+        }
+      ],
+      "name": "Avdija Pepik",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-avdija-pepik-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
+      "identifiers": [
+        {
+          "identifier": "bekim-fazliu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Bekim-Fazliu.jpg"
+        }
+      ],
+      "name": "Bekim Fazliu",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-bekim-fazliu-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "27fc3c43-5400-4889-a853-b86cc08e0e9b",
+      "identifiers": [
+        {
+          "identifier": "blagica-lasovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagica-Lasovska.jpg"
+        }
+      ],
+      "name": "Blagica Lasovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-blagica-lasovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "fc7412a1-acd0-40fe-98d2-64ce753aca21",
+      "identifiers": [
+        {
+          "identifier": "blagoja-despotovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Blagoja-Despotovski.jpg"
+        }
+      ],
+      "name": "Blagoja Despotovski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-blagoja-despotovski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "4b1526a9-6d6c-4b39-b127-9debb8314f7c",
+      "identifiers": [
+        {
+          "identifier": "blagorodna-bojadzieva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/B.Bojadzieva.jpg"
+        }
+      ],
+      "name": "Blagorodna Bojadzieva",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-blagorodna-bojadzieva-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b0ef4a95-79fb-4243-9beb-1367fd4f255b",
+      "identifiers": [
+        {
+          "identifier": "chedomir-sazdovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/cedomir-sazdovski---grom.jpg"
+        }
+      ],
+      "name": "Chedomir Sazdovski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-chedomir-sazdovski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "fc6daa63-6136-44f1-a8ef-352f1a80a80d",
+      "identifiers": [
+        {
+          "identifier": "daniela-rangelova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg"
+        }
+      ],
+      "name": "Daniela Rangelova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-daniela-rangelova-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "046fad6d-206a-4848-8b1f-327894630cb9",
+      "identifiers": [
+        {
+          "identifier": "dimitar-stevanandzija",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dimitat-Stevanandjija.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dimitat-Stevanandjija.jpg"
+        }
+      ],
+      "name": "Dimitar Stevanandzija",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-dimitar-stevanandzija-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b7ec31ee-6130-4919-ad5e-78bf8f7bfe36",
+      "identifiers": [
+        {
+          "identifier": "dragan-cuklev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg"
+        }
+      ],
+      "name": "Dragan Cuklev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-dragan-cuklev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "8ac4af5c-cd6c-44a2-9c4f-78ae3bee62a5",
+      "identifiers": [
+        {
+          "identifier": "dragan-danev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg"
+        }
+      ],
+      "name": "Dragan Danev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-dragan-danev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
+      "identifiers": [
+        {
+          "identifier": "ejup-rustemi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ejup-Rustemi.jpg"
+        }
+      ],
+      "name": "Ejup Rustemi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-ejup-rustemi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "f2b6e36a-f92a-4d3f-9599-a53ae789b021",
+      "identifiers": [
+        {
+          "identifier": "emil-dimitriev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg"
+        }
+      ],
+      "name": "Emil Dimitriev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-emil-dimitriev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "71600864-6d7b-4faa-bd9a-faa89f06a4d8",
+      "identifiers": [
+        {
+          "identifier": "ermira-mehmeti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ermira-Mehmeti-Devaja.jpg"
+        }
+      ],
+      "name": "Ermira Mehmeti",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-ermira-mehmeti-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "a5b562ff-87c0-47f0-bcd4-a90cf91004df",
+      "identifiers": [
+        {
+          "identifier": "ernad-fejzula",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Ernad-Fejzula.jpg"
+        }
+      ],
+      "name": "Ernad Fejzula",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ernad-fejzula-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "64384263-11f6-4928-a7fa-a18a33b68b92",
+      "identifiers": [
+        {
+          "identifier": "fatmir-imeroski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Fatmir-Imerovski-.jpg"
+        }
+      ],
+      "name": "Fatmir Imeroski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-fatmir-imeroski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1379e9f8-4f2e-46ca-8f84-6651087132ab",
+      "identifiers": [
+        {
+          "identifier": "gazmend-aliji",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gazmend-Aljiji.jpg"
+        }
+      ],
+      "name": "Gazmend Aliji",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-gazmend-aliji-2014-2018.nspx"
+        }
+      ]
+    },
+    {
+      "id": "e09704a6-4601-4898-b4c0-f991c79a4bcd",
+      "identifiers": [
+        {
+          "identifier": "gjoko-kamcev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Gjoko-Kamcev.jpg"
+        }
+      ],
+      "name": "Gjoko Kamcev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-gjoko-kamcev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "69d80493-08f8-401c-af92-e5b18b0a3a18",
+      "identifiers": [
+        {
+          "identifier": "gjorgji-kodzabasiev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djordji-Kodjabasiev.jpg"
+        }
+      ],
+      "name": "Gjorgji Kodzabasiev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-gjorgji-kodzabasiev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "945e9702-ce37-4f29-b59f-8181437f14ef",
+      "identifiers": [
+        {
+          "identifier": "hazbi-ljika",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Hazbi-Lika.jpg"
+        }
+      ],
+      "name": "Hazbi LJika",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-hazbi-ljika-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d482e080-b0ff-486b-b3cc-4b934804cd7f",
+      "identifiers": [
+        {
+          "identifier": "ilija-dimovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg"
+        }
+      ],
+      "name": "Ilija Dimovski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ilija-dimovski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1977-03-26",
+      "gender": "male",
+      "id": "e09bc82f-a3a9-406e-bcaa-b996a00bb620",
+      "identifiers": [
+        {
+          "identifier": "imer-aliu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3408284",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Imer-Aliu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Имер_Алиу"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Имер_Алиу"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Имер_Алију"
+        }
+      ],
+      "name": "Imer Aliu",
+      "other_names": [
+        {
+          "name": "Имер Алиу",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Имер Алиу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Имер Алиу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Imer Aliu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Имер Алију",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Имер Алију",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Imer Aliju",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-imer-aliu-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "40172fe5-7606-483c-9a20-80eae9068781",
+      "identifiers": [
+        {
+          "identifier": "ivan-ivanov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg"
+        }
+      ],
+      "name": "Ivan Ivanov",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ivan-ivanov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-02-15",
+      "gender": "male",
+      "given_name": "Ivan",
+      "id": "9c44a801-17a5-4c9d-8280-3a91dfda77a4",
+      "identifiers": [
+        {
+          "identifier": "ivan-stoilkovik",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12281220",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Stoilkovik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Иван_Стоилкович"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Иван_Стоилковиќ"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Иван_Стоилковић"
+        }
+      ],
+      "name": "Ivan Stoilkovik",
+      "other_names": [
+        {
+          "name": "Иван Стоилковиќ",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Иван Стоилкович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Stoiljkovik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Иван Стоилковиќ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ivan Stoilkovikj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Stoiljkovik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ivan Stoilkovikj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Иван Стоилковић",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ivan-stoilkovik-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1358ca20-9245-47ed-aa2a-6ef38acc56a2",
+      "identifiers": [
+        {
+          "identifier": "jamin-sinani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Jamin-Sinani.jpg"
+        }
+      ],
+      "name": "Jamin Sinani",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-jamin-sinani-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "efa8539f-cb81-4188-a5c8-b68a2920fb6a",
+      "identifiers": [
+        {
+          "identifier": "jasminka-damceska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/JasminkaDanceeska.jpg"
+        }
+      ],
+      "name": "Jasminka Damceska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-jasminka-damceska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
+      "identifiers": [
+        {
+          "identifier": "kaltrina-azizi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kaltrina-Azizi.jpg"
+        }
+      ],
+      "name": "Kaltrina Azizi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-kaltrina-azizi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b1b5ca60-2848-478e-8189-21ae7279f97b",
+      "identifiers": [
+        {
+          "identifier": "kenan-hasipi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Kenan-Hasipi.jpg"
+        }
+      ],
+      "name": "Kenan Hasipi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-kenan-hasipi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "076b1abc-b09e-4331-b3fe-6c9605b9cbea",
+      "identifiers": [
+        {
+          "identifier": "krsto-mukoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Krsto-Mukoski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Krsto-Mukoski.jpg"
+        }
+      ],
+      "name": "Krsto Mukoski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-krsto-mukoski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "a89701d6-e9f8-4308-817e-cb7b5beaf574",
+      "identifiers": [
+        {
+          "identifier": "ljubica-buralieva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljubica-Buralieva.jpg"
+        }
+      ],
+      "name": "LJubica Buralieva",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/independent-members-14-18-ns_article-ljubica-buralieva-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d6cb301e-2019-4400-ad11-5e7a9635c179",
+      "identifiers": [
+        {
+          "identifier": "liljana-kuzmanovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg"
+        }
+      ],
+      "name": "Liljana Kuzmanovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-liljana-kuzmanovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1956-05-24",
+      "gender": "female",
+      "id": "878e7e2a-bc4b-4bde-a6b5-900484d2ae2b",
+      "identifiers": [
+        {
+          "identifier": "liljana-popovska",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6540258",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana--Popovska.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лиляна_Поповска"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Liljana_Popovska"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Лилјана_Поповска"
+        }
+      ],
+      "name": "Liljana Popovska",
+      "other_names": [
+        {
+          "name": "Лилјана Поповска",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Лиляна Поповска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лилјана Поповска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Liljana Popovska",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-liljana-popovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "303d9624-01ad-4518-a8ad-ede754ffa358",
+      "identifiers": [
+        {
+          "identifier": "liljana-zaturovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljiljana-Zaturovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljiljana-Zaturovska.jpg"
+        }
+      ],
+      "name": "Liljana Zaturoska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-liljana-zaturovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "fc155feb-4d9f-453a-bf28-8aba5f15f3c2",
+      "identifiers": [
+        {
+          "identifier": "ljupco-dimovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljupco-Dimovski.jpg"
+        }
+      ],
+      "name": "Ljupco Dimovski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ljupco-dimovski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "c2375d01-6636-4179-ab61-fef4b94dbc7f",
+      "identifiers": [
+        {
+          "identifier": "magdalena-manaskova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg"
+        }
+      ],
+      "name": "Magdalena Manaskova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-magdalena-manaskova-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
+      "identifiers": [
+        {
+          "identifier": "marija-angelova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marija-Angelova.jpg"
+        }
+      ],
+      "name": "Marija Angelova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-marija-angelova-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1d0e8635-544d-4bd5-91f1-ceee7737f380",
+      "identifiers": [
+        {
+          "identifier": "marjanco-kolevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Marijanco-Kolevski.jpg"
+        }
+      ],
+      "name": "Marjanco Kolevski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-marjanco-kolevski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1965-03-03",
+      "gender": "male",
+      "id": "37d06487-1337-4d5e-8c38-622bc378c9d2",
+      "identifiers": [
+        {
+          "identifier": "menduh-taci",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gg7cld",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q510944",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Menduh-Taci.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Menduh-Taci.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Menduh_Thaçi_2014-01-02_02-15.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мендух_Тачи"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Menduh_Thaçi"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μεντούχ_Θάτσι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Menduh_Thaçi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Menduh_Thaçi"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Мендух_Тачи"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тачи,_Мендух"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Menduh_Thaçi"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Мендух_Тачи"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Мендух_Тачі"
+        }
+      ],
+      "name": "Menduh Taci",
+      "other_names": [
+        {
+          "name": "Мендух Тачи",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Мендух Тачи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μεντούχ Θάτσι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Мендух Тачи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тачи, Мендух",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Menduh Thaçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Мендух Тачи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Мендух Тачі",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-menduh-taci-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b0b8a1ca-3aad-410d-a26f-fc34435e5ec4",
+      "identifiers": [
+        {
+          "identifier": "meral-uzeiri-ferati",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Merail-Uzeiri-Ferati.jpg"
+        }
+      ],
+      "name": "Meral Uzeiri-Ferati",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-meral-uzeiri-ferati-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "71a34911-01f3-4073-a0d9-e64244e8e979",
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirjana%20hadzievska.jpg"
+        }
+      ],
+      "name": "Mirjana Hadzievska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-mirjana-hadzievska-15-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
+      "identifiers": [
+        {
+          "identifier": "mirsada-emini-asani",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg"
+        }
+      ],
+      "name": "Mirsada Emini Asani",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-mirsada-emini-asani-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
+      "identifiers": [
+        {
+          "identifier": "mirvan-dzemailji",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg"
+        }
+      ],
+      "name": "Mirvan DZemailji",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-mirvan-dzemailji-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "8272c80e-2691-4213-946d-ff6b365cf216",
+      "identifiers": [
+        {
+          "identifier": "momcilo-avramoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Momcilo-Avramovski.jpg"
+        }
+      ],
+      "name": "Momcilo Avramoski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-momcilo-avramoski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "8eebda6d-6375-47b1-81ee-3ed9919cf826",
+      "identifiers": [
+        {
+          "identifier": "musa-ibraimi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/MusaIbraimi.jpg"
+        }
+      ],
+      "name": "Musa Ibraimi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-musa-ibraimi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "25775e78-c9af-4e2d-95e0-17484fbc49fc",
+      "identifiers": [
+        {
+          "identifier": "nada-cipuseva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg"
+        }
+      ],
+      "name": "Nada Cipuseva",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-nada-cipuseva-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "dff455c7-614c-4bc9-bc0f-b237a043e234",
+      "identifiers": [
+        {
+          "identifier": "nikola-micevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg"
+        }
+      ],
+      "name": "Nikola Micevski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-nikola-micevski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "70bf998c-6362-449c-bd50-ac8b9e3cea44",
+      "identifiers": [
+        {
+          "identifier": "nola-ismajloska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nola-Ismajloska.jpg"
+        }
+      ],
+      "name": "Nola Ismajloska-Starova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-nola-ismajloska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d825ea85-2ce3-454c-b31e-a53417f6658b",
+      "identifiers": [
+        {
+          "identifier": "nora-aliti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nora-Aliti.jpg"
+        }
+      ],
+      "name": "Nora Aliti",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-nora-aliti-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
+      "identifiers": [
+        {
+          "identifier": "olga-najdenovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/O.Najdenovska.jpg"
+        }
+      ],
+      "name": "Olga Najdenovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-olga-najdenovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
+      "identifiers": [
+        {
+          "identifier": "orhan-ibraim",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Orhan-Ibraim.jpg"
+        }
+      ],
+      "name": "Orhan Ibraim",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-orhan-ibraim-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "4300a503-09ea-4153-aebf-d4a3a695e7ab",
+      "identifiers": [
+        {
+          "identifier": "pavle-sazdov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Sazdov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Sazdov.jpg"
+        }
+      ],
+      "name": "Pavle Sazdov",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-pavle-sazdov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1952-12-25",
+      "gender": "male",
+      "id": "02df0c53-8b1f-4045-b46e-1a6845362508",
+      "identifiers": [
+        {
+          "identifier": "pavle-trajanov",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3403101",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Pavle-Trajanov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Павле_Траянов"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Pavle_Trajanov"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Павле_Трајанов"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Траянов,_Павле"
+        }
+      ],
+      "name": "Pavle Trajanov",
+      "other_names": [
+        {
+          "name": "Павле Трајанов",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Павле Траянов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Павле Трајанов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pavle Trajanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Траянов, Павле",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-pavle-trajanov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
+      "identifiers": [
+        {
+          "identifier": "rafis-aljiti",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg"
+        }
+      ],
+      "name": "Rafis Aljiti",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-rafis-aljiti-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "7fe7e6fa-89f5-4755-92c3-be60eebed75d",
+      "identifiers": [
+        {
+          "identifier": "ramiz-merko",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ramiz-Merko.jpg"
+        }
+      ],
+      "name": "Ramiz Merko",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-ramiz-merko-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "06a33f60-abba-408c-94d7-4a17dac91711",
+      "identifiers": [
+        {
+          "identifier": "redzailj-ismaili",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg"
+        }
+      ],
+      "name": "Redzailj Ismaili",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-redzailj-ismaili-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
+      "identifiers": [
+        {
+          "identifier": "risto-mancev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Risto-Mancev.jpg"
+        }
+      ],
+      "name": "Risto Mancev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-risto-mancev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "85f3d047-8b8e-4f52-a724-0fb4f6365799",
+      "identifiers": [
+        {
+          "identifier": "romeo-trenov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Romeo-Trenov.jpg"
+        }
+      ],
+      "name": "Romeo Trenov",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-romeo-trenov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
+      "identifiers": [
+        {
+          "identifier": "roza-topuzova-karevska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Roza-topuzova-karevska.jpg"
+        }
+      ],
+      "name": "Roza Topuzova-Karevska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/liberal-democratic-party-14-18-en-ns_article-roza-topuzova-karevska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "c3095de7-ad1b-4842-a4fa-119b9aff31ee",
+      "identifiers": [
+        {
+          "identifier": "saso-akimoski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso--Akimovski.jpg"
+        }
+      ],
+      "name": "Saso Akimoski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-saso-akimoski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "27d438a2-6559-4548-9813-4d8f65d65378",
+      "identifiers": [
+        {
+          "identifier": "saso-vasilevski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg"
+        }
+      ],
+      "name": "Saso Vasilevski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-saso-vasilevski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "0adb2b9d-b081-4165-9435-2fcb05d04fe2",
+      "identifiers": [
+        {
+          "identifier": "selvije-saliu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Selvie-Saliu.jpg"
+        }
+      ],
+      "name": "Selvije Saliu",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-selvije-saliu-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "01c8ec58-bc48-47ed-b21c-12ffdddcca68",
+      "identifiers": [
+        {
+          "identifier": "shpresa-hadri",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg"
+        }
+      ],
+      "name": "Shpresa Hadri",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-shpresa-hadri-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
+      "identifiers": [
+        {
+          "identifier": "silvana-boneva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Silvana-Boneva.jpg"
+        }
+      ],
+      "name": "Silvana Boneva",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-silvana-boneva-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "5fe3b602-f91c-44ee-96fb-6384f18f51c9",
+      "identifiers": [
+        {
+          "identifier": "slagjana-mitovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg"
+        }
+      ],
+      "name": "Slagjana Mitovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-slagjana-mitovska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
+      "identifiers": [
+        {
+          "identifier": "slave-gosev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Slave-Gosev.jpg"
+        }
+      ],
+      "name": "Slave Gosev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-slave-gosev-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
+      "identifiers": [
+        {
+          "identifier": "solza-grceva",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Solza-Grceva.jpg"
+        }
+      ],
+      "name": "Solza Grceva",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/independent-members-14-18-ns_article-solza-grceva-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "9d3eeea1-a116-4089-8034-c1809d4cd7a7",
+      "identifiers": [
+        {
+          "identifier": "sonja-talevska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Sonja-Talevska.jpg"
+        }
+      ],
+      "name": "Sonja Talevska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-sonja-talevska-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "22d87c76-eeb2-4d5d-a195-3a67bbb68430",
+      "identifiers": [
+        {
+          "identifier": "stojan-milanov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Stojan-Milanov.jpg"
+        }
+      ],
+      "name": "Stojan Milanov",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-stojan-milanov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "67b73831-ab21-41fc-9eee-173015df11a3",
+      "identifiers": [
+        {
+          "identifier": "suzana-sekulovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Suzana-Sekulovska.jpg"
+        }
+      ],
+      "name": "Suzana Sekulovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-suzana-sekulovska-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
+      "identifiers": [
+        {
+          "identifier": "svetlana-jakimovska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/SvetlanaJakimovska.jpg"
+        }
+      ],
+      "name": "Svetlana Jakimovska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-svetlana-jakimovska-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "id": "5a8847f0-430c-4602-af38-466167a20c78",
+      "identifiers": [
+        {
+          "identifier": "svetlana-karapetrova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg",
+      "images": [
+        {
+          "url": "http://www.sobranie.mk/content/images/pratenici%2520sliki%252014-18/Svetlana-Karapetrova.jpg"
+        }
+      ],
+      "name": "Svetlana Karapetrova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-svetlana-karapetrova-2014-eng.nspx"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-04-15",
+      "gender": "male",
+      "id": "4916ca5e-0d2c-4a87-bd75-88e4502dcc07",
+      "identifiers": [
+        {
+          "identifier": "talat-dzaferi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5860953",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Talat-Djaferi.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Talat-Djaferi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Талат_Джафери"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Talat_Xhaferi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Talat_Xhaferi"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Талат_Џафери"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Талат_Джафері"
+        }
+      ],
+      "name": "Talat DZaferi",
+      "other_names": [
+        {
+          "name": "Талат Џафери",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Талат Джафери",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Talat Xhaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Talat Xhaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Talat Xhaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Talat Xhaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Талат Џафери",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Talat Dzjaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Talat Dzjaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Talat Xhaferi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Талат Джафері",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-talat-dzaferi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "b5c045b6-d7fa-4966-a2fb-79e5a23003cc",
+      "identifiers": [
+        {
+          "identifier": "trajco-dimkov",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Trajco-Dimkov.jpg"
+        }
+      ],
+      "name": "Trajco Dimkov",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-trajco-dimkov-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
+      "identifiers": [
+        {
+          "identifier": "vasil-pisev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
+        }
+      ],
+      "name": "Vasil Pisev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vasil-pisev-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "d924a60b-31c8-4a65-9a34-67bbb40febe1",
+      "identifiers": [
+        {
+          "identifier": "vasko-naumovski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasko-Naumovski.jpg"
+        }
+      ],
+      "name": "Vasko Naumovski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vasko-naumovski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "259c83e9-dedf-4866-a06f-d5a9e0048124",
+      "identifiers": [
+        {
+          "identifier": "vesna-damcevska-ilievska",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Dancevska-Ilievska.jpg"
+        }
+      ],
+      "name": "Vesna Damcevska-Ilievska",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vesna-damcevska-ilievska-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "f5a77e8a-5973-4d57-8981-2a3afeaf1efb",
+      "identifiers": [
+        {
+          "identifier": "vesna-pemova",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg"
+        }
+      ],
+      "name": "Vesna Pemova",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vesna-pemova-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1889ae1b-5584-44f9-b681-f2839095413a",
+      "identifiers": [
+        {
+          "identifier": "vjolca-mehmeti-nuredini",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vojca-Mehmeti-Huredini.jpg"
+        }
+      ],
+      "name": "Vjolca Mehmeti-Nuredini",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-vjolca-mehmeti-nuredini-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "53435cb4-2191-4c1b-8fd5-3db51d2b98a4",
+      "identifiers": [
+        {
+          "identifier": "vladanka-avirovik",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vladanka-Avirovik.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vladanka-Avirovik.jpg"
+        }
+      ],
+      "name": "Vladanka Avirovik",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vladanka-avirovik-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "1b7560ed-6e71-4e61-a4f6-0c9e04b1bfc3",
+      "identifiers": [
+        {
+          "identifier": "vladimir-gjorchev",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg"
+        }
+      ],
+      "name": "Vladimir Gjorchev",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-vladimir-gjorchev-2014.nspx"
+        }
+      ]
+    },
+    {
+      "id": "0e716fd9-c094-4882-9dbd-f8726d8dd0c0",
+      "identifiers": [
+        {
+          "identifier": "xhevat-ademi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg"
+        }
+      ],
+      "name": "Xhevat Ademi",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/democratic-union-for-integration-2014-ns_article-xhevat-ademi-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "c77c4658-a5be-47c1-b8a1-bf93ea63247d",
+      "identifiers": [
+        {
+          "identifier": "zoran-gjorgjievski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Gjorgjievski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Gjorgjievski.jpg"
+        }
+      ],
+      "name": "Zoran Gjorgjievski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-zoran-gjorgjievski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "0bf5a867-e953-4eab-b3dd-4766f375bffd",
+      "identifiers": [
+        {
+          "identifier": "zoran-ilioski",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg"
+        }
+      ],
+      "name": "Zoran Ilioski",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-zoran-ilioski-2014-en.nspx"
+        }
+      ]
+    },
+    {
+      "id": "ca823796-7651-4e64-b61f-c2326763e530",
+      "identifiers": [
+        {
+          "identifier": "zulfi-adili",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zulfi--Adili.jpg",
+      "images": [
+        {
+          "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zulfi--Adili.jpg"
+        }
+      ],
+      "name": "Zulfi Adili",
+      "sources": [
+        {
+          "url": "http://sobranie.mk/current-structure-2014-2018-ns_article-zulfi-adili-2014-en.nspx"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/democratic_part_of_the_turks_in_macedonia",
+      "identifiers": [
+        {
+          "identifier": "Q3393359",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.tdp.org.mk/"
+        }
+      ],
+      "name": "Democratic Part of the Turks in Macedonia",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Демократическа партия на турците в Македония",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Turks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Makedonya Türk Demokratik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic dels Turcs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска Партија на Турците на Македонија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska turkpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Türkische Demokratische Partei Mazedoniens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Türk Demokratik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "MTDP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Türk Demokratik Parisi",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_party_of_albanians",
+      "identifiers": [
+        {
+          "identifier": "Q1785240",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.gurra-pdsh.org"
+        }
+      ],
+      "name": "Democratic Party of Albanians",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Albanische Demokratische Partei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Demokratyczna Partia Albańczyków",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократическа партия на албанците",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocratique des Albanais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия албанцев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Albanians",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic dels Albanesos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска партија на Албанците",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico degli Albanesi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Albanska demokratiska partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска партија Албанаца",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія албанців",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Party of Albanians",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Partia Demokratike Shqiptare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アルバニア人民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partia Demokratike Shqiptare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ДПА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti démocrate albanais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti democratique des Albanais",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_party_of_serbs_in_macedonia",
+      "identifiers": [
+        {
+          "identifier": "Q3621311",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dpsm.info/"
+        }
+      ],
+      "name": "Democratic Party of Serbs in Macedonia",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Демократическа партия на сърбите в Македония",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of Serbs in Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Demokratska partija Srba u Makedoniji",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Демократска партија Срба у Македонији",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Democràtic dels Serbis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska partiet för serber i Makedonien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска партија Срба у Македонији",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска партија на Србите во Македонија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Demokratska partija Srba u Makedoniji",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска странка Срба у Македонији",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ДПСМ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_renewal_of_macedonia",
+      "identifiers": [
+        {
+          "identifier": "Q2705789",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dom.org.mk"
+        }
+      ],
+      "name": "Democratic Renewal of Macedonia",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Renouveau démocratique de Macédoine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Demokratska obnova Makedonije",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Демократска обнова Македоније",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Renewal of Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска обнова на Македонија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Renaixement Democràtic de Macedònia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratisk förnyelse av Makedonien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rinnovamento Democratico di Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократично обновление на Македония",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска обнова Македоније",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическое обновление Македонии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Renewal of Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска обнова на Македонија",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_union",
+      "identifiers": [
+        {
+          "identifier": "Q2642915",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Democratic Union",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Union démocratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Union",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократски сојуз",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Democratica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska unionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократически съюз (Република Македония)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Union",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/democratic_union_for_integration",
+      "identifiers": [
+        {
+          "identifier": "Q1186346",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.bdi.org.mk"
+        }
+      ],
+      "name": "Democratic Union for Integration",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Демократический союз за интеграцию",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union démocratique pour l'intégration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Union for Integration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Bashkimi Demokratik për Integrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratische Union für Integration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione Democratica per l'Integrazione",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Демократска унија за интеграција",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Demokratiska integrationsunionen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民主統合連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократичен съюз за интеграция",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió Democràtica per la Integració",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Demokratyczny Związek na rzecz Integracji",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დემოკრატიული კავშირი ინტეგრაციისთვის",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократичний союз за інтеграцію",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Демократска унија за интеграцију",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Union for Integration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民主結合聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民主结合联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая Уния за Интеграцию",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ДУИ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bashkimi Demokratik për Integrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union democratique pour l'integration",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bashimi Demokratik për Integrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демократски съюз за интеграция",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ДСИ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Bashkimi Demokratik për Integrim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratska Unija za Integracija",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/grom",
+      "identifiers": [
+        {
+          "identifier": "Q16738440",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.grom.mk/"
+        }
+      ],
+      "name": "GROM",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Option citoyenne pour la Macédoine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Citizen Option for Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ГРОМ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent_members",
+      "name": "Independent Members"
+    },
+    {
+      "classification": "party",
+      "id": "party/liberal_-_democratic_party",
+      "identifiers": [
+        {
+          "identifier": "Q683845",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ldp.org.mk/"
+        }
+      ],
+      "name": "Liberal - Democratic Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti libéral-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Liberal Democràtic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberal-Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Либерално-демократска партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Либерально-демократическая партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberalno-Demokratska Partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Либерално-демократическа партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберально-демократична партія (Македонія)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Liberal Democratic Partise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/party_for_democratic_action_of_macedonia",
+      "name": "Party for Democratic Action of Macedonia"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1258164",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sobranie",
+      "seats": 123
+    },
+    {
+      "classification": "party",
+      "id": "party/socialist_party_of_macedonia",
+      "identifiers": [
+        {
+          "identifier": "Q2491139",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.spm.org.mk"
+        }
+      ],
+      "name": "Socialist Party of Macedonia",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Социалистическа партия на Македония",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti socialiste de Macédoine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Socialist Party of Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialista de Macedònia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Социјалистичка партија на Македонија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Socialista di Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Makedoniens socialistparti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Социјалистичка партија Македоније",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Социалистическая партия Македонии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Socialist Party of Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "СПМ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/union_of_roma_of_macedonia",
+      "identifiers": [
+        {
+          "identifier": "Q7886701",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Union of Roma of Macedonia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Union of Roma in Macedonia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Förbundet för romer i Makedonien",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Съюз на ромите от Македония",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/vmro-dpmne",
+      "identifiers": [
+        {
+          "identifier": "Q945717",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.vmro-dpmne.org.mk"
+        }
+      ],
+      "name": "VMRO-DPMNE",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "马其顿内部革命组织民族统一民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "馬其頓內部革命組織民族統一民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "馬其頓內部革命組織民族統一民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "WMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Внутренняя македонская революционная организация — Демократическая партия за македонское национальное единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Organisation révolutionnaire macédonienne intérieure - Parti démocratique pour l'Unité nationale macédonienne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "ВМРО-ДПМНЕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "VMRO–DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Внатрешна македонска револуционерна организација - Демократска партија за македонско национално единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Democratico per l'Unità Nazionale Macedone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Innere Mazedonische Revolutionäre Organisation – Demokratische Partei für Mazedonische Nationale Einheit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "内部マケドニア革命組織・マケドニア国家統一民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Вътрешна македонска революционна организация - Демократическа партия за македонско национално единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Unutarnja makedonska revolucionarna organizacija - Demokratska stranka za makedonsko nacionalno jedinstvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ВМРО-ДПМНЕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "马其顿内部革命组织民族统一民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Внутрішня македонська революційна організація - Демократична партія македонської національної єдності",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "منظمة الداخلية المقدونية الثورية - الحزب الديمقراطي للوحدة الوطنية المقدونية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "İç Makedon Devrimci Örgütü - Makedonya'nın Ulusal Birliği Demokratik Partisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "VMRO DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εσωτερική Μακεδονική Επαναστατική Οργάνωση - Δημοκρατικό Κόμμα για τη Μακεδονική Εθνική Ενότητα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ВМРО-ДПМНЕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Внутренняя Македонская Революционная Организация - Демократическая Партия за Македонское Национальное Единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Внутренняя Македонская Революционная Организация — Демократическая Партия Македонского Национального Единства",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Organisation révolutionnaire macédonienne interieure - Parti démocratique pour l'Unité nationale macédonienne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Organisation revolutionnaire macedonienne interieure - Parti democratique pour l'Unite nationale macedonienne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Внатрешно Македонска Револуционерна Организација - Демократска Партија за Македонско Национално Единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Унутрашња македонска револуционарна организација - Партија за македонско национално јединство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Organització Revolucionària Macedònia Interior - Partit Democràtic per l'Unitat Macedònia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Innere Mazedonische Revolutionäre Organisation - Demokratische Partei für Mazedonische Nationale Einheit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "VMRO DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Vnatrešna Makedonska Revolucionerna Organizacija-Demokratska Partija za Makedonsko Nacionalno Edinstvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ВМРО ДПМНЕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Вътрешната македонска революционна организация - Демократическа партия за македонско национално единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "ВМРО-ДПМНЕ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Unutrašnja makedonska revolucionarna organizacija - Partija za makedonsko nacionalno jedinstvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "VMRO DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "VMRO - DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://sobranie.mk/members-of-parliament.nspx",
+      "http://wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "017a8605-ef8a-4bb1-abfa-8bd99565dcb0",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "01c8ec58-bc48-47ed-b21c-12ffdddcca68",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union",
+      "organization_id": "legislature",
+      "person_id": "02df0c53-8b1f-4045-b46e-1a6845362508",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "046fad6d-206a-4848-8b1f-327894630cb9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "06a33f60-abba-408c-94d7-4a17dac91711",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "076b1abc-b09e-4331-b3fe-6c9605b9cbea",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "0a25e3b6-8a44-4bb5-829c-97614a87c4dd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "0adb2b9d-b081-4165-9435-2fcb05d04fe2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "0bf5a867-e953-4eab-b3dd-4766f375bffd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "0e0a1dd0-dd8a-4aad-8c9c-819d03bdae69",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "0e716fd9-c094-4882-9dbd-f8726d8dd0c0",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "1358ca20-9245-47ed-aa2a-6ef38acc56a2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "1379e9f8-4f2e-46ca-8f84-6651087132ab",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/liberal_-_democratic_party",
+      "organization_id": "legislature",
+      "person_id": "15914f41-dcd4-49b5-a5c6-e00d89f10f0e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "1889ae1b-5584-44f9-b681-f2839095413a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "1a5135c6-98b2-4651-8ef0-6cfb3110f8ab",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "1b7560ed-6e71-4e61-a4f6-0c9e04b1bfc3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "1d0e8635-544d-4bd5-91f1-ceee7737f380",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "1e34432e-f161-4fc3-a7c4-6b157d99c9d6",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "210aae99-bec4-4ab2-9a8d-a4722b22d8e6",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/socialist_party_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "22d87c76-eeb2-4d5d-a195-3a67bbb68430",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "25775e78-c9af-4e2d-95e0-17484fbc49fc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "259c83e9-dedf-4866-a06f-d5a9e0048124",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "27d438a2-6559-4548-9813-4d8f65d65378",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "27fc3c43-5400-4889-a853-b86cc08e0e9b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "2c112b5b-8b91-43dd-8ca5-aa8264a7059d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "303d9624-01ad-4518-a8ad-ede754ffa358",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "31be7a64-8b23-4a10-844a-ef23bf410cc4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "37d06487-1337-4d5e-8c38-622bc378c9d2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "40172fe5-7606-483c-9a20-80eae9068781",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "4300a503-09ea-4153-aebf-d4a3a695e7ab",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "4916ca5e-0d2c-4a87-bd75-88e4502dcc07",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "4b1526a9-6d6c-4b39-b127-9debb8314f7c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "505e9fd9-df84-4b3c-9ae3-64fb3cb7b35e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/socialist_party_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "53435cb4-2191-4c1b-8fd5-3db51d2b98a4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "5a8847f0-430c-4602-af38-466167a20c78",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "5fe3b602-f91c-44ee-96fb-6384f18f51c9",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/union_of_roma_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "6316072d-5a99-4432-8ba0-568d84bb2c03",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "64384263-11f6-4928-a7fa-a18a33b68b92",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "67b73831-ab21-41fc-9eee-173015df11a3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "69d80493-08f8-401c-af92-e5b18b0a3a18",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "6c3cb61d-bab9-4638-a0fb-54e36576bb3c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "70bf998c-6362-449c-bd50-ac8b9e3cea44",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "71600864-6d7b-4faa-bd9a-faa89f06a4d8",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "71a34911-01f3-4073-a0d9-e64244e8e979",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "7fe7e6fa-89f5-4755-92c3-be60eebed75d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "8272c80e-2691-4213-946d-ff6b365cf216",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "851fa6cc-6dff-4f8b-8e65-3821b012f44e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "85f3d047-8b8e-4f52-a724-0fb4f6365799",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "8756cf1a-8d61-4f38-8c55-384aa5946214",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_renewal_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "878e7e2a-bc4b-4bde-a6b5-900484d2ae2b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "8ac4af5c-cd6c-44a2-9c4f-78ae3bee62a5",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "8eebda6d-6375-47b1-81ee-3ed9919cf826",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "945e9702-ce37-4f29-b59f-8181437f14ef",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_serbs_in_macedonia",
+      "organization_id": "legislature",
+      "person_id": "9c44a801-17a5-4c9d-8280-3a91dfda77a4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent_members",
+      "organization_id": "legislature",
+      "person_id": "9cda2f5c-8720-4ff6-9d5d-9bbc6dd356b3",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "9d3eeea1-a116-4089-8034-c1809d4cd7a7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "9db6b4d0-142c-47d0-8cf7-14fd5c152f25",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/party_for_democratic_action_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "a3143a3c-a022-43de-bb0c-5d2531184477",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "a5b562ff-87c0-47f0-bcd4-a90cf91004df",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent_members",
+      "organization_id": "legislature",
+      "person_id": "a89701d6-e9f8-4308-817e-cb7b5beaf574",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "b0b8a1ca-3aad-410d-a26f-fc34435e5ec4",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/grom",
+      "organization_id": "legislature",
+      "person_id": "b0ef4a95-79fb-4243-9beb-1367fd4f255b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_part_of_the_turks_in_macedonia",
+      "organization_id": "legislature",
+      "person_id": "b1b5ca60-2848-478e-8189-21ae7279f97b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "b5c045b6-d7fa-4966-a2fb-79e5a23003cc",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "b7ec31ee-6130-4919-ad5e-78bf8f7bfe36",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "b9f39c23-6276-45e5-8e1d-cbe1c3db44ce",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "c2375d01-6636-4179-ab61-fef4b94dbc7f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "c3095de7-ad1b-4842-a4fa-119b9aff31ee",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "c77c4658-a5be-47c1-b8a1-bf93ea63247d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent_members",
+      "organization_id": "legislature",
+      "person_id": "ca823796-7651-4e64-b61f-c2326763e530",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "d328fb5c-06b6-43f3-86f3-ab5c7412eecb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "d482e080-b0ff-486b-b3cc-4b934804cd7f",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "d6cb301e-2019-4400-ad11-5e7a9635c179",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_union_for_integration",
+      "organization_id": "legislature",
+      "person_id": "d825ea85-2ce3-454c-b31e-a53417f6658b",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "d8eca104-e8a1-487d-a734-1e0988b130ae",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "d924a60b-31c8-4a65-9a34-67bbb40febe1",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "dd11dc41-556c-4f00-8bcd-f0c23889c531",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "dff455c7-614c-4bc9-bc0f-b237a043e234",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "e09704a6-4601-4898-b4c0-f991c79a4bcd",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic_party_of_albanians",
+      "organization_id": "legislature",
+      "person_id": "e09bc82f-a3a9-406e-bcaa-b996a00bb620",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "ebbe68a8-dc10-4002-acd3-56dd3cfea49c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "efa8539f-cb81-4188-a5c8-b68a2920fb6a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "f2b6e36a-f92a-4d3f-9599-a53ae789b021",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "f5a77e8a-5973-4d57-8981-2a3afeaf1efb",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/socialist_party_of_macedonia",
+      "organization_id": "legislature",
+      "person_id": "fc155feb-4d9f-453a-bf28-8aba5f15f3c2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "fc6daa63-6136-44f1-a8ef-352f1a80a80d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/vmro-dpmne",
+      "organization_id": "legislature",
+      "person_id": "fc7412a1-acd0-40fe-98d2-64ce753aca21",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q3408788",
+      "name": "Macedonian parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q6723161",
+      "name": "Macedonian general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1998-10-18",
+      "id": "Q3408804",
+      "name": "Macedonian parliamentary election, 1998",
+      "start_date": "1998-10-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2002",
+      "id": "Q1759059",
+      "name": "Macedonian parliamentary election, 2002",
+      "start_date": "2002"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2006-07-05",
+      "id": "Q2626015",
+      "name": "Macedonian parliamentary election, 2006",
+      "start_date": "2006-07-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-06-01",
+      "id": "Q1267146",
+      "name": "Macedonian parliamentary election, 2008",
+      "start_date": "2008-06-01"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011-06-05",
+      "id": "Q1442466",
+      "name": "Macedonian parliamentary election, 2011",
+      "start_date": "2011-06-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-04",
+      "id": "Q16735873",
+      "name": "Macedonian general election, 2014",
+      "start_date": "2014-04"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014–2018",
+      "organization_id": "legislature",
+      "start_date": "2014-05-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-04-24",
+      "id": "Q20036653",
+      "name": "Macedonian parliamentary election, 2016",
+      "start_date": "2016-04-24"
+    }
+  ],
+  "areas": [
+
+  ]
+}

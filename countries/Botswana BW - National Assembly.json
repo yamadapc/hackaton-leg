@@ -1,0 +1,3358 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "63e2e41e-1fbd-4396-8aa5-6138b15ebd0a",
+      "identifiers": [
+        {
+          "identifier": "abram_kesupile",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Abram Kesupile",
+      "other_names": [
+        {
+          "name": "Hon. Abram Kesupile",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "5165b97d-5bc8-4d9a-8635-03961c0b17af",
+      "identifiers": [
+        {
+          "identifier": "alfred_madigele",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Alfred Madigele",
+      "other_names": [
+        {
+          "name": "Hon. Dr. Alfred Madigele",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "309ded7b-5651-4a3b-9bc3-20291c844168",
+      "identifiers": [
+        {
+          "identifier": "athaliah_molokomme",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17513548",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Athaliah_Molokomme"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Athaliah_Molokomme"
+        }
+      ],
+      "name": "Athaliah Molokomme",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Athaliah Molokomme",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barone@gov.bw"
+        }
+      ],
+      "email": "barone@gov.bw",
+      "id": "f7469ab5-25cb-4a91-bfcb-8904e29a6d14",
+      "identifiers": [
+        {
+          "identifier": "bagalatia_arone",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Bagalatia Arone",
+      "other_names": [
+        {
+          "name": "Hon. Bagalatia Arone",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "ce1831ae-72b7-4f3a-b2e1-26232dd7f71d",
+      "identifiers": [
+        {
+          "identifier": "biggie_butale",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Biggie Butale",
+      "other_names": [
+        {
+          "name": "Hon. Biggie Butale",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "25989c87-1596-4ef6-9e2b-93bfad647faa",
+      "identifiers": [
+        {
+          "identifier": "botlogile_tshireletso",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Botlogile Tshireletso",
+      "other_names": [
+        {
+          "name": "Hon. Botlogile M. Tshireletso",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "916434b4-69aa-446d-b3ee-89c0f4ee5710",
+      "identifiers": [
+        {
+          "identifier": "buti_billy",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Buti Billy",
+      "other_names": [
+        {
+          "name": "Hon. Honest Billy",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
+      "identifiers": [
+        {
+          "identifier": "christiaan_de_graaff",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Christiaan De Graaff",
+      "other_names": [
+        {
+          "name": "Hon. Christian De Graaf",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dmakgalemele@gov.bw"
+        }
+      ],
+      "email": "dmakgalemele@gov.bw",
+      "id": "32dbf538-0bb9-47ed-9e50-f2e76c48f682",
+      "identifiers": [
+        {
+          "identifier": "dikgang_makgalemele",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dikgang Makgalemele",
+      "other_names": [
+        {
+          "name": "Hon. Dikgang P. Makgalemele",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "703650cc-c61b-4380-bb5b-a765fca752c0",
+      "identifiers": [
+        {
+          "identifier": "dithapelo_keorapetse",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dithapelo Keorapetse",
+      "other_names": [
+        {
+          "name": "Hon. Keorapetse Dithapelo",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "1c32dad3-c84a-47f9-9ced-49715ab4693d",
+      "identifiers": [
+        {
+          "identifier": "dorcus_makgatho-malesu",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Dorcus Makgatho-Malesu",
+      "other_names": [
+        {
+          "name": "Hon. Dorcus Makgato",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1969",
+      "gender": "male",
+      "id": "57b3c6f7-c91b-4aa4-a7c0-17992f518517",
+      "identifiers": [
+        {
+          "identifier": "duma_boko",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18618881",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Duma_Boko"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Duma_Boko"
+        }
+      ],
+      "name": "Duma Boko",
+      "other_names": [
+        {
+          "name": "Hon. Duma Boko",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Duma Boko",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ebatshu@gov.bw"
+        }
+      ],
+      "email": "ebatshu@gov.bw",
+      "gender": "male",
+      "given_name": "Edwin",
+      "id": "a52cae39-1ec7-4943-b889-190d121c5e73",
+      "identifiers": [
+        {
+          "identifier": "edwin_batshu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18763858",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Batshu"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edwin_Batshu"
+        }
+      ],
+      "name": "Edwin Batshu",
+      "other_names": [
+        {
+          "name": "Hon. Edwin J. Batshu",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Edwin Batshu",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "542a59f8-5e7d-4a67-a120-dee8b70a8518",
+      "identifiers": [
+        {
+          "identifier": "eric_molale",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Eric Molale",
+      "other_names": [
+        {
+          "name": "Hon. Eric. Molale",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "8728afa7-374c-4cf4-89fa-35c81933d6e2",
+      "identifiers": [
+        {
+          "identifier": "fidelis_molao",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Fidelis Molao",
+      "other_names": [
+        {
+          "name": "Hon Fedilis M. Molao",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "fc5e4fcb-426b-44f9-86db-564bccc038fc",
+      "identifiers": [
+        {
+          "identifier": "frans_van_der_westhuizen",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Frans Van Der Westhuizen",
+      "other_names": [
+        {
+          "name": "Hon. France VAN DER WESTHUIZEN",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmangole@gov.bw"
+        }
+      ],
+      "email": "gmangole@gov.bw",
+      "id": "ecf33f80-47b3-420a-8a8d-b7a893fc1a0b",
+      "identifiers": [
+        {
+          "identifier": "gilbert_mangole",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Gilbert Mangole",
+      "other_names": [
+        {
+          "name": "Hon. Gilbert Mangole",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
+      "identifiers": [
+        {
+          "identifier": "guma_moyo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Guma Moyo",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "c448660f-fc39-46b9-a41f-7eb30f3edf29",
+      "identifiers": [
+        {
+          "identifier": "haskins_nkaigwa",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Haskins Nkaigwa",
+      "other_names": [
+        {
+          "name": "Hon. Haskins Nkaingwa",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1953-02-27",
+      "gender": "male",
+      "given_name": "Ian",
+      "id": "b90edb7c-d4d0-4852-8d95-6af8c9b9d25a",
+      "identifiers": [
+        {
+          "identifier": "biography/Ian-Khama",
+          "scheme": "britannica"
+        },
+        {
+          "identifier": "ian_khama",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/049k7b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1067832742",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb2009027267",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "161257402",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "101455210",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57449",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ian_Khama_(2014).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ian_Khama_(2014).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إيان_خاما"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Ян_Кхама"
+        },
+        {
+          "note": "Wikipedia (br)",
+          "url": "https://br.wikipedia.org/wiki/Seretse_Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ίαν_Χάμα"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/یان_خاما"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Seretse_Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Seretse_Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/イアン・カーマ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/იან_კჰამა"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이언_카마"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ioannes_Khama"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (nso)",
+          "url": "https://nso.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Seretse_Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кхама,_Ян"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Ијан_Хама"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (tn)",
+          "url": "https://tn.wikipedia.org/wiki/Ian_Khama_Seretse_Khama"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Ян_Кхама"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Ian_Khama"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/伊恩·卡马"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ian_Khama"
+        }
+      ],
+      "name": "Ian Khama",
+      "other_names": [
+        {
+          "name": "His Excellency Lt. General Seretse Khama Ian Khama",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "إيان خاما",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Ян Кхама",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Seretse Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ian Khama Seretse Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ίαν Χάμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "یان خاما",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Seretse Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יאן קאמה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Seretse Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イアン・カーマ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იან კჰამა",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "이언 카마",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ioannes Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Ијан Кама",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ian Khama Seretse Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nso",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Seretse Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кхама, Ян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ијан Хама",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Ian Khama Seretse Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ян Кхама",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Ian Khama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊恩·卡马",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "5fb53d45-c772-4165-adb5-bbdee6efa3ec",
+      "identifiers": [
+        {
+          "identifier": "isaac_davids",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Isaac Davids",
+      "other_names": [
+        {
+          "name": "Hon. Isaac Jacob Davids",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "30fe24cf-7349-49fc-9e10-890c7f035324",
+      "identifiers": [
+        {
+          "identifier": "itumeleng_moipisi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Itumeleng Moipisi",
+      "other_names": [
+        {
+          "name": "Hon. Itumeleng Moipisi",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "48541bfe-e5a9-4847-ab4c-59752c1b4f83",
+      "identifiers": [
+        {
+          "identifier": "james_mathokgwane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "James Mathokgwane",
+      "other_names": [
+        {
+          "name": "Hon. James Mathokgwane",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "b8ddf790-d341-46d3-9b21-467a80700c56",
+      "identifiers": [
+        {
+          "identifier": "joseph_molefe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Joseph Molefe",
+      "other_names": [
+        {
+          "name": "Hon. Joseph Molefe",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kpmolatlhegi@gov.bw"
+        }
+      ],
+      "email": "kpmolatlhegi@gov.bw",
+      "id": "1a0b0ecb-7443-40fc-ab84-bb93e6dcc5a1",
+      "identifiers": [
+        {
+          "identifier": "kagiso_molatlhegi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kagiso Molatlhegi",
+      "other_names": [
+        {
+          "name": "Hon. Kagiso P. Molatlhegi",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "6edb5f47-e7b1-4d5b-be68-12bfa9e700e7",
+      "identifiers": [
+        {
+          "identifier": "kefentse_mzwinila",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kefentse Mzwinila",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "3440398f-ad32-453f-be15-fd8019402eaa",
+      "identifiers": [
+        {
+          "identifier": "kenneth_matambo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kenneth Matambo",
+      "other_names": [
+        {
+          "name": "Hon. Ontefetse K. Matambo",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "d191ce05-57b3-4587-8225-20e6c1a515ab",
+      "identifiers": [
+        {
+          "identifier": "kgotla_autlwetse",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kgotla Autlwetse",
+      "other_names": [
+        {
+          "name": "Hon. Kgotla Autlwetse",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "a13891fd-9181-42bd-9f63-c16de33057d2",
+      "identifiers": [
+        {
+          "identifier": "kitso_mokaila",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6418347",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kitso_Mokaila"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kitso_Mokaila"
+        }
+      ],
+      "name": "Kitso Mokaila",
+      "other_names": [
+        {
+          "name": "Hon. Onkokame K. Mokaila",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kitso Mokaila",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "929f9e0e-fc40-4315-b2fe-2bd819232dd4",
+      "identifiers": [
+        {
+          "identifier": "kostantinos_markus",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Kostantinos Markus",
+      "other_names": [
+        {
+          "name": "Hon.Konstantinos Markus",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "4f9c0c6d-9a7a-4e2d-b3e5-04254c68124f",
+      "identifiers": [
+        {
+          "identifier": "lelatisitswe_sethomo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Lelatisitswe Sethomo",
+      "other_names": [
+        {
+          "name": "Hon. Sethomo Lelatisitswe",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkablay@gov.bw"
+        }
+      ],
+      "email": "lkablay@gov.bw",
+      "id": "642e0dea-e124-4694-9382-6df28ccc1ac3",
+      "identifiers": [
+        {
+          "identifier": "liakat_kablay",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Liakat Kablay",
+      "other_names": [
+        {
+          "name": "Hon. Liakat Kablay",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "fbf58f0a-fc7d-4e55-973f-694acfbc92af",
+      "identifiers": [
+        {
+          "identifier": "mohammed_i._khan",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Mohammed I. Khan",
+      "other_names": [
+        {
+          "name": "Hon. Mohammed Khan",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mgoya@gov.bw"
+        }
+      ],
+      "email": "mgoya@gov.bw",
+      "id": "0a5890fe-7a27-441e-a80f-bae0307f159b",
+      "identifiers": [
+        {
+          "identifier": "moiseraela_goya",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Moiseraela Goya",
+      "other_names": [
+        {
+          "name": "Hon. Moiseraele Goya",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1965",
+      "gender": "male",
+      "id": "e7dc8874-a76a-46db-bbd6-9eb2a6b78a4e",
+      "identifiers": [
+        {
+          "identifier": "mokgweetsi_masisi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18618891",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mokgweetsi_Masisi"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mokgweetsi_Masisi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mokgweetsi_Masisi"
+        }
+      ],
+      "name": "Mokgweetsi Masisi",
+      "other_names": [
+        {
+          "name": "His Honour the Vice President Mokgweetsi Eric Masisi",
+          "note": "alternate"
+        },
+        {
+          "name": "Hon. Mokgweetsi Eric Masisi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mokgweetsi Masisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mokgweetsi Masisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mokgweetsi Masisi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "623ee59b-4606-4244-919c-44ec148bceff",
+      "identifiers": [
+        {
+          "identifier": "mokwaledi_moswaane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Mokwaledi Moswaane",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "6f4cab18-04db-4210-b6c9-d9c32733bf63",
+      "identifiers": [
+        {
+          "identifier": "ndaba_gaolathe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ndaba Gaolathe",
+      "other_names": [
+        {
+          "name": "Hon. Gaolathe Ndaba Nkosinathi",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "d0ef20ab-2726-4d11-9744-d706381e5cdc",
+      "identifiers": [
+        {
+          "identifier": "ngaka_ngaka",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ngaka Ngaka",
+      "other_names": [
+        {
+          "name": "Hon. Ngaka Ngaka",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "ef1edabb-585e-48bf-85a9-c2cb4dab1e71",
+      "identifiers": [
+        {
+          "identifier": "noah_salakae",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Noah Salakae",
+      "other_names": [
+        {
+          "name": "Hon. Noah Salakae",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-11-20",
+      "gender": "male",
+      "id": "13db67f9-9845-43db-8f15-d3fd6db02b3b",
+      "identifiers": [
+        {
+          "identifier": "nonofo_molefhi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18618892",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nonofo_Molefhi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nonofo_Molefhi"
+        }
+      ],
+      "name": "Nonofo Molefhi",
+      "other_names": [
+        {
+          "name": "Hon. Nonofo E. Molefhi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nonofo Molefhi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nonofo Molefhi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "0f2d5ee7-2919-4940-9873-c4b3412224f2",
+      "identifiers": [
+        {
+          "identifier": "patrick_ralotsia",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Patrick Ralotsia",
+      "other_names": [
+        {
+          "name": "Hon. Patrick Ralotsia",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "cd5dbd3d-8c72-4b94-ac32-098fa8b0e5f8",
+      "identifiers": [
+        {
+          "identifier": "pelonomi_venson-moitoi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7161670",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pelonomi_Venson-Moitoi"
+        },
+        {
+          "note": "Wikipedia (tn)",
+          "url": "https://tn.wikipedia.org/wiki/Pelonomi_Venson-Moitoi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pelonomi_Venson-Moitoi"
+        }
+      ],
+      "name": "Pelonomi Venson-Moitoi",
+      "other_names": [
+        {
+          "name": "Hon. Minister Pelonomi Venson-Moitoi",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Pelonomi Venson-Moitoi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "96e6de2f-360f-4f55-a0d3-7c26d6b01c60",
+      "identifiers": [
+        {
+          "identifier": "phenyo_butale",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Phenyo Butale",
+      "other_names": [
+        {
+          "name": "Hon. Phenyo Butale",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "963af5a6-7727-4400-9425-3e6b50d534b5",
+      "identifiers": [
+        {
+          "identifier": "pius_mokgware",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Pius Mokgware",
+      "other_names": [
+        {
+          "name": "Hon. Pius Mokgware",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "8aef8b27-ed03-4888-8392-5bbcea077902",
+      "identifiers": [
+        {
+          "identifier": "polson_majaga",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Polson Majaga",
+      "other_names": [
+        {
+          "name": "Hon. Polson Majaga",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "f6635e28-fa9b-42d5-9e6b-7594a6a6a792",
+      "identifiers": [
+        {
+          "identifier": "prince_maele",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Prince Maele",
+      "other_names": [
+        {
+          "name": "Hon. Prince Maele",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "80a451bb-2820-4756-85f4-556ef4994df3",
+      "identifiers": [
+        {
+          "identifier": "ronald_shamukuni",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Ronald Shamukuni",
+      "other_names": [
+        {
+          "name": "Hon. Machana Ronald Shamukuni",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "9367d41f-a58f-40d2-8769-a0eb84e185f7",
+      "identifiers": [
+        {
+          "identifier": "sadique_kebonang",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Sadique Kebonang",
+      "other_names": [
+        {
+          "name": "Hon. Sadique Kebonang",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "d384124c-0c87-4ad1-951d-90685e991d99",
+      "identifiers": [
+        {
+          "identifier": "same_bathobakae",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Same Bathobakae",
+      "other_names": [
+        {
+          "name": "Hon. Same Bathobakae",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "47c599a3-ff44-40e8-83e1-42e8958543c1",
+      "identifiers": [
+        {
+          "identifier": "samuel_rantuana",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Samuel Rantuana",
+      "other_names": [
+        {
+          "name": "Hon. Samuel Rantuana",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "5e98119b-fa62-43fa-8787-0a5933fda948",
+      "identifiers": [
+        {
+          "identifier": "sedirwa_kgoroba",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Sedirwa Kgoroba",
+      "other_names": [
+        {
+          "name": "Hon. Sedirwa Kgoroba",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1961-10-18",
+      "gender": "male",
+      "id": "50c51237-9d0f-44f3-81b3-ec31499f8a92",
+      "identifiers": [
+        {
+          "identifier": "shaw_kgathi",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10961094",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Shaw_Kgathi_(7663938712)_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Shaw_Kgathi_(7663938712)_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shaw_Kgathi"
+        },
+        {
+          "note": "Wikipedia (tn)",
+          "url": "https://tn.wikipedia.org/wiki/Shaw_Kgathi"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shaw_Kgathi"
+        }
+      ],
+      "name": "Shaw Kgathi",
+      "other_names": [
+        {
+          "name": "Hon. Shaw Kgathi",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Shaw Kgathi",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "fce3e85d-6e93-44bf-8a5e-0f0cf528bba5",
+      "identifiers": [
+        {
+          "identifier": "shawn_ntlhaile",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Shawn Ntlhaile",
+      "other_names": [
+        {
+          "name": "Hon. Shawn. Nthaile",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "stsogwane@gov.bw"
+        }
+      ],
+      "email": "stsogwane@gov.bw",
+      "id": "01d112a2-3cc1-46e9-950b-379b4b528832",
+      "identifiers": [
+        {
+          "identifier": "slumber_tsogwane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Slumber Tsogwane",
+      "other_names": [
+        {
+          "name": "Hon. Slumber Tsogwane",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tlmoremi@gov.bw"
+        }
+      ],
+      "email": "tlmoremi@gov.bw",
+      "id": "65f15677-aeeb-412e-aa5a-0924ae14865b",
+      "identifiers": [
+        {
+          "identifier": "tawana_moremi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tawana Moremi",
+      "other_names": [
+        {
+          "name": "Hon. Kgosi Tawana Moremi II",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "a2c9001a-df1e-4faa-876d-7fd8443bc3d7",
+      "identifiers": [
+        {
+          "identifier": "thapelo_olopeng",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Thapelo Olopeng",
+      "other_names": [
+        {
+          "name": "Hon. Thapelo Olopeng",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "8d331cf4-0d85-4dfb-b74c-0352b2a9c1f2",
+      "identifiers": [
+        {
+          "identifier": "thato_kwerepe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Thato Kwerepe",
+      "other_names": [
+        {
+          "name": "Hon. Thato Kwerepe",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "65b17ecf-37c9-4310-98c4-b5eb61e42dc4",
+      "identifiers": [
+        {
+          "identifier": "tlamelo_mmatli",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tlamelo Mmatli",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1958-06-09",
+      "gender": "male",
+      "id": "24aa5b74-d4b0-4dea-a45e-2260e2402bc1",
+      "identifiers": [
+        {
+          "identifier": "tshekedi_khama_ii",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7849607",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tshekedi_Khama_II"
+        },
+        {
+          "note": "Wikipedia (tn)",
+          "url": "https://tn.wikipedia.org/wiki/Tshekedi_Khama_II"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tshekedi_Khama_II"
+        }
+      ],
+      "name": "Tshekedi Khama II",
+      "other_names": [
+        {
+          "name": "Hon. Tshekedi Khama",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Tshekedi Khama II.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tshekedi Khama II",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tshekedi Khama II",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tshekedi Khama II",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Tshekedi Khama II",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "0532286e-d5d5-4464-b727-425d6dccd007",
+      "identifiers": [
+        {
+          "identifier": "tshenolo_mabeo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Tshenolo Mabeo",
+      "other_names": [
+        {
+          "name": "Hon. Tshenolo Mabeo",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "birth_date": "1959-04-23",
+      "gender": "female",
+      "id": "a824898f-f25f-4394-a4b6-04b58285c118",
+      "identifiers": [
+        {
+          "identifier": "14517628h",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "unity_dow",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "351692",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0000 8391 6911",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "167270761",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "113770642",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "69163486",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4945158",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Unity_Dow_-_PopTech_2011_-_Camden_Maine_USA_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Unity_Dow_-_PopTech_2011_-_Camden_Maine_USA_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Unity_Dow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Unity_Dow"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Unity_Dow"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Unity_Dow"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Unity_Dow"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Unity_Dow"
+        },
+        {
+          "note": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Unity_Dow"
+        }
+      ],
+      "name": "Unity Dow",
+      "other_names": [
+        {
+          "name": "Hon. Unity Dow",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ユニティ・ダウ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Юнити Доу",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Unity Dow",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "id": "ff267d5d-543e-40fb-a434-fadad872a536",
+      "identifiers": [
+        {
+          "identifier": "vincent_seretse",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Vincent Seretse",
+      "other_names": [
+        {
+          "name": "Hon. Vincent Seretse",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wmmolotsi@gov.bw"
+        }
+      ],
+      "email": "wmmolotsi@gov.bw",
+      "id": "75e67237-2331-406d-8b18-8295c157e2a5",
+      "identifiers": [
+        {
+          "identifier": "wynter_mmolotsi",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "Wynter Mmolotsi",
+      "other_names": [
+        {
+          "name": "Hon. Wynter Mmolotsi",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/bcp",
+      "identifiers": [
+        {
+          "identifier": "Q4894021",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.botswanacongressparty.org.bw/"
+        }
+      ],
+      "name": "BCP",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ボツワナ会議党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Botswana Congress Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit del Congrés de Botswana",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/bdp",
+      "identifiers": [
+        {
+          "identifier": "Q859825",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Flag_of_the_Botswana_Democratic_Party.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.bdp.org.bw/"
+        }
+      ],
+      "name": "BDP",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "博茨瓦纳民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "博茨瓦納民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "博茨瓦納民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "波札那民主黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Botswana Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Phathi ya Tomokoraga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ボツワナ民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Ботсваны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrático de Botsuana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Botswana Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Demokratska stranka Bocvane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія Ботсвани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Botswana Democratische Partij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Botswana Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הדמוקרטית הבוטסואנית",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "博茨瓦纳民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Demokratik Botswana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "보츠와나 민주당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Democrático do Botswana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Botswana Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Botswana Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico de Botsuana",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q859658",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "National Assembly",
+      "seats": 63
+    },
+    {
+      "classification": "party",
+      "id": "party/udc",
+      "identifiers": [
+        {
+          "identifier": "Q18347306",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UDC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Umbrella for Democratic Change",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Payung untuk Perubahan Demokratik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Umbrella for Democratic Change",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
+    }
+  ],
+  "meta": {
+    "sources": [
+      "https://en.wikipedia.org",
+      "http://www.parliament.gov.bw/",
+      "https://www.wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/boteti_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "01d112a2-3cc1-46e9-950b-379b4b528832",
+      "role": "member"
+    },
+    {
+      "area_id": "area/thamaga-kumakwane",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "0532286e-d5d5-4464-b727-425d6dccd007",
+      "role": "member"
+    },
+    {
+      "area_id": "area/palapye",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "0a5890fe-7a27-441e-a80f-bae0307f159b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kanye_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "0f2d5ee7-2919-4940-9873-c4b3412224f2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/selibe_phikwe_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "13db67f9-9845-43db-8f15-d3fd6db02b3b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gaborone_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "1a0b0ecb-7443-40fc-ab84-bb93e6dcc5a1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sefhare-ramokgonami",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "1c32dad3-c84a-47f9-9ced-49715ab4693d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tati_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "201a8a8e-a3b0-4586-bbed-43c19bd34f2b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/serowe_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "24aa5b74-d4b0-4dea-a45e-2260e2402bc1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mahalapye_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "25989c87-1596-4ef6-9e2b-93bfad647faa",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "309ded7b-5651-4a3b-9bc3-20291c844168",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kgalagadi_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "30fe24cf-7349-49fc-9e10-890c7f035324",
+      "role": "member"
+    },
+    {
+      "area_id": "area/shosong",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "32dbf538-0bb9-47ed-9e50-f2e76c48f682",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "3440398f-ad32-453f-be15-fd8019402eaa",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ramotswa",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bcp",
+      "organization_id": "legislature",
+      "person_id": "47c599a3-ff44-40e8-83e1-42e8958543c1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/goodhope-mabule",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "48541bfe-e5a9-4847-ab4c-59752c1b4f83",
+      "role": "member"
+    },
+    {
+      "area_id": "area/boteti_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "4f9c0c6d-9a7a-4e2d-b3e5-04254c68124f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/bobonong",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "50c51237-9d0f-44f3-81b3-ec31499f8a92",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mmathethe-molapowabojang",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "5165b97d-5bc8-4d9a-8635-03961c0b17af",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "542a59f8-5e7d-4a67-a120-dee8b70a8518",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gaborone_bonnington_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "57b3c6f7-c91b-4aa4-a7c0-17992f518517",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mogodtishane",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "5e98119b-fa62-43fa-8787-0a5933fda948",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mochudi_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "5fb53d45-c772-4165-adb5-bbdee6efa3ec",
+      "role": "member"
+    },
+    {
+      "area_id": "area/francistown_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "623ee59b-4606-4244-919c-44ec148bceff",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kanye_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "63e2e41e-1fbd-4396-8aa5-6138b15ebd0a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/letlhakeng-lephephe",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "642e0dea-e124-4694-9382-6df28ccc1ac3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/molepolole_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "65b17ecf-37c9-4310-98c4-b5eb61e42dc4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/maun_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "65f15677-aeeb-412e-aa5a-0924ae14865b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mmadinare",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "6edb5f47-e7b1-4d5b-be68-12bfa9e700e7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gaborone_bonnington_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "6f4cab18-04db-4210-b6c9-d9c32733bf63",
+      "role": "member"
+    },
+    {
+      "area_id": "area/selibe_phikwe_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bcp",
+      "organization_id": "legislature",
+      "person_id": "703650cc-c61b-4380-bb5b-a765fca752c0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/francistown_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "75e67237-2331-406d-8b18-8295c157e2a5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ghanzi_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chobe",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "80a451bb-2820-4756-85f4-556ef4994df3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/shashe_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "8728afa7-374c-4cf4-89fa-35c81933d6e2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nata-gweta",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "8aef8b27-ed03-4888-8392-5bbcea077902",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ngami",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "8d331cf4-0d85-4dfb-b74c-0352b2a9c1f2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/francistown_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "916434b4-69aa-446d-b3ee-89c0f4ee5710",
+      "role": "member"
+    },
+    {
+      "area_id": "area/maun_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "929f9e0e-fc40-4315-b2fe-2bd819232dd4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lobatse",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "9367d41f-a58f-40d2-8769-a0eb84e185f7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gabane-mmankgodi",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "963af5a6-7727-4400-9425-3e6b50d534b5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gaborone_central",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "96e6de2f-360f-4f55-a0d3-7c26d6b01c60",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "a13891fd-9181-42bd-9f63-c16de33057d2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tonota",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "a2c9001a-df1e-4faa-876d-7fd8443bc3d7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/nkange",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "a52cae39-1ec7-4943-b889-190d121c5e73",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "a824898f-f25f-4394-a4b6-04b58285c118",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mahalapye_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "b8ddf790-d341-46d3-9b21-467a80700c56",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "b90edb7c-d4d0-4852-8d95-6af8c9b9d25a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gaborone_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "c448660f-fc39-46b9-a41f-7eb30f3edf29",
+      "role": "member"
+    },
+    {
+      "area_id": "area/serowe_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "cd5dbd3d-8c72-4b94-ac32-098fa8b0e5f8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tati_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "ce1831ae-72b7-4f3a-b2e1-26232dd7f71d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/takatokwane",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "d0ef20ab-2726-4d11-9744-d706381e5cdc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/serowe_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "d191ce05-57b3-4587-8225-20e6c1a515ab",
+      "role": "member"
+    },
+    {
+      "area_id": "area/tlokweng",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "d384124c-0c87-4ad1-951d-90685e991d99",
+      "role": "member"
+    },
+    {
+      "area_id": "area/moshupa-manyana",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "e7dc8874-a76a-46db-bbd6-9eb2a6b78a4e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mochudi_west",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "ecf33f80-47b3-420a-8a8d-b7a893fc1a0b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ghanzi_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "ef1edabb-585e-48bf-85a9-c2cb4dab1e71",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lerala-maunalala",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "f6635e28-fa9b-42d5-9e6b-7594a6a6a792",
+      "role": "member"
+    },
+    {
+      "area_id": "area/okavango",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bcp",
+      "organization_id": "legislature",
+      "person_id": "f7469ab5-25cb-4a91-bfcb-8904e29a6d14",
+      "role": "member"
+    },
+    {
+      "area_id": "area/molepolole_north",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "fbf58f0a-fc7d-4e55-973f-694acfbc92af",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kgalagadi_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "fc5e4fcb-426b-44f9-86db-564bccc038fc",
+      "role": "member"
+    },
+    {
+      "area_id": "area/jwaneng-mabutsane",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "legislature",
+      "person_id": "fce3e85d-6e93-44bf-8a5e-0f0cf528bba5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lentswaeletau-mmopane",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "legislature",
+      "person_id": "ff267d5d-543e-40fb-a434-fadad872a536",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1969",
+      "id": "Q4948956",
+      "name": "Botswana general election, 1969",
+      "start_date": "1969"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1974",
+      "id": "Q4948959",
+      "name": "Botswana general election, 1974",
+      "start_date": "1974"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1979",
+      "id": "Q4948960",
+      "name": "Botswana general election, 1979",
+      "start_date": "1979"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1984",
+      "id": "Q15630228",
+      "name": "Botswana general election, 1984",
+      "start_date": "1984"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q4948962",
+      "name": "Botswana general election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1994",
+      "id": "Q3722325",
+      "name": "Botswana general election, 1994",
+      "start_date": "1994"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999-10-16",
+      "id": "Q3722326",
+      "name": "Botswana general election, 1999",
+      "start_date": "1999-10-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2004",
+      "id": "Q3722328",
+      "name": "Botswana general election, 2004",
+      "start_date": "2004"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009-10-16",
+      "id": "Q859733",
+      "name": "Botswana general election, 2009",
+      "start_date": "2009-10-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-10-24",
+      "id": "Q17494283",
+      "name": "Botswana general election, 2014",
+      "start_date": "2014-10-24"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014",
+      "organization_id": "legislature",
+      "start_date": "2014-10-29"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/bobonong",
+      "name": "Bobonong",
+      "type": "constituency"
+    },
+    {
+      "id": "area/boteti_east",
+      "name": "Boteti East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/boteti_west",
+      "name": "Boteti West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/chobe",
+      "name": "Chobe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/francistown_east",
+      "name": "Francistown East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/francistown_south",
+      "name": "Francistown South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/francistown_west",
+      "name": "Francistown West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gabane-mmankgodi",
+      "name": "Gabane-Mmankgodi",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaborone_bonnington_north",
+      "name": "Gaborone Bonnington North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaborone_bonnington_south",
+      "name": "Gaborone Bonnington South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaborone_central",
+      "name": "Gaborone Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaborone_north",
+      "name": "Gaborone North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/gaborone_south",
+      "name": "Gaborone South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ghanzi_north",
+      "name": "Ghanzi North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ghanzi_south",
+      "name": "Ghanzi South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/goodhope-mabule",
+      "name": "Goodhope-Mabule",
+      "type": "constituency"
+    },
+    {
+      "id": "area/jwaneng-mabutsane",
+      "name": "Jwaneng-Mabutsane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kanye_north",
+      "name": "Kanye North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kanye_south",
+      "name": "Kanye South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kgalagadi_north",
+      "name": "Kgalagadi North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kgalagadi_south",
+      "name": "Kgalagadi South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lentswaeletau-mmopane",
+      "name": "Lentswaeletau-Mmopane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lerala-maunalala",
+      "name": "Lerala-Maunalala",
+      "type": "constituency"
+    },
+    {
+      "id": "area/letlhakeng-lephephe",
+      "name": "Letlhakeng-Lephephe",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lobatse",
+      "name": "Lobatse",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahalapye_east",
+      "name": "Mahalapye East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mahalapye_west",
+      "name": "Mahalapye West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maun_east",
+      "name": "Maun East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/maun_west",
+      "name": "Maun West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mmadinare",
+      "name": "Mmadinare",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mmathethe-molapowabojang",
+      "name": "Mmathethe-Molapowabojang",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mochudi_east",
+      "name": "Mochudi East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mochudi_west",
+      "name": "Mochudi West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mogodtishane",
+      "name": "Mogodtishane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/molepolole_north",
+      "name": "Molepolole North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/molepolole_south",
+      "name": "Molepolole South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/moshupa-manyana",
+      "name": "Moshupa-Manyana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nata-gweta",
+      "name": "Nata-Gweta",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ngami",
+      "name": "Ngami",
+      "type": "constituency"
+    },
+    {
+      "id": "area/nkange",
+      "name": "Nkange",
+      "type": "constituency"
+    },
+    {
+      "id": "area/okavango",
+      "name": "Okavango",
+      "type": "constituency"
+    },
+    {
+      "id": "area/palapye",
+      "name": "Palapye",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ramotswa",
+      "name": "Ramotswa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sefhare-ramokgonami",
+      "name": "Sefhare-Ramokgonami",
+      "type": "constituency"
+    },
+    {
+      "id": "area/selibe_phikwe_east",
+      "name": "Selibe Phikwe East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/selibe_phikwe_west",
+      "name": "Selibe Phikwe West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/serowe_north",
+      "name": "Serowe North",
+      "type": "constituency"
+    },
+    {
+      "id": "area/serowe_south",
+      "name": "Serowe South",
+      "type": "constituency"
+    },
+    {
+      "id": "area/serowe_west",
+      "name": "Serowe West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shashe_west",
+      "name": "Shashe West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shosong",
+      "name": "Shosong",
+      "type": "constituency"
+    },
+    {
+      "id": "area/takatokwane",
+      "name": "Takatokwane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tati_east",
+      "name": "Tati East",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tati_west",
+      "name": "Tati West",
+      "type": "constituency"
+    },
+    {
+      "id": "area/thamaga-kumakwane",
+      "name": "Thamaga-Kumakwane",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tlokweng",
+      "name": "Tlokweng",
+      "type": "constituency"
+    },
+    {
+      "id": "area/tonota",
+      "name": "Tonota",
+      "type": "constituency"
+    }
+  ]
+}

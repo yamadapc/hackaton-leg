@@ -1,0 +1,1189 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "07e9d8c9-b8f2-47a7-8b14-13971fa3c249",
+      "identifiers": [
+        {
+          "identifier": "c-emmanuel",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/c-emmanuel.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/c-emmanuel.jpg"
+        }
+      ],
+      "name": "Christophe T. Emmanuel",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "c197810e-6a10-42f9-a5e1-71f217d25ba7",
+      "identifiers": [
+        {
+          "identifier": "fmeyers",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/fmeyers.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/fmeyers.jpg"
+        }
+      ],
+      "name": "Franklin A. Meyers",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "7a7ad9ee-a59d-4cfb-a39f-8feadf9e2621",
+      "identifiers": [
+        {
+          "identifier": "f-richardson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/f-richardson.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/f-richardson.jpg"
+        }
+      ],
+      "name": "Frans G. Richardson",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "f89605cc-a1bc-4845-99ac-c7c3a33d4568",
+      "identifiers": [
+        {
+          "identifier": "g-pantophlet",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/g-pantophlet.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/g-pantophlet.jpg"
+        }
+      ],
+      "name": "George C. Pantophlet",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "aad78d64-def4-4719-9c1c-cad07845e993",
+      "image": "http://www.sxmparliament.org/images/hyacinth.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/hyacinth.jpg"
+        }
+      ],
+      "name": "Hyacinth Richardson",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "c0ad8a9f-e607-4a81-8bb1-88bcc11af903",
+      "identifiers": [
+        {
+          "identifier": "j-leonard",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/j-leonard.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/j-leonard.jpg"
+        }
+      ],
+      "name": "Johan E. Leonard",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "edca5696-f6fd-4bb3-afc6-e8897c8bb6d2",
+      "identifiers": [
+        {
+          "identifier": "l-marlin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/l-marlin.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/l-marlin.jpg"
+        }
+      ],
+      "name": "Leona M. Marlin-Romeo",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "cd47029a-6bce-413a-a30e-5930b26e4b78",
+      "identifiers": [
+        {
+          "identifier": "president2",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/president2.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/president2.jpg"
+        }
+      ],
+      "name": "Lloyd J. Richardson, MD",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "ae76a356-d0a3-431b-b550-1fe44dd7fac6",
+      "identifiers": [
+        {
+          "identifier": "m-lake",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/m-lake.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/m-lake.jpg"
+        }
+      ],
+      "name": "Maurice A. Lake",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "52f1c83c-0ed1-4d56-9123-4416572b8b81",
+      "identifiers": [
+        {
+          "identifier": "s-williams",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/s-williams.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/s-williams.jpg"
+        }
+      ],
+      "name": "Sarah A. Wescot-Williams",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "b4e49980-4fdd-4d4b-8763-c204a6012f34",
+      "identifiers": [
+        {
+          "identifier": "s-jacobs",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/s-jacobs.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/s-jacobs.jpg"
+        }
+      ],
+      "name": "Silveria E. Jacobs",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "f7cb7f63-00ac-4738-b874-89189a10fed7",
+      "identifiers": [
+        {
+          "identifier": "matser",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/matser.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/matser.jpg"
+        }
+      ],
+      "name": "Silvio J. Matser",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
+      "identifiers": [
+        {
+          "identifier": "t-leonard",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/t-leonard.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/t-leonard.jpg"
+        }
+      ],
+      "name": "Tamara E. Leonard",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "e480083a-eeb7-49e0-a66f-b1d0e3a490df",
+      "identifiers": [
+        {
+          "identifier": "t-heyliger",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/t-heyliger.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/t-heyliger.jpg"
+        }
+      ],
+      "name": "Theodore E. Heyliger",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "ff21fb76-dd57-46a5-82d6-352d4b94ae63",
+      "identifiers": [
+        {
+          "identifier": "c-deweever",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/c-deweever.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/c-deweever.jpg"
+        }
+      ],
+      "name": "Van Hugh C. de Weever",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "953183ed-61df-43fd-bf33-9c142f774128",
+      "identifiers": [
+        {
+          "identifier": "w-marlin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.sxmparliament.org/images/w-marlin.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/w-marlin.jpg"
+        }
+      ],
+      "name": "William V. Marlin",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "id": "c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+      "image": "http://www.sxmparliament.org/images/samuel.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/samuel.jpg"
+        }
+      ],
+      "name": "drs. Rodolphe E. Samuel",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/democratic_party",
+      "identifiers": [
+        {
+          "identifier": "Q3040266",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Democratic Party",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Democratische Partij Sint Maarten",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party Sint Maarten",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q388526",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Estates",
+      "seats": 15
+    },
+    {
+      "classification": "party",
+      "id": "party/independent_member",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent Member",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Parteilos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/national_alliance",
+      "identifiers": [
+        {
+          "identifier": "Q16916271",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "National Alliance",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Alliance",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/united_peoples_party",
+      "identifiers": [
+        {
+          "identifier": "Q18356643",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United Peoples Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "United People's Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "UP",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/united_st._maarten_party",
+      "identifiers": [
+        {
+          "identifier": "Q18618866",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United St. Maarten Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United St. Maarten Party",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.sxmparliament.org/organization/members-of-parliament.html"
+    ]
+  },
+  "memberships": [
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "07e9d8c9-b8f2-47a7-8b14-13971fa3c249",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/democratic_party",
+      "organization_id": "legislature",
+      "person_id": "52f1c83c-0ed1-4d56-9123-4416572b8b81",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_st._maarten_party",
+      "organization_id": "legislature",
+      "person_id": "7a7ad9ee-a59d-4cfb-a39f-8feadf9e2621",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "953183ed-61df-43fd-bf33-9c142f774128",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "aad78d64-def4-4719-9c1c-cad07845e993",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/independent_member",
+      "organization_id": "legislature",
+      "person_id": "ae76a356-d0a3-431b-b550-1fe44dd7fac6",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "b4e49980-4fdd-4d4b-8763-c204a6012f34",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_peoples_party",
+      "organization_id": "legislature",
+      "person_id": "c0ad8a9f-e607-4a81-8bb1-88bcc11af903",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_peoples_party",
+      "organization_id": "legislature",
+      "person_id": "c197810e-6a10-42f9-a5e1-71f217d25ba7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "c59a5ff4-4b3a-46c6-8c05-d6578f5be37d",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_peoples_party",
+      "organization_id": "legislature",
+      "person_id": "cd47029a-6bce-413a-a30e-5930b26e4b78",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_peoples_party",
+      "organization_id": "legislature",
+      "person_id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/united_peoples_party",
+      "organization_id": "legislature",
+      "person_id": "e480083a-eeb7-49e0-a66f-b1d0e3a490df",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/independent_member",
+      "organization_id": "legislature",
+      "person_id": "edca5696-f6fd-4bb3-afc6-e8897c8bb6d2",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/independent_member",
+      "organization_id": "legislature",
+      "person_id": "f7cb7f63-00ac-4738-b874-89189a10fed7",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/national_alliance",
+      "organization_id": "legislature",
+      "person_id": "f89605cc-a1bc-4845-99ac-c7c3a33d4568",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/2",
+      "on_behalf_of_id": "party/independent_member",
+      "organization_id": "legislature",
+      "person_id": "ff21fb76-dd57-46a5-82d6-352d4b94ae63",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2",
+      "name": "2nd Estates",
+      "organization_id": "legislature",
+      "start_date": "2014"
+    }
+  ],
+  "areas": [
+
+  ]
+}

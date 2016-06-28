@@ -1,0 +1,4326 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "edgaracosta@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4183"
+        }
+      ],
+      "email": "edgaracosta@diputados.gov.py",
+      "id": "244372b2-8287-4e66-8abb-733ee623cf1b",
+      "identifiers": [
+        {
+          "identifier": "P271",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P271.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P271.jpg"
+        }
+      ],
+      "name": "Acosta Alcaráz, Edgar",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=271"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "perladevazquez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4214"
+        }
+      ],
+      "email": "perladevazquez@diputados.gov.py",
+      "id": "1163c944-badf-4250-afd9-ce807ee2899f",
+      "identifiers": [
+        {
+          "identifier": "P230",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P230.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P230.jpg"
+        }
+      ],
+      "name": "Acosta de Vázquez, Perla Teresa Beatriz",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=230"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joseadorno@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4205"
+        }
+      ],
+      "email": "joseadorno@diputados.gov.py",
+      "id": "9f08536f-f639-4463-b3e0-243a402f0fbf",
+      "identifiers": [
+        {
+          "identifier": "P221",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P221.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P221.jpg"
+        }
+      ],
+      "name": "Adorno Mazacotte, José Domingo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=221"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pedroalliana@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4223"
+        }
+      ],
+      "email": "pedroalliana@diputados.gov.py",
+      "id": "985f1e6c-6937-465e-b7d6-2532385948fd",
+      "identifiers": [
+        {
+          "identifier": "P238",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P238.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P238.jpg"
+        }
+      ],
+      "name": "Alliana Rodríguez, Hércules Pedro Lorenzo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=238"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eusebioalvarenga@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4070"
+        }
+      ],
+      "email": "eusebioalvarenga@diputados.gov.py",
+      "id": "23bbff63-2023-4040-b9bc-fbc8c96fff8d",
+      "identifiers": [
+        {
+          "identifier": "P269",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P269.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P269.jpg"
+        }
+      ],
+      "name": "Alvarenga Martínez, Eusebio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=269"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dionisioamarilla@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4244"
+        }
+      ],
+      "email": "dionisioamarilla@diputados.gov.py",
+      "id": "1ad0a353-fc72-47f1-a032-a31b6a73c470",
+      "identifiers": [
+        {
+          "identifier": "P264",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P264.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P264.jpg"
+        }
+      ],
+      "name": "Amarilla Guirland, Dionisio Oswaldo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=264"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jravalos@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4253"
+        }
+      ],
+      "email": "jravalos@diputados.gov.py",
+      "id": "d9f1c40e-668d-4cc6-9432-152eaacfe1e3",
+      "identifiers": [
+        {
+          "identifier": "P235",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P235.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P235.jpg"
+        }
+      ],
+      "name": "Avalos Mariño, Jorge Ramón",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=235"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "crbarrios@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4225"
+        }
+      ],
+      "email": "crbarrios@diputados.gov.py",
+      "id": "74f5a0f1-2331-4bd2-bc75-a335474a1729",
+      "identifiers": [
+        {
+          "identifier": "P240",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P240.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P240.jpg"
+        }
+      ],
+      "name": "Barrios Monges, Clemente Ramón",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=240"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jorgebaruja@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4320"
+        }
+      ],
+      "email": "jorgebaruja@diputados.gov.py",
+      "id": "082633c3-d0f8-4dd1-b7ac-114f9fae57bf",
+      "identifiers": [
+        {
+          "identifier": "P208",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P208.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P208.jpg"
+        }
+      ],
+      "name": "Baruja Fernández, Jorge Ignacio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=208"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jfbogado@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4076"
+        }
+      ],
+      "email": "jfbogado@diputados.gov.py",
+      "id": "3c064d9a-24ed-4fef-9d79-aa52b7ee83b1",
+      "identifiers": [
+        {
+          "identifier": "P275",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P275.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P275.jpg"
+        }
+      ],
+      "name": "Bogado Tatter, Juan Félix",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=275"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pedrobritos@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4212"
+        }
+      ],
+      "email": "pedrobritos@diputados.gov.py",
+      "id": "8611e4c5-aba0-4c1d-b22c-51e1e77fd268",
+      "identifiers": [
+        {
+          "identifier": "P228",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P228.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P228.jpg"
+        }
+      ],
+      "name": "Britos Espínola, Pedro David",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=228"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "antoniobuzarquis@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4075"
+        }
+      ],
+      "email": "antoniobuzarquis@diputados.gov.py",
+      "id": "9be75c54-3b45-42f2-9014-3d79172353a6",
+      "identifiers": [
+        {
+          "identifier": "P274",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P274.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P274.jpg"
+        }
+      ],
+      "name": "Buzarquis Cáceres, Enrique Antonio C.",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=274"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ecabralg@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4224"
+        }
+      ],
+      "email": "ecabralg@diputados.gov.py",
+      "id": "87dbd0db-eace-4084-bbc1-70d9b2739ea1",
+      "identifiers": [
+        {
+          "identifier": "P239",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P239.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P239.jpg"
+        }
+      ],
+      "name": "Cabral González, Elio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=239"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gustavocardozo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4080"
+        }
+      ],
+      "email": "gustavocardozo@diputados.gov.py",
+      "id": "a57fd95b-8a9d-4553-aae8-8013458cbefa",
+      "identifiers": [
+        {
+          "identifier": "P279",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P279.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P279.jpg"
+        }
+      ],
+      "name": "Cardozo, Antonio Gustavo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=279"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "horaciocarisimo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4207"
+        }
+      ],
+      "email": "horaciocarisimo@diputados.gov.py",
+      "id": "debc705e-c8fd-498f-a4b5-22a2c7ef4f07",
+      "identifiers": [
+        {
+          "identifier": "P249",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P249.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P249.jpg"
+        }
+      ],
+      "name": "Carísimo Ocampo, Horacio Victor",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=249"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mariacarisimo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4231"
+        }
+      ],
+      "email": "mariacarisimo@diputados.gov.py",
+      "id": "c15be64b-fb2f-4b71-8f35-73c7efaf9558",
+      "identifiers": [
+        {
+          "identifier": "P246",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P246.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P246.jpg"
+        }
+      ],
+      "name": "Carísimo Sosa, María Nimia",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=246"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rociocasco@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4206"
+        }
+      ],
+      "email": "rociocasco@diputados.gov.py",
+      "id": "761f1fd2-70e9-40ce-bd48-ba729aa2c2ad",
+      "identifiers": [
+        {
+          "identifier": "P217",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P217.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P217.jpg"
+        }
+      ],
+      "name": "Casco Arce, Maria Rocio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=217"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "toticasco@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4321"
+        }
+      ],
+      "email": "toticasco@diputados.gov.py",
+      "id": "0b051d0a-7c85-453d-a0b0-110bc11f1231",
+      "identifiers": [
+        {
+          "identifier": "P209",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P209.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P209.jpg"
+        }
+      ],
+      "name": "Casco Ayala, Alsimio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=209"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mcaceres@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4343"
+        }
+      ],
+      "email": "mcaceres@diputados.gov.py",
+      "id": "4bb0ee4e-022d-4c89-bfc9-4355f1787fb4",
+      "identifiers": [
+        {
+          "identifier": "P211",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P211.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P211.jpg"
+        }
+      ],
+      "name": "Cáceres González, Mario Duilio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=211"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mdelpuerto@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4182"
+        }
+      ],
+      "email": "mdelpuerto@diputados.gov.py",
+      "id": "a358b09d-b4bf-4154-b45e-ceaa710d1e50",
+      "identifiers": [
+        {
+          "identifier": "P261",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P261.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P261.jpg"
+        }
+      ],
+      "name": "Del Puerto Silva, Miguel Angel",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=261"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ramonduarte@hotmail.com"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4065"
+        }
+      ],
+      "email": "ramonduarte@hotmail.com",
+      "id": "28708326-23b3-4a55-897a-14ffe9bb88b4",
+      "identifiers": [
+        {
+          "identifier": "P284",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P284.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P284.jpg"
+        }
+      ],
+      "name": "Duarte Jiménez, Ramón",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=284"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "danydurand@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4315"
+        }
+      ],
+      "email": "danydurand@diputados.gov.py",
+      "id": "c5006871-95b5-44a9-acba-bd16ca463b2a",
+      "identifiers": [
+        {
+          "identifier": "P203",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P203.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P203.jpg"
+        }
+      ],
+      "name": "Durand Espínola, Dany Edgar Xavier",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=203"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pedrodure@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4066"
+        }
+      ],
+      "email": "pedrodure@diputados.gov.py",
+      "id": "3553f5b8-a531-45bf-9593-27f3e5417271",
+      "identifiers": [
+        {
+          "identifier": "P266",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P266.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P266.jpg"
+        }
+      ],
+      "name": "Duré Arguello, Pedro Milciades",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=266"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fdecclesiis@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4322"
+        }
+      ],
+      "email": "fdecclesiis@diputados.gov.py",
+      "id": "583ff53b-ba6b-45b0-8033-d7cff02e6671",
+      "identifiers": [
+        {
+          "identifier": "P210",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P210.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P210.jpg"
+        }
+      ],
+      "name": "D´Ecclesiis Giménez, Freddy Tadeo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=210"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "obferreira@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4178"
+        }
+      ],
+      "email": "obferreira@diputados.gov.py",
+      "id": "781068e1-2b38-4432-a854-b6630a40e60d",
+      "identifiers": [
+        {
+          "identifier": "P257",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P257.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P257.jpg"
+        }
+      ],
+      "name": "Ferreira de López, Olga Beatriz",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=257"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nestorferrer@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4185"
+        }
+      ],
+      "email": "nestorferrer@diputados.gov.py",
+      "id": "92eee13c-b978-4258-ac68-29519ba134f2",
+      "identifiers": [
+        {
+          "identifier": "P223",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P223.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P223.jpg"
+        }
+      ],
+      "name": "Ferrer Miranda, Nestor Fabián",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=223"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aflorentin@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4357 / 414 - 4397 / 414 - 4367"
+        }
+      ],
+      "email": "aflorentin@diputados.gov.py",
+      "id": "473539d7-7901-408d-bfc5-6f00cbdfcea0",
+      "identifiers": [
+        {
+          "identifier": "P259",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P259.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P259.jpg"
+        }
+      ],
+      "name": "Florentín Cabral, Agustín Amado",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=259"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vogonzalez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4172"
+        }
+      ],
+      "email": "vogonzalez@diputados.gov.py",
+      "id": "2d06b37a-8c4a-42ab-a51c-1cdda5c01330",
+      "identifiers": [
+        {
+          "identifier": "P251",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P251.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P251.jpg"
+        }
+      ],
+      "name": "González Drakeford, Victor Oscar",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=251"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ricardogonzalez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4069"
+        }
+      ],
+      "email": "ricardogonzalez@diputados.gov.py",
+      "id": "22712155-5245-442b-86c2-584e001977ab",
+      "identifiers": [
+        {
+          "identifier": "P268",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P268.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P268.jpg"
+        }
+      ],
+      "name": "González Escobar, Ricardo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=268"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "asagonzalez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4082"
+        }
+      ],
+      "email": "asagonzalez@diputados.gov.py",
+      "id": "4570d0d8-7431-4bbb-bd19-3c163658ca74",
+      "identifiers": [
+        {
+          "identifier": "P281",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P281.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P281.jpg"
+        }
+      ],
+      "name": "González Ortíz, Asa Javier",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=281"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vlgonzalez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4211"
+        }
+      ],
+      "email": "vlgonzalez@diputados.gov.py",
+      "id": "50a25af2-cc11-4531-96b9-7c44676805b8",
+      "identifiers": [
+        {
+          "identifier": "P227",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P227.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P227.jpg"
+        }
+      ],
+      "name": "González Segovia, Víctor Luís",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=227"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "walterharms@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4174"
+        }
+      ],
+      "email": "walterharms@diputados.gov.py",
+      "id": "126e666b-c5a2-4fb1-9c6c-322cb291b76f",
+      "identifiers": [
+        {
+          "identifier": "P253",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P253.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P253.jpg"
+        }
+      ],
+      "name": "Harms Céspedes, Walter Enrique",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=253"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jmibanez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4327"
+        }
+      ],
+      "email": "jmibanez@diputados.gov.py",
+      "id": "f55cb874-a6bc-4424-bbc8-9b121de0509d",
+      "identifiers": [
+        {
+          "identifier": "P215",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P215.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P215.jpg"
+        }
+      ],
+      "name": "Ibañez Benítez, José María",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=215"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "celsokennedy@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4068"
+        }
+      ],
+      "email": "celsokennedy@diputados.gov.py",
+      "id": "3c41e48f-6cbd-4473-b3b7-db5ea89aceb9",
+      "identifiers": [
+        {
+          "identifier": "P267",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P267.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P267.jpg"
+        }
+      ],
+      "name": "Kennedy Bogado, Celso",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=267"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "luislarre@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4209"
+        }
+      ],
+      "email": "luislarre@diputados.gov.py",
+      "id": "5170b260-8b17-4420-af0b-9e1e3c933748",
+      "identifiers": [
+        {
+          "identifier": "P225",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P225.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P225.jpg"
+        }
+      ],
+      "name": "Larré Del Puerto, Luis Alberto",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=225"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "joseledesma@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4081"
+        }
+      ],
+      "email": "joseledesma@diputados.gov.py",
+      "id": "b5df0ec2-5707-4e88-9b33-994c3b7f0381",
+      "identifiers": [
+        {
+          "identifier": "P280",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P280.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P280.jpg"
+        }
+      ],
+      "name": "Ledesma Narváez, José Gregorio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=280"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hlezme@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4078"
+        }
+      ],
+      "email": "hlezme@diputados.gov.py",
+      "id": "3aecaa8d-7804-4826-9611-3ff88acb0e04",
+      "identifiers": [
+        {
+          "identifier": "P277",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P277.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P277.jpg"
+        }
+      ],
+      "name": "Lesme Delgado, Héctor Lucio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=277"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "marciallezcano@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4215"
+        }
+      ],
+      "email": "marciallezcano@diputados.gov.py",
+      "id": "7fb13d97-700e-40f1-8ceb-fb1195d7d383",
+      "identifiers": [
+        {
+          "identifier": "P231",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P231.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P231.jpg"
+        }
+      ],
+      "name": "Lezcano Paredes, Marcial",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=231"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carlosmaggi@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4318"
+        }
+      ],
+      "email": "carlosmaggi@diputados.gov.py",
+      "id": "aff0be8c-dfe3-4709-ad38-e23228a25c1e",
+      "identifiers": [
+        {
+          "identifier": "P206",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P206.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P206.jpg"
+        }
+      ],
+      "name": "Maggi Rolón, Carlos Manuel",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=206"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "celsomaldonado@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4218"
+        }
+      ],
+      "email": "celsomaldonado@diputados.gov.py",
+      "id": "8917a32b-9ff6-4fae-a8a5-5aedf5e985c8",
+      "identifiers": [
+        {
+          "identifier": "P234",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P234.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P234.jpg"
+        }
+      ],
+      "name": "Maldonado Duarte, Celso",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=234"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "delpilarmedinadeparedes@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4210"
+        }
+      ],
+      "email": "delpilarmedinadeparedes@diputados.gov.py",
+      "id": "a857574d-209f-4a61-ade5-0b5f2fc4c9b1",
+      "identifiers": [
+        {
+          "identifier": "P226",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P226.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P226.jpg"
+        }
+      ],
+      "name": "Medina de Paredes, Del Pilar Eva",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=226"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mrmendoza@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4232"
+        }
+      ],
+      "email": "mrmendoza@diputados.gov.py",
+      "id": "bee7b565-4528-4110-999b-025279ecaeed",
+      "identifiers": [
+        {
+          "identifier": "P247",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P247.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P247.jpg"
+        }
+      ],
+      "name": "Mendoza Díaz, Mirta Ramona",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=247"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lelimorel@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4216"
+        }
+      ],
+      "email": "lelimorel@diputados.gov.py",
+      "id": "a3641df7-8f19-42f9-900e-53a26f42e8bb",
+      "identifiers": [
+        {
+          "identifier": "P232",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P232.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P232.jpg"
+        }
+      ],
+      "name": "Morel Alfonzo, Purificación",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=232"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fernandonicora@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "4144173"
+        }
+      ],
+      "email": "fernandonicora@diputados.gov.py",
+      "id": "d1131520-5209-40df-a1c8-3b130f759093",
+      "identifiers": [
+        {
+          "identifier": "P286",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P286.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P286.jpg"
+        }
+      ],
+      "name": "Nicora López Moreira, Fernando Javier",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=286"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "oscarvnunez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4226"
+        }
+      ],
+      "email": "oscarvnunez@diputados.gov.py",
+      "id": "e4a113f4-183c-41e6-bbb4-1046936a09e3",
+      "identifiers": [
+        {
+          "identifier": "P241",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P241.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P241.jpg"
+        }
+      ],
+      "name": "Nuñez Gimenez, Oscar Venancio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=241"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "canusa@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4202"
+        }
+      ],
+      "email": "canusa@diputados.gov.py",
+      "id": "c542e77f-0378-49c5-ae0a-a7b4407fa005",
+      "identifiers": [
+        {
+          "identifier": "P218",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P218.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P218.jpg"
+        }
+      ],
+      "name": "Nuñez Salinas, Carlos Alberto",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=218"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "fortellado@diputado.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4208"
+        }
+      ],
+      "email": "fortellado@diputado.gov.py",
+      "id": "79ee9cc0-cac3-42be-b6b0-e124b5ee4574",
+      "identifiers": [
+        {
+          "identifier": "P224",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P224.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P224.jpg"
+        }
+      ],
+      "name": "Ortellado Zorrilla, Félix Fernando",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=224"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "edagarortiz@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4233"
+        }
+      ],
+      "email": "edagarortiz@diputados.gov.py",
+      "id": "9c1a358f-5949-43c6-82b7-6b2d9a68275e",
+      "identifiers": [
+        {
+          "identifier": "P248",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P248.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P248.jpg"
+        }
+      ],
+      "name": "Ortiz Riveros, Edgar Isaac",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=248"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eovelar@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4177"
+        }
+      ],
+      "email": "eovelar@diputados.gov.py",
+      "id": "252345c2-d9e9-4c7d-ada0-faf764bfc464",
+      "identifiers": [
+        {
+          "identifier": "P282",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P282.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P282.jpg"
+        }
+      ],
+      "name": "Ovelar Benitez, Eber Osvaldo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=282"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "foviedo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414  4316"
+        }
+      ],
+      "email": "foviedo@diputados.gov.py",
+      "id": "0f6c5231-f262-460f-a7ee-c9c51adc1d01",
+      "identifiers": [
+        {
+          "identifier": "P287",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P287.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P287.jpg"
+        }
+      ],
+      "name": "Oviedo Melgarejo, Fabiola Elvira",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=287"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "arieloviedo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4179"
+        }
+      ],
+      "email": "arieloviedo@diputados.gov.py",
+      "id": "210ce74e-8b18-4ca8-9b44-2d9a20f8b05b",
+      "identifiers": [
+        {
+          "identifier": "P258",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P258.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P258.jpg"
+        }
+      ],
+      "name": "Oviedo Verdún, César Ariel",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=258"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "apenayo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4319"
+        }
+      ],
+      "email": "apenayo@diputados.gov.py",
+      "id": "3ac46baa-f353-41ea-a74e-dd90ac6be73a",
+      "identifiers": [
+        {
+          "identifier": "P207",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P207.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P207.jpg"
+        }
+      ],
+      "name": "Penayo Ortega, Atilio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=207"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "enriquepereira@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4227"
+        }
+      ],
+      "email": "enriquepereira@diputados.gov.py",
+      "id": "ac683167-9df0-407d-8395-0d1582e7624a",
+      "identifiers": [
+        {
+          "identifier": "P242",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P242.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P242.jpg"
+        }
+      ],
+      "name": "Pereira Thalmann, Enrique Javier",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=242"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "carlosportillo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4073"
+        }
+      ],
+      "email": "carlosportillo@diputados.gov.py",
+      "id": "614f769c-c058-48e4-9f2a-340b8129e16e",
+      "identifiers": [
+        {
+          "identifier": "P272",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P272.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P272.jpg"
+        }
+      ],
+      "name": "Portillo Verón, Carlos Antonio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=272"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "concepcionquintana@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4213"
+        }
+      ],
+      "email": "concepcionquintana@diputados.gov.py",
+      "id": "0300285b-ff59-4e75-bf4d-14b5f0572cd8",
+      "identifiers": [
+        {
+          "identifier": "P229",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P229.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P229.jpg"
+        }
+      ],
+      "name": "Quintana López, Concepción",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=229"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jbramirez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4072"
+        }
+      ],
+      "email": "jbramirez@diputados.gov.py",
+      "id": "d915eb56-098c-4272-b6f2-0d98b46128b4",
+      "identifiers": [
+        {
+          "identifier": "P262",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P262.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P262.jpg"
+        }
+      ],
+      "name": "Ramírez Brizuela, Juan Bartolomé",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=262"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aretamozo@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4317"
+        }
+      ],
+      "email": "aretamozo@diputados.gov.py",
+      "id": "14ef5064-7e91-43da-99f8-b013fe628d5d",
+      "identifiers": [
+        {
+          "identifier": "P205",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P205.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P205.jpg"
+        }
+      ],
+      "name": "Retamozo Ortíz, Andrés",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=205"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "trivas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4229"
+        }
+      ],
+      "email": "trivas@diputados.gov.py",
+      "id": "e2a454ef-197b-463e-95ae-e36a0da37824",
+      "identifiers": [
+        {
+          "identifier": "P244",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P244.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P244.jpg"
+        }
+      ],
+      "name": "Rivas Benítez, Tomás Fidelino",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=244"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pablinorodriguez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4328"
+        }
+      ],
+      "email": "pablinorodriguez@diputados.gov.py",
+      "id": "610e4915-7084-4be8-a1f8-96ee3980495a",
+      "identifiers": [
+        {
+          "identifier": "P216",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P216.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P216.jpg"
+        }
+      ],
+      "name": "Rodriguez Arias, Pablino Acasio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=216"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "karinarodriguez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4201"
+        }
+      ],
+      "email": "karinarodriguez@diputados.gov.py",
+      "id": "578147c2-e023-43c4-954d-a8f66589be8c",
+      "identifiers": [
+        {
+          "identifier": "P222",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P222.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P222.jpg"
+        }
+      ],
+      "name": "Rodríguez Carámbula, Karina Andrea",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=222"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tadeorojas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4342 / 414 - 4311"
+        }
+      ],
+      "email": "tadeorojas@diputados.gov.py",
+      "id": "4cdf1ac5-1d92-44ab-b4fe-6bf836d17608",
+      "identifiers": [
+        {
+          "identifier": "P233",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P233.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P233.jpg"
+        }
+      ],
+      "name": "Rojas Meza, Miguel Tadeo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=233"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nrojas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4171"
+        }
+      ],
+      "email": "nrojas@diputados.gov.py",
+      "id": "762954eb-7dff-4730-9680-648c71acb228",
+      "identifiers": [
+        {
+          "identifier": "P250",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P250.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P250.jpg"
+        }
+      ],
+      "name": "Rojas Salvioni, Nazario Tomás",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=250"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sergiorojas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4074"
+        }
+      ],
+      "email": "sergiorojas@diputados.gov.py",
+      "id": "c4e8ad92-8cc4-4dc2-b8ea-eaaa7072f560",
+      "identifiers": [
+        {
+          "identifier": "P273",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P273.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P273.jpg"
+        }
+      ],
+      "name": "Rojas Sosa, Sergio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=273"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "olimpiorojas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4071"
+        }
+      ],
+      "email": "olimpiorojas@diputados.gov.py",
+      "id": "151f2cab-ee84-413e-bfa2-37cc02bbeb8b",
+      "identifiers": [
+        {
+          "identifier": "P270",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P270.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P270.jpg"
+        }
+      ],
+      "name": "Rojas Villalba, Olimpio",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=270"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ramonromero@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4222"
+        }
+      ],
+      "email": "ramonromero@diputados.gov.py",
+      "id": "3d858b09-c998-48b6-8ee4-cfbb035f2dd0",
+      "identifiers": [
+        {
+          "identifier": "P237",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P237.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P237.jpg"
+        }
+      ],
+      "name": "Romero Roa, Ramón",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=237"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hugorubin@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4184"
+        }
+      ],
+      "email": "hugorubin@diputados.gov.py",
+      "id": "f6848b41-4153-4af3-be78-1eff0e1fc931",
+      "identifiers": [
+        {
+          "identifier": "P263",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P263.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P263.jpg"
+        }
+      ],
+      "name": "Rubín Godoy, Hugo Leandro",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=263"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jrios@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4326"
+        }
+      ],
+      "email": "jrios@diputados.gov.py",
+      "id": "6d6c2353-5efe-4b2d-92f9-0788cc613902",
+      "identifiers": [
+        {
+          "identifier": "P214",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P214.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P214.jpg"
+        }
+      ],
+      "name": "Ríos Bogado, Julio Javier",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=214"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vrios@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4228"
+        }
+      ],
+      "email": "vrios@diputados.gov.py",
+      "id": "ac6207a1-fddf-4357-a49d-12254826094b",
+      "identifiers": [
+        {
+          "identifier": "P243",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P243.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P243.jpg"
+        }
+      ],
+      "name": "Ríos Ojeda, Víctor",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=243"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sasa@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4230"
+        }
+      ],
+      "email": "sasa@diputados.gov.py",
+      "id": "a778d5f0-3db8-4580-9fd4-c8429250ad56",
+      "identifiers": [
+        {
+          "identifier": "P245",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P245.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P245.jpg"
+        }
+      ],
+      "name": "Salinas Montanía, Salustiano",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=245"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "corneliussawatzky@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4176"
+        }
+      ],
+      "email": "corneliussawatzky@diputados.gov.py",
+      "id": "30a047c4-6ff9-44bb-89b5-fc573157fc9b",
+      "identifiers": [
+        {
+          "identifier": "P255",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P255.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P255.jpg"
+        }
+      ],
+      "name": "Sawatzky Sawatzky, Cornelius",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=255"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mwsoto@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4203"
+        }
+      ],
+      "email": "mwsoto@diputados.gov.py",
+      "id": "e51cca4f-126b-485a-97f4-5dab70a96a4e",
+      "identifiers": [
+        {
+          "identifier": "P219",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P219.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P219.jpg"
+        }
+      ],
+      "name": "Soto Estigarribia, Mario Walberto",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=219"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "esmeritasanchez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4079"
+        }
+      ],
+      "email": "esmeritasanchez@diputados.gov.py",
+      "id": "f695c67b-3d75-4668-925b-289cc4873354",
+      "identifiers": [
+        {
+          "identifier": "P278",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P278.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P278.jpg"
+        }
+      ],
+      "name": "Sánchez de Da Silva, Esmérita",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=278"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cynthiatarrago@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4314"
+        }
+      ],
+      "email": "cynthiatarrago@diputados.gov.py",
+      "id": "f1125464-85a7-44f1-aafa-df554667b117",
+      "identifiers": [
+        {
+          "identifier": "P202",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P202.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P202.jpg"
+        }
+      ],
+      "name": "Tarragó Díaz, Cynthia Elizabeth",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=202"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ctroche@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4204"
+        }
+      ],
+      "email": "ctroche@diputados.gov.py",
+      "id": "e892a77b-70b1-4af4-8810-f23a53ca9df6",
+      "identifiers": [
+        {
+          "identifier": "P220",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P220.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P220.jpg"
+        }
+      ],
+      "name": "Troche Alvarez, Celso",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=220"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tuma@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4181"
+        }
+      ],
+      "email": "tuma@diputados.gov.py",
+      "id": "22ecd5d7-69e1-4e52-9cba-0e821df340d1",
+      "identifiers": [
+        {
+          "identifier": "P260",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P260.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P260.jpg"
+        }
+      ],
+      "name": "Tuma Bogado, Oscar Luís",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=260"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "blancavargas@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4175"
+        }
+      ],
+      "email": "blancavargas@diputados.gov.py",
+      "id": "79ba003f-3528-4054-9fb5-c6ce0eff781c",
+      "identifiers": [
+        {
+          "identifier": "P254",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P254.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P254.jpg"
+        }
+      ],
+      "name": "Vargas de Caballero, Blanca Marina",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=254"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hvelazquez@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4305/6"
+        }
+      ],
+      "email": "hvelazquez@diputados.gov.py",
+      "id": "2543f266-3bff-458b-9487-6ce32d7d43ef",
+      "identifiers": [
+        {
+          "identifier": "P213",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P213.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P213.jpg"
+        }
+      ],
+      "name": "Velázquez Moreno, Hugo Adalberto",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=213"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pvbejarano@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4077"
+        }
+      ],
+      "email": "pvbejarano@diputados.gov.py",
+      "id": "3549a9b2-e180-497f-a9d3-10f666619e42",
+      "identifiers": [
+        {
+          "identifier": "P276",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P276.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P276.jpg"
+        }
+      ],
+      "name": "Vera Bejarano, Pastor Alberto",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=276"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bernardovc@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4324"
+        }
+      ],
+      "email": "bernardovc@diputados.gov.py",
+      "id": "c46bf1f8-2712-4c1b-87a0-8f850b96f087",
+      "identifiers": [
+        {
+          "identifier": "P212",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P212.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P212.jpg"
+        }
+      ],
+      "name": "Villalba Cardozo, Bernardo",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=212"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cristinavillalba@diputados.gov.py"
+        },
+        {
+          "type": "phone",
+          "value": "414 - 4221"
+        }
+      ],
+      "email": "cristinavillalba@diputados.gov.py",
+      "id": "8836cdce-9f2d-4c8b-8cb7-52a27ff89ac2",
+      "identifiers": [
+        {
+          "identifier": "P236",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.gov.py/fotos/cv/P236.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.gov.py/fotos/cv/P236.jpg"
+        }
+      ],
+      "name": "Villalba López, María Cristina",
+      "sources": [
+        {
+          "url": "http://www.diputados.gov.py/ww2/?pagina=cv&id=236"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "ANR",
+      "identifiers": [
+        {
+          "identifier": "Q928949",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Emblema_Partido_Colorado_Paraguay.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.anr.org.py/"
+        }
+      ],
+      "name": "ANR",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Association nationale républicaine",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Colorado Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Yhdistynyt kansallinen tasavaltalaispuolue",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Կոլորադո կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Partai Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "コロラド党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "კოლორადოს პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Coloradopartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Колорадо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Partija Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Партија Колорадо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Coloradopartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "พรรคโกโลราโด",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія Колорадо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "红党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Colorado (stranka)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Coloradopartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partido Colorado (Paraguay)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب كولورادو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Kolorado partiyası",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Partido Colorado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "콜로라도당",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "AP",
+      "name": "AP"
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q320290",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chamber of Deputies",
+      "seats": 80
+    },
+    {
+      "classification": "party",
+      "id": "FG",
+      "identifiers": [
+        {
+          "identifier": "Q11755876",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Frente-guasu-logo.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.frenteguasu.org.py"
+        }
+      ],
+      "name": "FG",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Guasú Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Frente Guasú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Фронт „Гуасу“",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Guasú",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大陣線",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "IND",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "IND",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PEN",
+      "identifiers": [
+        {
+          "identifier": "Q5661540",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.encuentronacional.org.py"
+        }
+      ],
+      "name": "PEN",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Encuentro Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Encounter Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "遇見國家黨",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "PLRA",
+      "identifiers": [
+        {
+          "identifier": "Q2735114",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Partido_Liberal_Radical_Autentico.png",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.plra.org.py/"
+        }
+      ],
+      "name": "PLRA",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "真正激进自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "真正激進自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "真正激進自由黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "真正急進自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral radical authentique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ჭეშმარიტად რადიკალური ლიბერალური პარტია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Authentic Radical Liberal Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Radical Auténtico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Autentisk Liberalt Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Äkta Radikal-liberala partiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Liberal Radical Autêntico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "真正激进自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido Liberal Radical Auténtico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Аутентична радикална либерална партија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Автентична радикална либерална партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Аутентичная Радикальная Либеральная партия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Աուտենտիկ ռադիկալ լիբերալ կուսակցություն",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Det autentiske radikal-liberale parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "진정급진자유당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "正統急進自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti libéral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Partido Libéral Radical Autentico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Partido Liberal Radical Auténtico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Partido Liberal Radical Autentico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti liberal radical authentique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "PLRA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Liberal Radical Autentico",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.diputados.gov.py"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "0300285b-ff59-4e75-bf4d-14b5f0572cd8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/paraguarí",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "082633c3-d0f8-4dd1-b7ac-114f9fae57bf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/concepción",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "0b051d0a-7c85-453d-a0b0-110bc11f1231",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "0f6c5231-f262-460f-a7ee-c9c51adc1d01",
+      "role": "member"
+    },
+    {
+      "area_id": "area/san_pedro",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "1163c944-badf-4250-afd9-ce807ee2899f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "126e666b-c5a2-4fb1-9c6c-322cb291b76f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "14ef5064-7e91-43da-99f8-b013fe628d5d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caazapá",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "151f2cab-ee84-413e-bfa2-37cc02bbeb8b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "1ad0a353-fc72-47f1-a032-a31b6a73c470",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "210ce74e-8b18-4ca8-9b44-2d9a20f8b05b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PEN",
+      "organization_id": "legislature",
+      "person_id": "22712155-5245-442b-86c2-584e001977ab",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "22ecd5d7-69e1-4e52-9cba-0e821df340d1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/guairá",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "23bbff63-2023-4040-b9bc-fbc8c96fff8d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "244372b2-8287-4e66-8abb-733ee623cf1b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "252345c2-d9e9-4c7d-ada0-faf764bfc464",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "2543f266-3bff-458b-9487-6ce32d7d43ef",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "FG",
+      "organization_id": "legislature",
+      "person_id": "28708326-23b3-4a55-897a-14ffe9bb88b4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "2d06b37a-8c4a-42ab-a51c-1cdda5c01330",
+      "role": "member"
+    },
+    {
+      "area_id": "area/boquerón",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "30a047c4-6ff9-44bb-89b5-fc573157fc9b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/san_pedro",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "3549a9b2-e180-497f-a9d3-10f666619e42",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cordillera",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "3553f5b8-a531-45bf-9593-27f3e5417271",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "3ac46baa-f353-41ea-a74e-dd90ac6be73a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "3aecaa8d-7804-4826-9611-3ff88acb0e04",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "3c064d9a-24ed-4fef-9d79-aa52b7ee83b1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "3c41e48f-6cbd-4473-b3b7-db5ea89aceb9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "3d858b09-c998-48b6-8ee4-cfbb035f2dd0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/misiones",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "4570d0d8-7431-4bbb-bd19-3c163658ca74",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cordillera",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "473539d7-7901-408d-bfc5-6f00cbdfcea0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "4bb0ee4e-022d-4c89-bfc9-4355f1787fb4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "4cdf1ac5-1d92-44ab-b4fe-6bf836d17608",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cordillera",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "50a25af2-cc11-4531-96b9-7c44676805b8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "5170b260-8b17-4420-af0b-9e1e3c933748",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "AP",
+      "organization_id": "legislature",
+      "person_id": "578147c2-e023-43c4-954d-a8f66589be8c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/san_pedro",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "583ff53b-ba6b-45b0-8033-d7cff02e6671",
+      "role": "member"
+    },
+    {
+      "area_id": "area/misiones",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "610e4915-7084-4be8-a1f8-96ee3980495a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "614f769c-c058-48e4-9f2a-340b8129e16e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "6d6c2353-5efe-4b2d-92f9-0788cc613902",
+      "role": "member"
+    },
+    {
+      "area_id": "area/paraguarí",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "74f5a0f1-2331-4bd2-bc75-a335474a1729",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "AP",
+      "organization_id": "legislature",
+      "person_id": "761f1fd2-70e9-40ce-bd48-ba729aa2c2ad",
+      "role": "member"
+    },
+    {
+      "area_id": "area/cordillera",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "762954eb-7dff-4730-9680-648c71acb228",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "IND",
+      "organization_id": "legislature",
+      "person_id": "781068e1-2b38-4432-a854-b6630a40e60d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "79ba003f-3528-4054-9fb5-c6ce0eff781c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/guairá",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "79ee9cc0-cac3-42be-b6b0-e124b5ee4574",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amambay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "7fb13d97-700e-40f1-8ceb-fb1195d7d383",
+      "role": "member"
+    },
+    {
+      "area_id": "area/guairá",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "8611e4c5-aba0-4c1d-b22c-51e1e77fd268",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "87dbd0db-eace-4084-bbc1-70d9b2739ea1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/canindeyú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "8836cdce-9f2d-4c8b-8cb7-52a27ff89ac2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "8917a32b-9ff6-4fae-a8a5-5aedf5e985c8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "92eee13c-b978-4258-ac68-29519ba134f2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/Ñeembucú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "985f1e6c-6937-465e-b7d6-2532385948fd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "9be75c54-3b45-42f2-9014-3d79172353a6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "9c1a358f-5949-43c6-82b7-6b2d9a68275e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraguay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "9f08536f-f639-4463-b3e0-243a402f0fbf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "a358b09d-b4bf-4154-b45e-ceaa710d1e50",
+      "role": "member"
+    },
+    {
+      "area_id": "area/canindeyú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "a3641df7-8f19-42f9-900e-53a26f42e8bb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alto_paraná",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "a57fd95b-8a9d-4553-aae8-8013458cbefa",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "a778d5f0-3db8-4580-9fd4-c8429250ad56",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "a857574d-209f-4a61-ade5-0b5f2fc4c9b1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/Ñeembucú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "ac6207a1-fddf-4357-a49d-12254826094b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "ac683167-9df0-407d-8395-0d1582e7624a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/san_pedro",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "aff0be8c-dfe3-4709-ad38-e23228a25c1e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/san_pedro",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "b5df0ec2-5707-4e88-9b33-994c3b7f0381",
+      "role": "member"
+    },
+    {
+      "area_id": "area/concepción",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "bee7b565-4528-4110-999b-025279ecaeed",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "c15be64b-fb2f-4b71-8f35-73c7efaf9558",
+      "role": "member"
+    },
+    {
+      "area_id": "area/concepción",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "c46bf1f8-2712-4c1b-87a0-8f850b96f087",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "c4e8ad92-8cc4-4dc2-b8ea-eaaa7072f560",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "c5006871-95b5-44a9-acba-bd16ca463b2a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "c542e77f-0378-49c5-ae0a-a7b4407fa005",
+      "role": "member"
+    },
+    {
+      "area_id": "area/presidente_hayes",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "d1131520-5209-40df-a1c8-3b130f759093",
+      "role": "member"
+    },
+    {
+      "area_id": "area/amambay",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "d915eb56-098c-4272-b6f2-0d98b46128b4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/paraguarí",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "d9f1c40e-668d-4cc6-9432-152eaacfe1e3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/itapúa",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "debc705e-c8fd-498f-a4b5-22a2c7ef4f07",
+      "role": "member"
+    },
+    {
+      "area_id": "area/paraguarí",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "e2a454ef-197b-463e-95ae-e36a0da37824",
+      "role": "member"
+    },
+    {
+      "area_id": "area/presidente_hayes",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "e4a113f4-183c-41e6-bbb4-1046936a09e3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "e51cca4f-126b-485a-97f4-5dab70a96a4e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caazapá",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "e892a77b-70b1-4af4-8810-f23a53ca9df6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/capital",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "f1125464-85a7-44f1-aafa-df554667b117",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "ANR",
+      "organization_id": "legislature",
+      "person_id": "f55cb874-a6bc-4424-bbc8-9b121de0509d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/central",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PEN",
+      "organization_id": "legislature",
+      "person_id": "f6848b41-4153-4af3-be78-1eff0e1fc931",
+      "role": "member"
+    },
+    {
+      "area_id": "area/caaguazú",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "PLRA",
+      "organization_id": "legislature",
+      "person_id": "f695c67b-3d75-4668-925b-289cc4873354",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "legislative period",
+      "id": "term/2013",
+      "name": "2013–2018",
+      "organization_id": "legislature",
+      "start_date": "2013-04-21"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/alto_paraguay",
+      "name": "Alto Paraguay",
+      "type": "constituency"
+    },
+    {
+      "id": "area/alto_paraná",
+      "name": "Alto Paraná",
+      "type": "constituency"
+    },
+    {
+      "id": "area/amambay",
+      "name": "Amambay",
+      "type": "constituency"
+    },
+    {
+      "id": "area/boquerón",
+      "name": "Boquerón",
+      "type": "constituency"
+    },
+    {
+      "id": "area/caaguazú",
+      "name": "Caaguazú",
+      "type": "constituency"
+    },
+    {
+      "id": "area/caazapá",
+      "name": "Caazapá",
+      "type": "constituency"
+    },
+    {
+      "id": "area/canindeyú",
+      "name": "Canindeyú",
+      "type": "constituency"
+    },
+    {
+      "id": "area/capital",
+      "name": "Capital",
+      "type": "constituency"
+    },
+    {
+      "id": "area/central",
+      "name": "Central",
+      "type": "constituency"
+    },
+    {
+      "id": "area/concepción",
+      "name": "Concepción",
+      "type": "constituency"
+    },
+    {
+      "id": "area/cordillera",
+      "name": "Cordillera",
+      "type": "constituency"
+    },
+    {
+      "id": "area/guairá",
+      "name": "Guairá",
+      "type": "constituency"
+    },
+    {
+      "id": "area/itapúa",
+      "name": "Itapúa",
+      "type": "constituency"
+    },
+    {
+      "id": "area/misiones",
+      "name": "Misiones",
+      "type": "constituency"
+    },
+    {
+      "id": "area/paraguarí",
+      "name": "Paraguarí",
+      "type": "constituency"
+    },
+    {
+      "id": "area/presidente_hayes",
+      "name": "Presidente Hayes",
+      "type": "constituency"
+    },
+    {
+      "id": "area/san_pedro",
+      "name": "San Pedro",
+      "type": "constituency"
+    },
+    {
+      "id": "area/Ñeembucú",
+      "name": "Ñeembucú",
+      "type": "constituency"
+    }
+  ]
+}

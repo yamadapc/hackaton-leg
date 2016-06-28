@@ -1,0 +1,1220 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "080556fd-ab7b-4f77-a750-997d37509edd",
+      "identifiers": [
+        {
+          "identifier": "almando-rocky-liburd",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenAlmandoLiburd.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenAlmandoLiburd.jpg"
+        }
+      ],
+      "name": "Almando \"Rocky\" Liburd",
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-almando-rocky-liburd"
+        }
+      ]
+    },
+    {
+      "id": "7ae7835e-a437-4b02-9fec-434babe99226",
+      "identifiers": [
+        {
+          "identifier": "clifford-f-graham",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenCliffordGraham.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenCliffordGraham.jpg"
+        }
+      ],
+      "name": "Clifford Graham",
+      "other_names": [
+        {
+          "name": "Clifford F. Graham",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-clifford-f-graham"
+        }
+      ]
+    },
+    {
+      "id": "9a0213cf-6f9c-45c3-b105-b7760ac721cb",
+      "identifiers": [
+        {
+          "identifier": "janette-millin-young",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenJanetteYoung.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenJanetteYoung.jpg"
+        }
+      ],
+      "name": "Janette Millin Young",
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-janette-millin-young"
+        }
+      ]
+    },
+    {
+      "id": "48e10760-be30-469d-916e-5c381975fe98",
+      "identifiers": [
+        {
+          "identifier": "jean-a-forde",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenJeanAFord.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenJeanAFord.jpg"
+        }
+      ],
+      "name": "Jean Forde",
+      "other_names": [
+        {
+          "name": "Jean A. Forde",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-jean-a-forde"
+        }
+      ]
+    },
+    {
+      "id": "968d620b-f217-4b04-ba96-3fd627fd8e96",
+      "identifiers": [
+        {
+          "identifier": "justin-harrigan-sr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenJustinHarrigan.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenJustinHarrigan.jpg"
+        }
+      ],
+      "name": "Justin Harrigan, Sr.",
+      "other_names": [
+        {
+          "name": "Justin Harrigan Sr.",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-justin-harrigan-sr"
+        }
+      ]
+    },
+    {
+      "id": "1eefbb7a-a259-46ce-9d3d-7d15e36efc91",
+      "identifiers": [
+        {
+          "identifier": "kenneth-l-gittens",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenKennethGittens.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenKennethGittens.jpg"
+        }
+      ],
+      "name": "Kenneth Kenny Gittens",
+      "other_names": [
+        {
+          "name": "Kenneth L. Gittens",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-kenneth-l-gittens"
+        }
+      ]
+    },
+    {
+      "id": "f8345d9a-4eae-4dca-8ce2-d1cf2f492f2d",
+      "identifiers": [
+        {
+          "identifier": "kurt-a-vialet",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenKurtVialet.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenKurtVialet.jpg"
+        }
+      ],
+      "name": "Kurt Vialet",
+      "other_names": [
+        {
+          "name": "Kurt A. Vialet",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-kurt-a-vialet"
+        }
+      ]
+    },
+    {
+      "id": "b4c82324-73d3-4a43-873f-7daac6eecef7",
+      "identifiers": [
+        {
+          "identifier": "marvin-blyden",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenMarvinBlyden.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenMarvinBlyden.jpg"
+        }
+      ],
+      "name": "Marvin A. Blyden",
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-marvin-blyden"
+        }
+      ]
+    },
+    {
+      "id": "fc1685de-e5cb-4c34-9a81-c5d7ed29df7d",
+      "identifiers": [
+        {
+          "identifier": "myron-d-jackson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenMyronJackson.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenMyronJackson.jpg"
+        }
+      ],
+      "name": "Myron D. Jackson",
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-myron-d-jackson"
+        }
+      ]
+    },
+    {
+      "id": "33edd0a1-ee30-4ad3-be28-34a32999d8c3",
+      "identifiers": [
+        {
+          "identifier": "nereida-rivera-o-reilly",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenNereidaOReilly.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenNereidaOReilly.jpg"
+        }
+      ],
+      "name": "Nereida Rivera O' Reilly",
+      "other_names": [
+        {
+          "name": "Nereida Rivera O'Reilly",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-nereida-rivera-o-reilly"
+        }
+      ]
+    },
+    {
+      "id": "9b887450-06e0-4e08-875d-2f6bf4a67bb9",
+      "identifiers": [
+        {
+          "identifier": "neville-a-james",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenNevilleJames.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenNevilleJames.jpg"
+        }
+      ],
+      "name": "Neville James",
+      "other_names": [
+        {
+          "name": "Neville A. James",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-neville-a-james"
+        }
+      ]
+    },
+    {
+      "id": "5f15da28-8b28-47ea-975b-c1a92ea3b8a8",
+      "identifiers": [
+        {
+          "identifier": "novelle-e-francis-jr",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenNovelleFrancis.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenNovelleFrancis.jpg"
+        }
+      ],
+      "name": "Novelle E. Francis",
+      "other_names": [
+        {
+          "name": "Novelle E. Francis Jr.",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-novelle-e-francis-jr"
+        }
+      ]
+    },
+    {
+      "id": "1d468512-58aa-4557-8b2a-fb598002f1bd",
+      "identifiers": [
+        {
+          "identifier": "sammuel-sanes",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenSammuelSanes.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenSammuelSanes.jpg"
+        }
+      ],
+      "name": "Samuel Sanes",
+      "other_names": [
+        {
+          "name": "Sammuel Sanes",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-sammuel-sanes"
+        }
+      ]
+    },
+    {
+      "id": "68dc0324-f8bc-4aef-9ec8-8ccfd002c695",
+      "identifiers": [
+        {
+          "identifier": "terrance-a-nelson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenTerrenceNelson.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenTerrenceNelson.jpg"
+        }
+      ],
+      "name": "T. Positive Nelson",
+      "other_names": [
+        {
+          "name": "Terrence A. Nelson",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-terrance-a-nelson"
+        }
+      ]
+    },
+    {
+      "id": "d14f9619-cd78-4d41-acdf-d4e0ec7d3592",
+      "identifiers": [
+        {
+          "identifier": "tregenza-a-roach-esq",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.legvi.org/images/Senators/SenTregenzaRoach.jpg",
+      "images": [
+        {
+          "url": "http://www.legvi.org/images/Senators/SenTregenzaRoach.jpg"
+        }
+      ],
+      "name": "Tregenza A Roach",
+      "other_names": [
+        {
+          "name": "Tregenza A. Roach, Esq",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.legvi.org/index.php/senator-tregenza-a-roach-esq"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "party",
+      "id": "party/democratic",
+      "identifiers": [
+        {
+          "identifier": "Q1562850",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Democratic",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Demokratska stranka Djevičanskih otoka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Party of the Virgin Islands",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratische Partij van de Maagdeneilanden",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Parteilos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/independent_citizens_movement",
+      "identifiers": [
+        {
+          "identifier": "Q6016472",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Independent Citizens Movement",
+      "other_names": [
+        {
+          "lang": "sh",
+          "name": "Nezavisni građanski pokret",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Independent Citizens Movement",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q6518465",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Legislature",
+      "seats": 15
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.legvi.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/senator_at_large",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "080556fd-ab7b-4f77-a750-997d37509edd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "1d468512-58aa-4557-8b2a-fb598002f1bd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "1eefbb7a-a259-46ce-9d3d-7d15e36efc91",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "33edd0a1-ee30-4ad3-be28-34a32999d8c3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "48e10760-be30-469d-916e-5c381975fe98",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "5f15da28-8b28-47ea-975b-c1a92ea3b8a8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent_citizens_movement",
+      "organization_id": "legislature",
+      "person_id": "68dc0324-f8bc-4aef-9ec8-8ccfd002c695",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "7ae7835e-a437-4b02-9fec-434babe99226",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "968d620b-f217-4b04-ba96-3fd627fd8e96",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "9a0213cf-6f9c-45c3-b105-b7760ac721cb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "9b887450-06e0-4e08-875d-2f6bf4a67bb9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "b4c82324-73d3-4a43-873f-7daac6eecef7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "legislature",
+      "person_id": "d14f9619-cd78-4d41-acdf-d4e0ec7d3592",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._croix",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "f8345d9a-4eae-4dca-8ce2-d1cf2f492f2d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/st._thomas-st._john",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/democratic",
+      "organization_id": "legislature",
+      "person_id": "fc1685de-e5cb-4c34-9a81-c5d7ed29df7d",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "2010",
+      "id": "Q7892281",
+      "name": "United States Virgin Islands general election, 2010",
+      "start_date": "2010"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2012-11-06",
+      "id": "Q7892283",
+      "name": "United States Virgin Islands general election, 2012",
+      "start_date": "2012-11-06"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2014",
+      "name": "2014–",
+      "organization_id": "legislature",
+      "start_date": "2014"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-11-04",
+      "id": "Q19605169",
+      "name": "United States Virgin Islands general election, 2014",
+      "start_date": "2014-11-04"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/senator_at_large",
+      "name": "Senator at Large",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._croix",
+      "name": "St. Croix",
+      "type": "constituency"
+    },
+    {
+      "id": "area/st._thomas-st._john",
+      "name": "St. Thomas-St. John",
+      "type": "constituency"
+    }
+  ]
+}

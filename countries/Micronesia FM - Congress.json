@@ -1,0 +1,1940 @@
+{
+  "posts": [
+
+  ],
+  "persons": [
+    {
+      "id": "0f7df4a8-4438-43c9-8a04-69e1322867f5",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ALIK.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ALIK.jpg"
+        }
+      ],
+      "name": "Alik L. Alik"
+    },
+    {
+      "id": "9e66ff7a-bec1-4fbf-aa71-d8fb118660ae",
+      "identifiers": [
+        {
+          "identifier": "berney_martin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Martin.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Martin.1.jpg"
+        }
+      ],
+      "name": "Berney Martin"
+    },
+    {
+      "id": "db7c5421-fe73-4605-84a5-c336f17544de",
+      "identifiers": [
+        {
+          "identifier": "bonsiano_f._nethon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/NETHON.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/NETHON.jpg"
+        }
+      ],
+      "name": "Bonsiano F. Nethon"
+    },
+    {
+      "id": "fb648ba1-5a26-4970-be9e-2d44b54951d2",
+      "identifiers": [
+        {
+          "identifier": "bonsiano_fasy_nethon",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Nethonewb.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Nethonewb.1.jpg"
+        }
+      ],
+      "name": "Bonsiano Fasy Nethon"
+    },
+    {
+      "id": "4a9f40af-e1ea-4eda-9cf9-32e7f9e39414",
+      "identifiers": [
+        {
+          "identifier": "david_w._panuelo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO%20REDO1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PANUELO%20REDO1.jpg"
+        }
+      ],
+      "name": "David W. Panuelo"
+    },
+    {
+      "id": "f3045305-0c65-4888-a986-3dd27f77a7c4",
+      "identifiers": [
+        {
+          "identifier": "dohsis_halbert",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Speaker.Halbert.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Speaker.Halbert.1.jpg"
+        }
+      ],
+      "name": "Dohsis Halbert"
+    },
+    {
+      "id": "4c95d85f-75b0-4336-8ef7-9b060d72d72e",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/MOSES.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/MOSES.jpg"
+        }
+      ],
+      "name": "Esmond B. Moses"
+    },
+    {
+      "id": "4557e685-bd2d-46fd-bdef-8fcd9f1d10f2",
+      "identifiers": [
+        {
+          "identifier": "ferny_perman",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PERMAN.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/PERMAN.jpg"
+        }
+      ],
+      "name": "Ferny Perman"
+    },
+    {
+      "id": "241de126-cb7a-4a06-9163-a0497be4f978",
+      "identifiers": [
+        {
+          "identifier": "florencio_singkoro_harper",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/FL.Harper.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/FL.Harper.1.jpg"
+        }
+      ],
+      "name": "Florencio Singkoro Harper"
+    },
+    {
+      "id": "ac119e3e-56d0-4473-8454-a6b35e0b74e0",
+      "identifiers": [
+        {
+          "identifier": "isaac_v._figir",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/FIGIR.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/FIGIR.jpg"
+        }
+      ],
+      "name": "Isaac V. Figir"
+    },
+    {
+      "birth_date": "1952-03-19",
+      "gender": "male",
+      "given_name": "Joseph",
+      "id": "443faafc-c619-4997-84b8-15d34abe7b7b",
+      "identifiers": [
+        {
+          "identifier": "joseph_j._urusemal",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/022_xk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n2005050222",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "1878927",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q435427",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/URUSEMAL.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/URUSEMAL.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Joseph_Urusemal.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جوزيف_اوروسمال"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Τζόζεφ_Ουρουσεμάλ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Urusemal"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Joseph_John_Urusemal"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joseph_Urusemal"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Joseph_John_Urusemal"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジョセフ・J・ウルセマル"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/Joseph_J._Urusemal"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Joseph_John_Urusemal"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joseph_Urusemal"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Урусемал,_Джозеф"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Joseph_J._Urusemal"
+        }
+      ],
+      "name": "Joseph J. Urusemal",
+      "other_names": [
+        {
+          "name": "Joseph Urusemal",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "جوزيف اوروسمال",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Τζόζεφ Ουρουσεμάλ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Joseph John Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Joseph John Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョセフ・J・ウルセマル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseph John Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Joseph John Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Урусемал, Джозеф",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Joseph J. Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joseph Urusemal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "约瑟夫·乌鲁塞马尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "約瑟夫·烏魯塞馬爾",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "4d5b419b-ef9c-4617-a25c-447b7441af8f",
+      "identifiers": [
+        {
+          "identifier": "paliknoa_k._welly",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/WELLY.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/WELLY.jpg"
+        }
+      ],
+      "name": "Paliknoa K. Welly"
+    },
+    {
+      "birth_date": "1947-10-16",
+      "gender": "male",
+      "given_name": "Peter",
+      "id": "ac51f588-3837-4538-8e84-19b96b1628a8",
+      "identifiers": [
+        {
+          "identifier": "peter_m._christian",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19921375",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/christianweb.2.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/christianweb.2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Peter_M._Christian.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Peter_Christian"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Πίτερ_Μ._Κρίστιαν"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Peter_Christian"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ピーター・マーティン・クリスチャン"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Petrus_Christian"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Peter_Christian"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Peter_Christian"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кристиан,_Питер"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Peter_M._Christian"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/彼得·克里斯蒂安"
+        }
+      ],
+      "name": "Peter M. Christian",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Peter Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πίτερ Μ. Κρίστιαν",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Peter Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ピーター・マーティン・クリスチャン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Petrus Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кристиан, Питер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Peter M. Christian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "彼得·克里斯蒂安",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "72cf4012-3937-42cc-94be-ad1bee186424",
+      "identifiers": [
+        {
+          "identifier": "robson_u._romolow",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg"
+        }
+      ],
+      "name": "Robson U. Romolow"
+    },
+    {
+      "id": "d8657161-2698-49b2-8b46-8f89a12eaff9",
+      "identifiers": [
+        {
+          "identifier": "roger_s._mori",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/thumbnails/Roger.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/thumbnails/Roger.jpg"
+        }
+      ],
+      "name": "Roger S. Mori"
+    },
+    {
+      "id": "9cc3f28a-6e0f-40ff-ac39-c57b4ce9da8a",
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ROMOLOW.jpg"
+        }
+      ],
+      "name": "Senator Robson U. Romolow"
+    },
+    {
+      "id": "f1a771ac-774c-4b21-b15b-30d2a479706b",
+      "identifiers": [
+        {
+          "identifier": "t.h._berney_martin",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/VS%20MARTIN.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/VS%20MARTIN.jpg"
+        }
+      ],
+      "name": "T.H. Berney Martin"
+    },
+    {
+      "id": "72476d6d-f1a4-41ff-85ab-3cc3dc23873a",
+      "identifiers": [
+        {
+          "identifier": "t.h._florencio_singkoro_harper",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/FL%20HARPER.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/FL%20HARPER.jpg"
+        }
+      ],
+      "name": "T.H. Florencio Singkoro Harper"
+    },
+    {
+      "id": "42c951c6-a746-45c7-89e2-9f19e8cf05ca",
+      "identifiers": [
+        {
+          "identifier": "t.h._wesley_w._simina",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/SPEAKER%20SIMINA.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/SPEAKER%20SIMINA.jpg"
+        }
+      ],
+      "name": "T.H. Wesley W. Simina"
+    },
+    {
+      "id": "15508f68-5f85-4b53-936a-82d9b830f189",
+      "identifiers": [
+        {
+          "identifier": "tiwiter_aritos",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ARITOS.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/ARITOS.jpg"
+        }
+      ],
+      "name": "Tiwiter Aritos"
+    },
+    {
+      "id": "64958049-0ac1-4384-a75d-efbe89312044",
+      "identifiers": [
+        {
+          "identifier": "tony_h._otto",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Otto.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Otto.1.jpg"
+        }
+      ],
+      "name": "Tony H. Otto"
+    },
+    {
+      "id": "058e299d-0e11-4de3-9b2e-b71b61228996",
+      "identifiers": [
+        {
+          "identifier": "victor_gouland",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/GOULAND.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/Official%20Pix/19CFSM%20FOTOS/GOULAND.jpg"
+        }
+      ],
+      "name": "Victor Gouland"
+    },
+    {
+      "birth_date": "1961",
+      "gender": "male",
+      "given_name": "Wesley",
+      "id": "c9232c1b-f396-4137-8c35-2eacfe759bfd",
+      "identifiers": [
+        {
+          "identifier": "wesley_w._simina",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7984081",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Simina.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/Simina.1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Wesley_Simina.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wesly_Simina"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Wesley_Simina"
+        }
+      ],
+      "name": "Wesley W. Simina",
+      "other_names": [
+        {
+          "name": "Wesly Simina",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Wesly Simina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Wesly Simina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Wesly Simina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Wesley Simina",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "98284053-7a5c-4f42-b1e4-b968461af240",
+      "identifiers": [
+        {
+          "identifier": "yosiwo_p._george",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/George.1.jpg",
+      "images": [
+        {
+          "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/George.1.jpg"
+        }
+      ],
+      "name": "Yosiwo P. George"
+    }
+  ],
+  "organizations": [
+    {
+      "classification": "legislature",
+      "id": "legislature",
+      "identifiers": [
+        {
+          "identifier": "Q1287548",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Congress",
+      "seats": 14
+    },
+    {
+      "classification": "party",
+      "id": "party/none",
+      "identifiers": [
+        {
+          "identifier": "Q327591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "none",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "无党籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans étiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "무소속",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "سياسى مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேட்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Parteiloser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "ανεξάρτητος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijk politicus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Partilös",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسي مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "político sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Бие даагч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "politician independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sitoutumaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnwr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Partiyasız",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "løsgænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨籍人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "независни политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کنشگر سیاسی مستقل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "nezavisni političar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अपक्ष",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאי עצמאי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "nezávislý",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "független politikus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sendependa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "निर्दलीय",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nezavisni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "independent politeecian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nezávislý politik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mò-tóng-sit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นักการเมืองอิสระ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Незалежний політик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sd",
+          "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Bû-tóng-che̍k",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "無黨派",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立人士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立候選人",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sans etiquette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Indépendant",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrits",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Non-inscrit",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Independientes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos cívicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidato Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura independiente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Cívico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயேச்சை",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängiger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "freier Abgeordneter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Politikus independen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "無所属議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "onafhankelijke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijloze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "partijlozen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vänstervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liberal vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Moderat vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politiska vildar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Obunden",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Politisk vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Frisinnad vilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Högervilde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "سياسيون مستقلون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sem partido",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Político independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Candidato independente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Bağımsız Politikacı",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Serbest siyasetçi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenţi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Independent",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Politicieni independenți",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Gwleidydd annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynnol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Annibynol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uden for partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Frigænger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Udenfor partierne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Uafhængig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partiløs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "candidato indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "politico indipendente",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Беспартыйны палітык",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "uavhengig",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bezpartajní",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sources": [
+      "http://www.fsmcongress.fm",
+      "http://wikidata.org/"
+    ]
+  },
+  "memberships": [
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "058e299d-0e11-4de3-9b2e-b71b61228996",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "058e299d-0e11-4de3-9b2e-b71b61228996",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "0f7df4a8-4438-43c9-8a04-69e1322867f5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "15508f68-5f85-4b53-936a-82d9b830f189",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "15508f68-5f85-4b53-936a-82d9b830f189",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "15508f68-5f85-4b53-936a-82d9b830f189",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "241de126-cb7a-4a06-9163-a0497be4f978",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "241de126-cb7a-4a06-9163-a0497be4f978",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "42c951c6-a746-45c7-89e2-9f19e8cf05ca",
+      "role": "member"
+    },
+    {
+      "area_id": "area/yap",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "443faafc-c619-4997-84b8-15d34abe7b7b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/yap",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "443faafc-c619-4997-84b8-15d34abe7b7b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/yap",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "443faafc-c619-4997-84b8-15d34abe7b7b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4557e685-bd2d-46fd-bdef-8fcd9f1d10f2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4a9f40af-e1ea-4eda-9cf9-32e7f9e39414",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4a9f40af-e1ea-4eda-9cf9-32e7f9e39414",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4a9f40af-e1ea-4eda-9cf9-32e7f9e39414",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4c95d85f-75b0-4336-8ef7-9b060d72d72e",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4d5b419b-ef9c-4617-a25c-447b7441af8f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4d5b419b-ef9c-4617-a25c-447b7441af8f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "4d5b419b-ef9c-4617-a25c-447b7441af8f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "64958049-0ac1-4384-a75d-efbe89312044",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "64958049-0ac1-4384-a75d-efbe89312044",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "72476d6d-f1a4-41ff-85ab-3cc3dc23873a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "72cf4012-3937-42cc-94be-ad1bee186424",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "98284053-7a5c-4f42-b1e4-b968461af240",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kosrae",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "98284053-7a5c-4f42-b1e4-b968461af240",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "9cc3f28a-6e0f-40ff-ac39-c57b4ce9da8a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "9e66ff7a-bec1-4fbf-aa71-d8fb118660ae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "9e66ff7a-bec1-4fbf-aa71-d8fb118660ae",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "ac119e3e-56d0-4473-8454-a6b35e0b74e0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/yap",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "ac119e3e-56d0-4473-8454-a6b35e0b74e0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/yap",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "ac119e3e-56d0-4473-8454-a6b35e0b74e0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "ac51f588-3837-4538-8e84-19b96b1628a8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "ac51f588-3837-4538-8e84-19b96b1628a8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "c9232c1b-f396-4137-8c35-2eacfe759bfd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "c9232c1b-f396-4137-8c35-2eacfe759bfd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "d8657161-2698-49b2-8b46-8f89a12eaff9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "db7c5421-fe73-4605-84a5-c336f17544de",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/19",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "f1a771ac-774c-4b21-b15b-30d2a479706b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/pohnpei",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "f3045305-0c65-4888-a986-3dd27f77a7c4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/n/a",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "f3045305-0c65-4888-a986-3dd27f77a7c4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "fb648ba1-5a26-4970-be9e-2d44b54951d2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/chuuk",
+      "legislative_period_id": "term/18",
+      "on_behalf_of_id": "party/none",
+      "organization_id": "legislature",
+      "person_id": "fb648ba1-5a26-4970-be9e-2d44b54951d2",
+      "role": "member"
+    }
+  ],
+  "events": [
+    {
+      "classification": "general election",
+      "end_date": "1979",
+      "id": "Q6839735",
+      "name": "Micronesian parliamentary election, 1979",
+      "start_date": "1979"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1981-03-03",
+      "id": "Q6839736",
+      "name": "Micronesian parliamentary election, 1981",
+      "start_date": "1981-03-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1983-03-08",
+      "id": "Q6839737",
+      "name": "Micronesian parliamentary election, 1983",
+      "start_date": "1983-03-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1985",
+      "id": "Q6839738",
+      "name": "Micronesian parliamentary election, 1985",
+      "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1987",
+      "id": "Q6839739",
+      "name": "Micronesian parliamentary election, 1987",
+      "start_date": "1987"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1989",
+      "id": "Q6839740",
+      "name": "Micronesian parliamentary election, 1989",
+      "start_date": "1989"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1991",
+      "id": "Q6839741",
+      "name": "Micronesian parliamentary election, 1991",
+      "start_date": "1991"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1993-03-02",
+      "id": "Q6839742",
+      "name": "Micronesian parliamentary election, 1993",
+      "start_date": "1993-03-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q6839745",
+      "name": "Micronesian parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1997",
+      "id": "Q6839746",
+      "name": "Micronesian parliamentary election, 1997",
+      "start_date": "1997"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999",
+      "id": "Q6839747",
+      "name": "Micronesian parliamentary election, 1999",
+      "start_date": "1999"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2001",
+      "id": "Q6839734",
+      "name": "Micronesian general election, 2001",
+      "start_date": "2001"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2003",
+      "id": "Q6839748",
+      "name": "Micronesian parliamentary election, 2003",
+      "start_date": "2003"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q6839749",
+      "name": "Micronesian parliamentary election, 2005",
+      "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007",
+      "id": "Q5799894",
+      "name": "Micronesian parliamentary election, 2007",
+      "start_date": "2007"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009",
+      "id": "Q6839750",
+      "name": "Micronesian parliamentary election, 2009",
+      "start_date": "2009"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2011",
+      "id": "Q3587150",
+      "name": "Micronesian parliamentary election, 2011",
+      "start_date": "2011"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2013-05-10",
+      "id": "term/17",
+      "name": "17th Congress",
+      "organization_id": "legislature",
+      "start_date": "2011-05-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013",
+      "id": "Q4306425",
+      "name": "Micronesian parliamentary election, 2013",
+      "start_date": "2013"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2015-05-10",
+      "id": "term/18",
+      "name": "18th Congress",
+      "organization_id": "legislature",
+      "start_date": "2013-05-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-03-03",
+      "id": "Q18922732",
+      "name": "Micronesian parliamentary election, 2015",
+      "start_date": "2015-03-03"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/19",
+      "name": "19th Congress",
+      "organization_id": "legislature",
+      "start_date": "2015-05-11"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area/chuuk",
+      "name": "Chuuk",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kosrae",
+      "name": "Kosrae",
+      "type": "constituency"
+    },
+    {
+      "id": "area/n/a",
+      "name": "n/a",
+      "type": "constituency"
+    },
+    {
+      "id": "area/pohnpei",
+      "name": "Pohnpei",
+      "type": "constituency"
+    },
+    {
+      "id": "area/yap",
+      "name": "Yap",
+      "type": "constituency"
+    }
+  ]
+}
